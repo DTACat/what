@@ -51,7 +51,12 @@
             "category_store_listing_id": "1332505369779634207",
             "banner_text_color": null,
             "disable_cta": true,
-            "wide_banner_url": "https://cdn.discordapp.com/assets/content/1a68031e600ecb954fd6ea9d28ab0c0544457623f7a2c0f2b9137569c32800e8"
+            "cta_text": null,
+            "cta_route": null,
+            "is_dismissible": false,
+            "dismissible_content_version": 0,
+            "wide_banner_url": "https://cdn.discordapp.com/assets/content/1a68031e600ecb954fd6ea9d28ab0c0544457623f7a2c0f2b9137569c32800e8",
+            "logo_url": "https://cdn.discordapp.com/assets/content/d4b40031ab758b9bdefcb2a8f68fb302dd85b4eb9f7f2d2d88c3c14d209cdb83"
         },
         {
             "type": 2,
