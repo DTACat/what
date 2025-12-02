@@ -63,6 +63,19 @@
             ]
         },
         {
+            "type": 3,
+            "title": "Buy it on Discord. Get it in game.",
+            "body": "Gear up for your next match with Marvel Rivals cosmetics, now available right from Discord.",
+            "banner_text_color": "#F2F3F5",
+            "disable_cta": false,
+            "cta_text": "Take me there",
+            "cta_route": "/channels/1193841000108531764/game-shop/0",
+            "is_dismissible": true,
+            "dismissible_content_version": 1,
+            "wide_banner_url": "https://cdn.discordapp.com/assets/content/73de7b8ed3b2a908dab3481be1daf6bb90c7c5afaf57946597347c4776db2c93.png",
+            "logo_url": "https://cdn.discordapp.com/assets/content/02fee13a1e0e1768d4befb5393dde06542b930c9473a1ee0975890f2667523c7.png"
+        },
+        {
             "type": 4,
             "category_sku_id": "1332505418219655258",
             "name": "Discord Orbs Exclusives",
