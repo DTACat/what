@@ -6224,17 +6224,6 @@
                     },
                     "items": [
                         {
-                            "type": 0,
-                            "id": "1420045363104055416",
-                            "sku_id": "1420045363087151175",
-                            "asset": "a_fc02e20ceb188461d1944825d2b3bfb3",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/assets/content/edb40c213f30a252ca1ab7b5b6a640a2ce538c16ea9d135596c4252b7bf6f8f6",
-                                "animated_image_url": "https://cdn.discordapp.com/assets/content/fba9b0fe40615b03a77ec440741798b0637ab86667a9bfa9a58ca026ff49bba1"
-                            },
-                            "label": "Orange and yellow autumn leaves woven in a circular wreath."
-                        },
-                        {
                             "type": 1,
                             "id": "1420045363276021802",
                             "sku_id": "1420045363254919208",
@@ -6289,55 +6278,23 @@
                             },
                             "label": "Orange and yellow autumn leaves drifting to the breeze.",
                             "palette": "cobalt"
+                        },
+                        {
+                            "type": 0,
+                            "id": "1420045363104055416",
+                            "sku_id": "1420045363087151175",
+                            "asset": "a_fc02e20ceb188461d1944825d2b3bfb3",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/assets/content/edb40c213f30a252ca1ab7b5b6a640a2ce538c16ea9d135596c4252b7bf6f8f6",
+                                "animated_image_url": "https://cdn.discordapp.com/assets/content/fba9b0fe40615b03a77ec440741798b0637ab86667a9bfa9a58ca026ff49bba1"
+                            },
+                            "label": "Orange and yellow autumn leaves woven in a circular wreath."
                         }
                     ],
                     "type": 1000,
                     "premium_type": 0,
                     "category_sku_id": "1420045363351654441",
                     "bundled_products": [
-                        {
-                            "sku_id": "1420045363087151175",
-                            "name": "Autumn Foliage",
-                            "summary": "Give your avatar a new look.",
-                            "type": 0,
-                            "premium_type": 0,
-                            "prices": {
-                                "0": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 599,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                },
-                                "4": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 499,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                }
-                            }
-                        },
                         {
                             "sku_id": "1420045363254919208",
                             "name": "Maple Mornings",
@@ -6386,6 +6343,49 @@
                             "name": "Autumn Breeze",
                             "summary": "Make your name stand out in servers and chats.",
                             "type": 2,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "sku_id": "1420045363087151175",
+                            "name": "Autumn Foliage",
+                            "summary": "Give your avatar a new look.",
+                            "type": 0,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
@@ -58346,17 +58346,6 @@
                     },
                     "items": [
                         {
-                            "type": 0,
-                            "id": "1329609528538566698",
-                            "sku_id": "1329609528525979658",
-                            "asset": "a_d859cee893cffd5dd0fa17a6caea44e0",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/assets/content/857f887ea0c93ac594c526defce27aa3887e7ce27e37a094ab41ea6d71006a05",
-                                "animated_image_url": "https://cdn.discordapp.com/assets/content/c5558a66e63befe041dd8da08a842786b78564bac7607718cdc3e60024b55051"
-                            },
-                            "label": "A red snake in lunar year colors coils gracefully around your avatar for a scaly hug."
-                        },
-                        {
                             "type": 1,
                             "id": "1329611507398610955",
                             "sku_id": "1329611507381829702",
@@ -58398,6 +58387,17 @@
                                     "randomizedSources": []
                                 }
                             ]
+                        },
+                        {
+                            "type": 0,
+                            "id": "1329609528538566698",
+                            "sku_id": "1329609528525979658",
+                            "asset": "a_d859cee893cffd5dd0fa17a6caea44e0",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/assets/content/857f887ea0c93ac594c526defce27aa3887e7ce27e37a094ab41ea6d71006a05",
+                                "animated_image_url": "https://cdn.discordapp.com/assets/content/c5558a66e63befe041dd8da08a842786b78564bac7607718cdc3e60024b55051"
+                            },
+                            "label": "A red snake in lunar year colors coils gracefully around your avatar for a scaly hug."
                         }
                     ],
                     "type": 1000,
@@ -58405,10 +58405,10 @@
                     "category_sku_id": "1202069709281828935",
                     "bundled_products": [
                         {
-                            "sku_id": "1329609528525979658",
-                            "name": "Snake's Hug",
-                            "summary": "Give your avatar a new look.",
-                            "type": 0,
+                            "sku_id": "1329611507381829702",
+                            "name": "Twist of Luck",
+                            "summary": "Show this effect when others view your profile.",
+                            "type": 1,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
@@ -58448,10 +58448,10 @@
                             }
                         },
                         {
-                            "sku_id": "1329611507381829702",
-                            "name": "Twist of Luck",
-                            "summary": "Show this effect when others view your profile.",
-                            "type": 1,
+                            "sku_id": "1329609528525979658",
+                            "name": "Snake's Hug",
+                            "summary": "Give your avatar a new look.",
+                            "type": 0,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
@@ -61929,17 +61929,6 @@
                     },
                     "items": [
                         {
-                            "type": 0,
-                            "id": "1324454240852119642",
-                            "sku_id": "1324454240839663708",
-                            "asset": "a_f438bb9b2f25ac55058fc169ecc8096e",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/assets/content/512a1f2b9e8cf3e299ec19f77e36b2c787a86db300c7d71c0624189513e9f396",
-                                "animated_image_url": "https://cdn.discordapp.com/assets/content/6e32d3b9b81ad9e42f9b1ccec665b8266256ada497b95b16f19e069be26f5f13"
-                            },
-                            "label": "Three glowing pink fairy sprites flutter energetically around your avatar. Each flap of their tiny wings emits a sprinkle of sparkles."
-                        },
-                        {
                             "type": 1,
                             "id": "1324454241112166448",
                             "sku_id": "1324454241095647351",
@@ -61997,6 +61986,17 @@
                                     "randomizedSources": []
                                 }
                             ]
+                        },
+                        {
+                            "type": 0,
+                            "id": "1324454240852119642",
+                            "sku_id": "1324454240839663708",
+                            "asset": "a_f438bb9b2f25ac55058fc169ecc8096e",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/assets/content/512a1f2b9e8cf3e299ec19f77e36b2c787a86db300c7d71c0624189513e9f396",
+                                "animated_image_url": "https://cdn.discordapp.com/assets/content/6e32d3b9b81ad9e42f9b1ccec665b8266256ada497b95b16f19e069be26f5f13"
+                            },
+                            "label": "Three glowing pink fairy sprites flutter energetically around your avatar. Each flap of their tiny wings emits a sprinkle of sparkles."
                         }
                     ],
                     "type": 1000,
@@ -62004,10 +62004,10 @@
                     "category_sku_id": "1324454241254903829",
                     "bundled_products": [
                         {
-                            "sku_id": "1324454240839663708",
-                            "name": "Fairy Sprites (Pink)",
-                            "summary": "Give your avatar a new look.",
-                            "type": 0,
+                            "sku_id": "1324454241095647351",
+                            "name": "Enchanted Forest",
+                            "summary": "Show this effect when others view your profile.",
+                            "type": 1,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
@@ -62047,10 +62047,10 @@
                             }
                         },
                         {
-                            "sku_id": "1324454241095647351",
-                            "name": "Enchanted Forest",
-                            "summary": "Show this effect when others view your profile.",
-                            "type": 1,
+                            "sku_id": "1324454240839663708",
+                            "name": "Fairy Sprites (Pink)",
+                            "summary": "Give your avatar a new look.",
+                            "type": 0,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
@@ -70082,17 +70082,6 @@
                     },
                     "items": [
                         {
-                            "type": 0,
-                            "id": "1313682954589044736",
-                            "sku_id": "1309668861620260874",
-                            "asset": "a_60cb281fac6d8f558efaf6dd9fe4dbe4",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/assets/content/452b195a0b81f7f7d5924e50b5651a99a64448fd59c2783e97ff23057cd7ea19",
-                                "animated_image_url": "https://cdn.discordapp.com/assets/content/5df29ec84f74720ccb5f2695b2f4f22ebc8db9fd0f2e21dbc18be4bfd2e9d1ad"
-                            },
-                            "label": "The avatar wears Lofi Girl's signature red scarf while listening to lofi music playing from lofi-branded headphones, mastering the 'chill and cozy' look."
-                        },
-                        {
                             "type": 1,
                             "id": "1309668861838233681",
                             "sku_id": "1309668861817393263",
@@ -70149,6 +70138,17 @@
                                     "randomizedSources": []
                                 }
                             ]
+                        },
+                        {
+                            "type": 0,
+                            "id": "1313682954589044736",
+                            "sku_id": "1309668861620260874",
+                            "asset": "a_60cb281fac6d8f558efaf6dd9fe4dbe4",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/assets/content/452b195a0b81f7f7d5924e50b5651a99a64448fd59c2783e97ff23057cd7ea19",
+                                "animated_image_url": "https://cdn.discordapp.com/assets/content/5df29ec84f74720ccb5f2695b2f4f22ebc8db9fd0f2e21dbc18be4bfd2e9d1ad"
+                            },
+                            "label": "The avatar wears Lofi Girl's signature red scarf while listening to lofi music playing from lofi-branded headphones, mastering the 'chill and cozy' look."
                         }
                     ],
                     "type": 1000,
@@ -70156,10 +70156,10 @@
                     "category_sku_id": "1309668861943218229",
                     "bundled_products": [
                         {
-                            "sku_id": "1309668861620260874",
-                            "name": "Lofi Girl Outfit",
-                            "summary": "Embrace your inner Lofi Girl.",
-                            "type": 0,
+                            "sku_id": "1309668861817393263",
+                            "name": "Lofi Girl Snow Angel",
+                            "summary": "Childhood memories...",
+                            "type": 1,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
@@ -70189,10 +70189,10 @@
                             }
                         },
                         {
-                            "sku_id": "1309668861817393263",
-                            "name": "Lofi Girl Snow Angel",
-                            "summary": "Childhood memories...",
-                            "type": 1,
+                            "sku_id": "1309668861620260874",
+                            "name": "Lofi Girl Outfit",
+                            "summary": "Embrace your inner Lofi Girl.",
+                            "type": 0,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
