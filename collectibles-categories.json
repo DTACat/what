@@ -17183,6 +17183,17 @@
                     },
                     "items": [
                         {
+                            "type": 0,
+                            "id": "1400163655185596456",
+                            "sku_id": "1400163655164887110",
+                            "asset": "a_4cb3f6e0d7869b30b2ed561dd205e7f8",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/assets/content/9d9e3bab9a07ea90b71dea5fab0decb21f3544c37f7e3fe290bd82a37e594ea6",
+                                "animated_image_url": "https://cdn.discordapp.com/assets/content/5ccae31bebf0af430f82fec4ea820665864940c313ab80026c06622164976e48"
+                            },
+                            "label": "Gomah with demon horns glowing and cape swaying."
+                        },
+                        {
                             "type": 1,
                             "id": "1400163655542378736",
                             "sku_id": "1400163655521402930",
@@ -17224,17 +17235,6 @@
                                     "randomizedSources": []
                                 }
                             ]
-                        },
-                        {
-                            "type": 0,
-                            "id": "1400163655185596456",
-                            "sku_id": "1400163655164887110",
-                            "asset": "a_4cb3f6e0d7869b30b2ed561dd205e7f8",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/assets/content/9d9e3bab9a07ea90b71dea5fab0decb21f3544c37f7e3fe290bd82a37e594ea6",
-                                "animated_image_url": "https://cdn.discordapp.com/assets/content/5ccae31bebf0af430f82fec4ea820665864940c313ab80026c06622164976e48"
-                            },
-                            "label": "Gomah with demon horns glowing and cape swaying."
                         }
                     ],
                     "type": 1000,
@@ -17242,10 +17242,10 @@
                     "category_sku_id": "1400163655689043998",
                     "bundled_products": [
                         {
-                            "sku_id": "1400163655521402930",
+                            "sku_id": "1400163655164887110",
                             "name": "Gomah",
-                            "summary": "Show this effect when others view your profile.",
-                            "type": 1,
+                            "summary": "Give your avatar a new look.",
+                            "type": 0,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
@@ -17275,10 +17275,10 @@
                             }
                         },
                         {
-                            "sku_id": "1400163655164887110",
+                            "sku_id": "1400163655521402930",
                             "name": "Gomah",
-                            "summary": "Give your avatar a new look.",
-                            "type": 0,
+                            "summary": "Show this effect when others view your profile.",
+                            "type": 1,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
