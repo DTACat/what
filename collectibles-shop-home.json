@@ -2541,6 +2541,17 @@
                     },
                     "items": [
                         {
+                            "type": 0,
+                            "id": "1432550258918821908",
+                            "sku_id": "1432550258306711675",
+                            "asset": "a_1fe04bd32b70263448ebb1d8ad7d7c84",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/assets/content/0398cc7d89dc8f7be0d8e1dc5c2d93e158964a902d90d5b67f2ec430542ab582",
+                                "animated_image_url": "https://cdn.discordapp.com/assets/content/12a1f41b585994939b2f1b79b168ad0bac615d46d405b4e3a228aa9dbc72d33b"
+                            },
+                            "label": "White star constellations decorate the avatar, inviting profile admirers for a fun session of stargazing."
+                        },
+                        {
                             "type": 1,
                             "id": "1432550259099439125",
                             "sku_id": "1432550258403180644",
@@ -2582,17 +2593,6 @@
                                     "randomizedSources": []
                                 }
                             ]
-                        },
-                        {
-                            "type": 0,
-                            "id": "1432550258918821908",
-                            "sku_id": "1432550258306711675",
-                            "asset": "a_1fe04bd32b70263448ebb1d8ad7d7c84",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/assets/content/0398cc7d89dc8f7be0d8e1dc5c2d93e158964a902d90d5b67f2ec430542ab582",
-                                "animated_image_url": "https://cdn.discordapp.com/assets/content/12a1f41b585994939b2f1b79b168ad0bac615d46d405b4e3a228aa9dbc72d33b"
-                            },
-                            "label": "White star constellations decorate the avatar, inviting profile admirers for a fun session of stargazing."
                         }
                     ],
                     "type": 1000,
@@ -2600,10 +2600,10 @@
                     "category_sku_id": "1432550259221073972",
                     "bundled_products": [
                         {
-                            "sku_id": "1432550258403180644",
-                            "name": "Star Swirl (Dusk)",
-                            "summary": "Show this effect when others view your profile.",
-                            "type": 1,
+                            "sku_id": "1432550258306711675",
+                            "name": "Constellations (Dusk)",
+                            "summary": "Give your avatar a new look.",
+                            "type": 0,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
@@ -2643,10 +2643,10 @@
                             }
                         },
                         {
-                            "sku_id": "1432550258306711675",
-                            "name": "Constellations (Dusk)",
-                            "summary": "Give your avatar a new look.",
-                            "type": 0,
+                            "sku_id": "1432550258403180644",
+                            "name": "Star Swirl (Dusk)",
+                            "summary": "Show this effect when others view your profile.",
+                            "type": 1,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
