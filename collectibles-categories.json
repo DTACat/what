@@ -4420,30 +4420,6 @@
                     },
                     "items": [
                         {
-                            "type": 0,
-                            "id": "1437881614112919573",
-                            "sku_id": "1437881614087618601",
-                            "asset": "a_619709245f183104d9a4021a9b923146",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/assets/content/349aadba43c5ff0287d3360509e8ebc5f2d2ef231f4f443c767d7f02822a9171",
-                                "animated_image_url": "https://cdn.discordapp.com/assets/content/2e6dd8ea3e0a14cff363c4a99bcc2deaaa13777b6b7f5a92ea8d7aeefc006366"
-                            },
-                            "label": "Cyan digital grid lines forming a geometric window frame."
-                        },
-                        {
-                            "type": 2,
-                            "id": "1437881614226035000",
-                            "sku_id": "1437881614205194352",
-                            "asset": "nameplates/peanut/encom_grid/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/assets/content/2d1db65f49cd5bd6c07b06868262c5a4b38eb83df9d6cf0cac7bbf79a746901f",
-                                "animated_image_url": "https://cdn.discordapp.com/assets/content/f2a3dcb6d69c999432c558e46dae090cf7e5e6470a17e841fe9ef33f6c94c9c6",
-                                "video_url": "https://cdn.discordapp.com/assets/content/28b0160ea59fa634890e057c74eef15f72aaf118a0fbcfd4fd146e1315731795"
-                            },
-                            "label": "Cyan digital grid pattern with geometric lines.",
-                            "palette": "sky"
-                        },
-                        {
                             "type": 1,
                             "id": "1437881614255394978",
                             "sku_id": "1437881614242938900",
@@ -4485,12 +4461,69 @@
                                     "randomizedSources": []
                                 }
                             ]
+                        },
+                        {
+                            "type": 0,
+                            "id": "1437881614112919573",
+                            "sku_id": "1437881614087618601",
+                            "asset": "a_619709245f183104d9a4021a9b923146",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/assets/content/349aadba43c5ff0287d3360509e8ebc5f2d2ef231f4f443c767d7f02822a9171",
+                                "animated_image_url": "https://cdn.discordapp.com/assets/content/2e6dd8ea3e0a14cff363c4a99bcc2deaaa13777b6b7f5a92ea8d7aeefc006366"
+                            },
+                            "label": "Cyan digital grid lines forming a geometric window frame."
+                        },
+                        {
+                            "type": 2,
+                            "id": "1437881614226035000",
+                            "sku_id": "1437881614205194352",
+                            "asset": "nameplates/peanut/encom_grid/",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/assets/content/2d1db65f49cd5bd6c07b06868262c5a4b38eb83df9d6cf0cac7bbf79a746901f",
+                                "animated_image_url": "https://cdn.discordapp.com/assets/content/f2a3dcb6d69c999432c558e46dae090cf7e5e6470a17e841fe9ef33f6c94c9c6",
+                                "video_url": "https://cdn.discordapp.com/assets/content/28b0160ea59fa634890e057c74eef15f72aaf118a0fbcfd4fd146e1315731795"
+                            },
+                            "label": "Cyan digital grid pattern with geometric lines.",
+                            "palette": "sky"
                         }
                     ],
                     "type": 1000,
                     "premium_type": 0,
                     "category_sku_id": "1437881614322499796",
                     "bundled_products": [
+                        {
+                            "sku_id": "1437881614242938900",
+                            "name": "Encom Grid",
+                            "summary": "Show this effect when others view your profile.",
+                            "type": 1,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 799,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
                         {
                             "sku_id": "1437881614087618601",
                             "name": "Encom Grid",
@@ -4529,39 +4562,6 @@
                             "name": "Encom Grid",
                             "summary": "Make your name stand out in servers and chats.",
                             "type": 2,
-                            "premium_type": 0,
-                            "prices": {
-                                "0": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 799,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            }
-                                        ]
-                                    }
-                                },
-                                "4": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 599,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            }
-                                        ]
-                                    }
-                                }
-                            }
-                        },
-                        {
-                            "sku_id": "1437881614242938900",
-                            "name": "Encom Grid",
-                            "summary": "Show this effect when others view your profile.",
-                            "type": 1,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
