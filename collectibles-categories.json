@@ -97646,6 +97646,17 @@
                     },
                     "items": [
                         {
+                            "type": 0,
+                            "id": "1217626041456001146",
+                            "sku_id": "1217626024540508170",
+                            "asset": "a_4cd9ae5a8d103c219eacd3674d7730cd",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/assets/content/213ec6e9142f600ba9dd5093dc37b3e155d43206707d28345a73ce6e51bb0201",
+                                "animated_image_url": "https://cdn.discordapp.com/assets/content/71d7d2c6f0f751e6dbe0ea5be06116be2fd15f59e8847f96a94d93dea5ce95e3"
+                            },
+                            "label": "Two butterflies flutter around the avatar, eager to adventure with you to the nearest garden."
+                        },
+                        {
                             "type": 1,
                             "id": "1217626513940283392",
                             "sku_id": "1217626509737459852",
@@ -97703,17 +97714,6 @@
                                     "randomizedSources": []
                                 }
                             ]
-                        },
-                        {
-                            "type": 0,
-                            "id": "1217626041456001146",
-                            "sku_id": "1217626024540508170",
-                            "asset": "a_4cd9ae5a8d103c219eacd3674d7730cd",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/assets/content/213ec6e9142f600ba9dd5093dc37b3e155d43206707d28345a73ce6e51bb0201",
-                                "animated_image_url": "https://cdn.discordapp.com/assets/content/71d7d2c6f0f751e6dbe0ea5be06116be2fd15f59e8847f96a94d93dea5ce95e3"
-                            },
-                            "label": "Two butterflies flutter around the avatar, eager to adventure with you to the nearest garden."
                         }
                     ],
                     "type": 1000,
@@ -97721,10 +97721,10 @@
                     "category_sku_id": "1217622942175727736",
                     "bundled_products": [
                         {
-                            "sku_id": "1217626509737459852",
-                            "name": "Petal Serenade",
-                            "summary": "Show this effect when others view your profile.",
-                            "type": 1,
+                            "sku_id": "1217626024540508170",
+                            "name": "Butterflies",
+                            "summary": "Give your avatar a new look.",
+                            "type": 0,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
@@ -97764,10 +97764,10 @@
                             }
                         },
                         {
-                            "sku_id": "1217626024540508170",
-                            "name": "Butterflies",
-                            "summary": "Give your avatar a new look.",
-                            "type": 0,
+                            "sku_id": "1217626509737459852",
+                            "name": "Petal Serenade",
+                            "summary": "Show this effect when others view your profile.",
+                            "type": 1,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
