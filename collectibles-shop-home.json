@@ -61,16 +61,6 @@
             "subblocks": [
                 {
                     "type": 0,
-                    "category_store_listing_id": "1314020997195763753",
-                    "name": "Winter Wonderland",
-                    "unpublished_at": null,
-                    "banner_url": "https://cdn.discordapp.com/app-assets/1096190356233670716/1314020997271388202.png?size=1280",
-                    "body_text": null,
-                    "banner_text_color": null,
-                    "asset_url": "https://cdn.discordapp.com/assets/content/d7b0be5bb40ec7fc9529cc837028dd491ac807ef429daff33804166b047b95f6"
-                },
-                {
-                    "type": 0,
                     "category_store_listing_id": "1437881614314242240",
                     "name": "TRON",
                     "unpublished_at": null,
@@ -78,6 +68,16 @@
                     "body_text": null,
                     "banner_text_color": null,
                     "asset_url": "https://cdn.discordapp.com/assets/content/4d61635a596958e7d88a102576e0e6f5daca57e304def97d95942d3fe958505d"
+                },
+                {
+                    "type": 0,
+                    "category_store_listing_id": "1314020997195763753",
+                    "name": "Winter Wonderland",
+                    "unpublished_at": null,
+                    "banner_url": "https://cdn.discordapp.com/app-assets/1096190356233670716/1314020997271388202.png?size=1280",
+                    "body_text": null,
+                    "banner_text_color": null,
+                    "asset_url": "https://cdn.discordapp.com/assets/content/d7b0be5bb40ec7fc9529cc837028dd491ac807ef429daff33804166b047b95f6"
                 }
             ]
         },
