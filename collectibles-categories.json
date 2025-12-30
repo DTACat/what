@@ -8930,19 +8930,6 @@
                             "label": "Large glowing blue and white spherical cursed energy technique with Satoru's hand reaching outward."
                         },
                         {
-                            "type": 2,
-                            "id": "1428438925059559548",
-                            "sku_id": "1428438925046714408",
-                            "asset": "nameplates/plastic/satoru_gojo/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/assets/content/a325058b82ad601e77865e1deb92f7fa6d8049ba8d924442f93c4176d2635d7a",
-                                "animated_image_url": "https://cdn.discordapp.com/assets/content/6af8c0fbe6800e9af27267618fc3ca59638d5ce38cb0603911880c35a3f1b83a",
-                                "video_url": "https://cdn.discordapp.com/assets/content/97d86485f812ba7758f0fde9320a9c27d62a8b1692c3dfa87eb66d8fb8f4ef6d"
-                            },
-                            "label": "Satoru Gojo's glowing blue eye and hand gesture with white spherical cursed energy surrounding the blue nameplate",
-                            "palette": "cobalt"
-                        },
-                        {
                             "type": 1,
                             "id": "1428438924975673514",
                             "sku_id": "1428438924962959421",
@@ -8984,6 +8971,19 @@
                                     "randomizedSources": []
                                 }
                             ]
+                        },
+                        {
+                            "type": 2,
+                            "id": "1428438925059559548",
+                            "sku_id": "1428438925046714408",
+                            "asset": "nameplates/plastic/satoru_gojo/",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/assets/content/a325058b82ad601e77865e1deb92f7fa6d8049ba8d924442f93c4176d2635d7a",
+                                "animated_image_url": "https://cdn.discordapp.com/assets/content/6af8c0fbe6800e9af27267618fc3ca59638d5ce38cb0603911880c35a3f1b83a",
+                                "video_url": "https://cdn.discordapp.com/assets/content/97d86485f812ba7758f0fde9320a9c27d62a8b1692c3dfa87eb66d8fb8f4ef6d"
+                            },
+                            "label": "Satoru Gojo's glowing blue eye and hand gesture with white spherical cursed energy surrounding the blue nameplate",
+                            "palette": "cobalt"
                         }
                     ],
                     "type": 1000,
@@ -9024,10 +9024,10 @@
                             }
                         },
                         {
-                            "sku_id": "1428438925046714408",
-                            "name": "Satoru Gojo",
-                            "summary": "Make your name stand out in servers and chats.",
-                            "type": 2,
+                            "sku_id": "1428438924962959421",
+                            "name": "Unlimited Void",
+                            "summary": "Show this effect when others view your profile.",
+                            "type": 1,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
@@ -9057,10 +9057,10 @@
                             }
                         },
                         {
-                            "sku_id": "1428438924962959421",
-                            "name": "Unlimited Void",
-                            "summary": "Show this effect when others view your profile.",
-                            "type": 1,
+                            "sku_id": "1428438925046714408",
+                            "name": "Satoru Gojo",
+                            "summary": "Make your name stand out in servers and chats.",
+                            "type": 2,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
@@ -37312,6 +37312,17 @@
                     },
                     "items": [
                         {
+                            "type": 0,
+                            "id": "1373015260369260656",
+                            "sku_id": "1373015260356935744",
+                            "asset": "a_218a429c396bd5c924d70c0c1358db39",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/assets/content/a1860072c046fd11707139528ebef9f2559c35443a735b6d105ba43c7f12af8b",
+                                "animated_image_url": "https://cdn.discordapp.com/assets/content/33034f8f44dc5f1f8351cb5f18a367409a6bff286170bddbdbd71f45fca33cd3"
+                            },
+                            "label": "Your avatar wears Deku's mask."
+                        },
+                        {
                             "type": 1,
                             "id": "1373015260541227128",
                             "sku_id": "1373015260528902205",
@@ -37353,17 +37364,6 @@
                                     "randomizedSources": []
                                 }
                             ]
-                        },
-                        {
-                            "type": 0,
-                            "id": "1373015260369260656",
-                            "sku_id": "1373015260356935744",
-                            "asset": "a_218a429c396bd5c924d70c0c1358db39",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/assets/content/a1860072c046fd11707139528ebef9f2559c35443a735b6d105ba43c7f12af8b",
-                                "animated_image_url": "https://cdn.discordapp.com/assets/content/33034f8f44dc5f1f8351cb5f18a367409a6bff286170bddbdbd71f45fca33cd3"
-                            },
-                            "label": "Your avatar wears Deku's mask."
                         }
                     ],
                     "type": 1000,
@@ -37371,10 +37371,10 @@
                     "category_sku_id": "1373015260595884082",
                     "bundled_products": [
                         {
-                            "sku_id": "1373015260528902205",
-                            "name": "Full Cowling",
-                            "summary": "Izuku Midoriya's Ultimate Move.",
-                            "type": 1,
+                            "sku_id": "1373015260356935744",
+                            "name": "Izuku Midoriya",
+                            "summary": "Quirk: One For All",
+                            "type": 0,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
@@ -37404,10 +37404,10 @@
                             }
                         },
                         {
-                            "sku_id": "1373015260356935744",
-                            "name": "Izuku Midoriya",
-                            "summary": "Quirk: One For All",
-                            "type": 0,
+                            "sku_id": "1373015260528902205",
+                            "name": "Full Cowling",
+                            "summary": "Izuku Midoriya's Ultimate Move.",
+                            "type": 1,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
@@ -41034,6 +41034,17 @@
                     },
                     "items": [
                         {
+                            "type": 0,
+                            "id": "1365410895999537292",
+                            "sku_id": "1365410895903330414",
+                            "asset": "a_e90a90b63d6ea4d40283bbc19b98a153",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/assets/content/3ce8c884cf94690afe11b88837e2db81eeca24e3f7d12ded07404594fac86434",
+                                "animated_image_url": "https://cdn.discordapp.com/assets/content/a15122d0f2fcd2e3873474e17a6b698f83eaeea362996b8897d5c378f9ebeb3e"
+                            },
+                            "label": "A blue and red lightsaber spar with each other, casting glows with every clash."
+                        },
+                        {
                             "type": 1,
                             "id": "1365410896146333727",
                             "sku_id": "1365410895928234155",
@@ -41075,17 +41086,6 @@
                                     "randomizedSources": []
                                 }
                             ]
-                        },
-                        {
-                            "type": 0,
-                            "id": "1365410895999537292",
-                            "sku_id": "1365410895903330414",
-                            "asset": "a_e90a90b63d6ea4d40283bbc19b98a153",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/assets/content/3ce8c884cf94690afe11b88837e2db81eeca24e3f7d12ded07404594fac86434",
-                                "animated_image_url": "https://cdn.discordapp.com/assets/content/a15122d0f2fcd2e3873474e17a6b698f83eaeea362996b8897d5c378f9ebeb3e"
-                            },
-                            "label": "A blue and red lightsaber spar with each other, casting glows with every clash."
                         }
                     ],
                     "type": 1000,
@@ -41093,10 +41093,10 @@
                     "category_sku_id": "1365410896222097539",
                     "bundled_products": [
                         {
-                            "sku_id": "1365410895928234155",
-                            "name": "Lightsaber Mastery (Blue)",
-                            "summary": "See the attacks, before they happen.",
-                            "type": 1,
+                            "sku_id": "1365410895903330414",
+                            "name": "Lightsabers (Blue and Red)",
+                            "summary": "Which side do you stand on?",
+                            "type": 0,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
@@ -41126,10 +41126,10 @@
                             }
                         },
                         {
-                            "sku_id": "1365410895903330414",
-                            "name": "Lightsabers (Blue and Red)",
-                            "summary": "Which side do you stand on?",
-                            "type": 0,
+                            "sku_id": "1365410895928234155",
+                            "name": "Lightsaber Mastery (Blue)",
+                            "summary": "See the attacks, before they happen.",
+                            "type": 1,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
@@ -59503,6 +59503,17 @@
                     },
                     "items": [
                         {
+                            "type": 0,
+                            "id": "1333866045361885296",
+                            "sku_id": "1333866045345366136",
+                            "asset": "a_06cb5a74ff1bf68e72c013d31270ed7b",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/assets/content/fda86162e8dcc457232e759d3cdf25b8187f520512c2dff73421b33056d0c5be",
+                                "animated_image_url": "https://cdn.discordapp.com/assets/content/03be559e0cf62f44b071c8b5902be4d12c39b8112388d1507d26c5e8617e2e45"
+                            },
+                            "label": "Blue roses frame your avatar, occasionally shedding petals that gently flutter like confetti."
+                        },
+                        {
                             "type": 1,
                             "id": "1333866045462548621",
                             "sku_id": "1333866045450223740",
@@ -59559,17 +59570,6 @@
                                     "randomizedSources": []
                                 }
                             ]
-                        },
-                        {
-                            "type": 0,
-                            "id": "1333866045361885296",
-                            "sku_id": "1333866045345366136",
-                            "asset": "a_06cb5a74ff1bf68e72c013d31270ed7b",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/assets/content/fda86162e8dcc457232e759d3cdf25b8187f520512c2dff73421b33056d0c5be",
-                                "animated_image_url": "https://cdn.discordapp.com/assets/content/03be559e0cf62f44b071c8b5902be4d12c39b8112388d1507d26c5e8617e2e45"
-                            },
-                            "label": "Blue roses frame your avatar, occasionally shedding petals that gently flutter like confetti."
                         }
                     ],
                     "type": 1000,
@@ -59577,10 +59577,10 @@
                     "category_sku_id": "1333866045521395723",
                     "bundled_products": [
                         {
-                            "sku_id": "1333866045450223740",
-                            "name": "Roses Galore (Blue)",
-                            "summary": "Show this effect when others view your profile.",
-                            "type": 1,
+                            "sku_id": "1333866045345366136",
+                            "name": "Ring of Roses (Blue)",
+                            "summary": "Give your avatar a new look.",
+                            "type": 0,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
@@ -59620,10 +59620,10 @@
                             }
                         },
                         {
-                            "sku_id": "1333866045345366136",
-                            "name": "Ring of Roses (Blue)",
-                            "summary": "Give your avatar a new look.",
-                            "type": 0,
+                            "sku_id": "1333866045450223740",
+                            "name": "Roses Galore (Blue)",
+                            "summary": "Show this effect when others view your profile.",
+                            "type": 1,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
@@ -71490,6 +71490,17 @@
                     },
                     "items": [
                         {
+                            "type": 0,
+                            "id": "1174460802946834503",
+                            "sku_id": "1174460780842856588",
+                            "asset": "a_88f42fb7360d8224a670a50c3496f315",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/assets/content/12ece0b2693e39d2e6c59a10a3d1f4bfe72b4b404d5b2962c888bb970e2b50d8",
+                                "animated_image_url": "https://cdn.discordapp.com/assets/content/278c207af87bfbae9c2f958b703aa989101c428c35bb729d415d708daf9298c3"
+                            },
+                            "label": "Festive string lights wrap around the profile photo, twinkling into the night."
+                        },
+                        {
                             "type": 1,
                             "id": "1146328960481886318",
                             "sku_id": "1146328960951668776",
@@ -71532,17 +71543,6 @@
                                     "randomizedSources": []
                                 }
                             ]
-                        },
-                        {
-                            "type": 0,
-                            "id": "1174460802946834503",
-                            "sku_id": "1174460780842856588",
-                            "asset": "a_88f42fb7360d8224a670a50c3496f315",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/assets/content/12ece0b2693e39d2e6c59a10a3d1f4bfe72b4b404d5b2962c888bb970e2b50d8",
-                                "animated_image_url": "https://cdn.discordapp.com/assets/content/278c207af87bfbae9c2f958b703aa989101c428c35bb729d415d708daf9298c3"
-                            },
-                            "label": "Festive string lights wrap around the profile photo, twinkling into the night."
                         }
                     ],
                     "type": 1000,
@@ -71550,10 +71550,10 @@
                     "category_sku_id": "1314020997204283476",
                     "bundled_products": [
                         {
-                            "sku_id": "1146328960951668776",
-                            "name": "Deck the halls",
-                            "summary": "Show this effect when others view your profile.",
-                            "type": 1,
+                            "sku_id": "1174460780842856588",
+                            "name": "String Lights",
+                            "summary": "Give your avatar a new look.",
+                            "type": 0,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
@@ -71593,10 +71593,10 @@
                             }
                         },
                         {
-                            "sku_id": "1174460780842856588",
-                            "name": "String Lights",
-                            "summary": "Give your avatar a new look.",
-                            "type": 0,
+                            "sku_id": "1146328960951668776",
+                            "name": "Deck the halls",
+                            "summary": "Show this effect when others view your profile.",
+                            "type": 1,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
@@ -86819,6 +86819,17 @@
                     },
                     "items": [
                         {
+                            "type": 0,
+                            "id": "1282820582357995644",
+                            "sku_id": "1282820582345408595",
+                            "asset": "a_bc63175fe462d8748b68ea5179249418",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/assets/content/005e8547f1b7b431c2ff202d59d38a5f23151fac34a25933d53909023460780a",
+                                "animated_image_url": "https://cdn.discordapp.com/assets/content/7781da9e568bc3884af9ffa9dfdd852cfed954693e18fd587e685e65e36f6024"
+                            },
+                            "label": "Scarlet autumn leaves and acorns decorate the avatar. You can practically smell the acorns dangling above. Fall is here."
+                        },
+                        {
                             "type": 1,
                             "id": "1282820582421041224",
                             "sku_id": "1282820582408192061",
@@ -86876,17 +86887,6 @@
                                     "randomizedSources": []
                                 }
                             ]
-                        },
-                        {
-                            "type": 0,
-                            "id": "1282820582357995644",
-                            "sku_id": "1282820582345408595",
-                            "asset": "a_bc63175fe462d8748b68ea5179249418",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/assets/content/005e8547f1b7b431c2ff202d59d38a5f23151fac34a25933d53909023460780a",
-                                "animated_image_url": "https://cdn.discordapp.com/assets/content/7781da9e568bc3884af9ffa9dfdd852cfed954693e18fd587e685e65e36f6024"
-                            },
-                            "label": "Scarlet autumn leaves and acorns decorate the avatar. You can practically smell the acorns dangling above. Fall is here."
                         }
                     ],
                     "type": 1000,
@@ -86894,10 +86894,10 @@
                     "category_sku_id": "1157406994873991284",
                     "bundled_products": [
                         {
-                            "sku_id": "1282820582408192061",
-                            "name": "Scarlet Fall Foliage",
-                            "summary": "Show this effect when others view your profile.",
-                            "type": 1,
+                            "sku_id": "1282820582345408595",
+                            "name": "Scarlet Leaves",
+                            "summary": "Give your avatar a new look.",
+                            "type": 0,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
@@ -86937,10 +86937,10 @@
                             }
                         },
                         {
-                            "sku_id": "1282820582345408595",
-                            "name": "Scarlet Leaves",
-                            "summary": "Give your avatar a new look.",
-                            "type": 0,
+                            "sku_id": "1282820582408192061",
+                            "name": "Scarlet Fall Foliage",
+                            "summary": "Show this effect when others view your profile.",
+                            "type": 1,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
@@ -89966,6 +89966,17 @@
                     },
                     "items": [
                         {
+                            "type": 0,
+                            "id": "1266160780961906688",
+                            "sku_id": "1266160780928352268",
+                            "asset": "a_da532f804b47f1681006c2996eb07b2a",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/assets/content/b13cd0fb120f2ef36ddae82686a0c3e08d141b1d8d51fa7c4b42927064ff6a8e",
+                                "animated_image_url": "https://cdn.discordapp.com/assets/content/12c8c0f0c7ff9274b4a587e499209b6556bec7b7204ff8ef557d70d36ba99946"
+                            },
+                            "label": "Agent Yoru's hands appear, ripping open a new dimension over your avatar that lets him drift between dimensions, unable to be detected by enemies and even yourself."
+                        },
+                        {
                             "type": 1,
                             "id": "1266493591191158814",
                             "sku_id": "1266493591207940133",
@@ -90007,17 +90018,6 @@
                                     "randomizedSources": []
                                 }
                             ]
-                        },
-                        {
-                            "type": 0,
-                            "id": "1266160780961906688",
-                            "sku_id": "1266160780928352268",
-                            "asset": "a_da532f804b47f1681006c2996eb07b2a",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/assets/content/b13cd0fb120f2ef36ddae82686a0c3e08d141b1d8d51fa7c4b42927064ff6a8e",
-                                "animated_image_url": "https://cdn.discordapp.com/assets/content/12c8c0f0c7ff9274b4a587e499209b6556bec7b7204ff8ef557d70d36ba99946"
-                            },
-                            "label": "Agent Yoru's hands appear, ripping open a new dimension over your avatar that lets him drift between dimensions, unable to be detected by enemies and even yourself."
                         }
                     ],
                     "type": 1000,
@@ -90025,10 +90025,10 @@
                     "category_sku_id": "1265375293397270650",
                     "bundled_products": [
                         {
-                            "sku_id": "1266493591207940133",
-                            "name": "Yoru Dimensional Rip",
-                            "summary": "Tear through the dimensional fabric and make your mark.",
-                            "type": 1,
+                            "sku_id": "1266160780928352268",
+                            "name": "Yoru Dimensional Drift",
+                            "summary": "Looking for me?",
+                            "type": 0,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
@@ -90058,10 +90058,10 @@
                             }
                         },
                         {
-                            "sku_id": "1266160780928352268",
-                            "name": "Yoru Dimensional Drift",
-                            "summary": "Looking for me?",
-                            "type": 0,
+                            "sku_id": "1266493591207940133",
+                            "name": "Yoru Dimensional Rip",
+                            "summary": "Tear through the dimensional fabric and make your mark.",
+                            "type": 1,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
@@ -99073,6 +99073,17 @@
                     },
                     "items": [
                         {
+                            "type": 0,
+                            "id": "1217626041456001146",
+                            "sku_id": "1217626024540508170",
+                            "asset": "a_4cd9ae5a8d103c219eacd3674d7730cd",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/assets/content/213ec6e9142f600ba9dd5093dc37b3e155d43206707d28345a73ce6e51bb0201",
+                                "animated_image_url": "https://cdn.discordapp.com/assets/content/71d7d2c6f0f751e6dbe0ea5be06116be2fd15f59e8847f96a94d93dea5ce95e3"
+                            },
+                            "label": "Two butterflies flutter around the avatar, eager to adventure with you to the nearest garden."
+                        },
+                        {
                             "type": 1,
                             "id": "1217626513940283392",
                             "sku_id": "1217626509737459852",
@@ -99130,17 +99141,6 @@
                                     "randomizedSources": []
                                 }
                             ]
-                        },
-                        {
-                            "type": 0,
-                            "id": "1217626041456001146",
-                            "sku_id": "1217626024540508170",
-                            "asset": "a_4cd9ae5a8d103c219eacd3674d7730cd",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/assets/content/213ec6e9142f600ba9dd5093dc37b3e155d43206707d28345a73ce6e51bb0201",
-                                "animated_image_url": "https://cdn.discordapp.com/assets/content/71d7d2c6f0f751e6dbe0ea5be06116be2fd15f59e8847f96a94d93dea5ce95e3"
-                            },
-                            "label": "Two butterflies flutter around the avatar, eager to adventure with you to the nearest garden."
                         }
                     ],
                     "type": 1000,
@@ -99148,10 +99148,10 @@
                     "category_sku_id": "1217622942175727736",
                     "bundled_products": [
                         {
-                            "sku_id": "1217626509737459852",
-                            "name": "Petal Serenade",
-                            "summary": "Show this effect when others view your profile.",
-                            "type": 1,
+                            "sku_id": "1217626024540508170",
+                            "name": "Butterflies",
+                            "summary": "Give your avatar a new look.",
+                            "type": 0,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
@@ -99191,10 +99191,10 @@
                             }
                         },
                         {
-                            "sku_id": "1217626024540508170",
-                            "name": "Butterflies",
-                            "summary": "Give your avatar a new look.",
-                            "type": 0,
+                            "sku_id": "1217626509737459852",
+                            "name": "Petal Serenade",
+                            "summary": "Show this effect when others view your profile.",
+                            "type": 1,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
