@@ -6492,17 +6492,6 @@
                     },
                     "items": [
                         {
-                            "type": 0,
-                            "id": "1447654091298963693",
-                            "sku_id": "1447654091286253660",
-                            "asset": "a_d7634185acdee36579be8ac5fc6e2ba2",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/assets/content/c8abd906dc52154d3f49ac649634fb9275dc77b6dea30ddf984803b3c0ebbb61",
-                                "animated_image_url": "https://cdn.discordapp.com/assets/content/e37847155268b72b2afac895324a3871160dfaf1b511e43c297f16a2c24d9d56"
-                            },
-                            "label": "Vibrant rainbow gradient arrow with cosmic elements and celestial energy arcs around the avatar, with the Sagittarius zodiac symbol at top."
-                        },
-                        {
                             "type": 2,
                             "id": "1447654091328323634",
                             "sku_id": "1447654091311419392",
@@ -6557,55 +6546,23 @@
                                     "randomizedSources": []
                                 }
                             ]
+                        },
+                        {
+                            "type": 0,
+                            "id": "1447654091298963693",
+                            "sku_id": "1447654091286253660",
+                            "asset": "a_d7634185acdee36579be8ac5fc6e2ba2",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/assets/content/c8abd906dc52154d3f49ac649634fb9275dc77b6dea30ddf984803b3c0ebbb61",
+                                "animated_image_url": "https://cdn.discordapp.com/assets/content/e37847155268b72b2afac895324a3871160dfaf1b511e43c297f16a2c24d9d56"
+                            },
+                            "label": "Vibrant rainbow gradient arrow with cosmic elements and celestial energy arcs around the avatar, with the Sagittarius zodiac symbol at top."
                         }
                     ],
                     "type": 1000,
                     "premium_type": 0,
                     "category_sku_id": "1447654091630182572",
                     "bundled_products": [
-                        {
-                            "sku_id": "1447654091286253660",
-                            "name": "Sagittarius",
-                            "summary": "Give your avatar a new look.",
-                            "type": 0,
-                            "premium_type": 0,
-                            "prices": {
-                                "0": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 599,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                },
-                                "4": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 499,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                }
-                            }
-                        },
                         {
                             "sku_id": "1447654091311419392",
                             "name": "Sagittarius",
@@ -6654,6 +6611,49 @@
                             "name": "Sagittarius",
                             "summary": "Show this effect when others view your profile.",
                             "type": 1,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "sku_id": "1447654091286253660",
+                            "name": "Sagittarius",
+                            "summary": "Give your avatar a new look.",
+                            "type": 0,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
