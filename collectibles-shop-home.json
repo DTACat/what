@@ -3163,6 +3163,19 @@
                             "label": "Two intertwined snakes in pastel purple and cyan swirl around the avatar, with the Gemini zodiac symbol at top."
                         },
                         {
+                            "type": 2,
+                            "id": "1447654090829201479",
+                            "sku_id": "1447654090816491530",
+                            "asset": "nameplates/zodiac/gemini/",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/assets/content/0967a7bb65264f9bc1660c6cd689ecea49198ce2ab09f487db2bc53844002f4e",
+                                "animated_image_url": "https://cdn.discordapp.com/assets/content/fc9e05ab2467dc334927fdb8a5dfc0f286e705246bf3bab1f634a0e43c46def7",
+                                "video_url": "https://cdn.discordapp.com/assets/content/51e48c16c15a196de9dc78af924bc25974a2f5d3e7b39e2849e8cb2ce86a855d"
+                            },
+                            "label": "Soft pink and white wind flowing and drifting on the right side.",
+                            "palette": "berry"
+                        },
+                        {
                             "type": 1,
                             "id": "1447654090854367242",
                             "sku_id": "1447654090837463160",
@@ -3234,19 +3247,6 @@
                                     "randomizedSources": []
                                 }
                             ]
-                        },
-                        {
-                            "type": 2,
-                            "id": "1447654090829201479",
-                            "sku_id": "1447654090816491530",
-                            "asset": "nameplates/zodiac/gemini/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/assets/content/0967a7bb65264f9bc1660c6cd689ecea49198ce2ab09f487db2bc53844002f4e",
-                                "animated_image_url": "https://cdn.discordapp.com/assets/content/fc9e05ab2467dc334927fdb8a5dfc0f286e705246bf3bab1f634a0e43c46def7",
-                                "video_url": "https://cdn.discordapp.com/assets/content/51e48c16c15a196de9dc78af924bc25974a2f5d3e7b39e2849e8cb2ce86a855d"
-                            },
-                            "label": "Soft pink and white wind flowing and drifting on the right side.",
-                            "palette": "berry"
                         }
                     ],
                     "type": 1000,
@@ -3297,10 +3297,10 @@
                             }
                         },
                         {
-                            "sku_id": "1447654090837463160",
+                            "sku_id": "1447654090816491530",
                             "name": "Gemini",
-                            "summary": "Show this effect when others view your profile.",
-                            "type": 1,
+                            "summary": "Make your name stand out in servers and chats.",
+                            "type": 2,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
@@ -3340,10 +3340,10 @@
                             }
                         },
                         {
-                            "sku_id": "1447654090816491530",
+                            "sku_id": "1447654090837463160",
                             "name": "Gemini",
-                            "summary": "Make your name stand out in servers and chats.",
-                            "type": 2,
+                            "summary": "Show this effect when others view your profile.",
+                            "type": 1,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
