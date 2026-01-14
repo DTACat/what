@@ -1,1 +1,29 @@
-{}
+{
+    "marketings": {
+        "0": {
+            "type": 0,
+            "version": 55,
+            "title": "Slumber Party",
+            "body": "Get cozy with dreamy auroras, fluffy clouds, and sleepy friends",
+            "avatar": "https://cdn.discordapp.com/assets/content/b9f4d12e641302a676540a3ecd8f8912f0907bfd4c4ed042fff21bf61bb42991.png",
+            "decorations": [
+                "a_fb25c265c94739eb73a888b5e31db2d9",
+                "a_40c7b83f44e4d7372d23dff5e3f4b827",
+                "a_8f1fd59ceeb03fc4327a756f509d5f4c",
+                "a_bbafeadabbb7b5405717caa794f371d1",
+                "a_384d358573198a103bf13df2b7ed24c6",
+                "a_3eb367009b1ef2b2c698b41ec2a54ebd"
+            ],
+            "dismissible_content": 422,
+            "ref_target_background": null
+        },
+        "2": {
+            "type": 2,
+            "version": 55,
+            "title": "Give your profile a fresh look",
+            "body": "Check out the latest avatar decorations, profile effects, and nameplates and collect your favorite styles.",
+            "asset": "https://cdn.discordapp.com/assets/content/855253ed88996fe7fab4471a1fd68633e883e159e11c1c8786a2de2d2c03bb2e.jpg",
+            "popout_asset": "https://cdn.discordapp.com/assets/content/df36ad30cfe16593c361effc6244f61216d5e2ba767fe252168fd3fe66429b7a.png"
+        }
+    }
+}
