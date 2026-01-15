@@ -5160,6 +5160,17 @@
                     },
                     "items": [
                         {
+                            "type": 0,
+                            "id": "1447654091017945308",
+                            "sku_id": "1447654091005235352",
+                            "asset": "a_9b622248170b1c9a82bb07eb6fa9a3f9",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/assets/content/06bec9ed4172198a4e54cd6ff53fb6241c53aa6f9e46df6969e90208d4970ef5",
+                                "animated_image_url": "https://cdn.discordapp.com/assets/content/806fbe0de324d32e0403c2e3c339d46daacb8c07adf14a5178d668337f2a3120"
+                            },
+                            "label": "Radiant golden mane with warm sunflowers and glowing flames surrounds the avatar in a majestic circle, with the Leo zodiac symbol at top."
+                        },
+                        {
                             "type": 2,
                             "id": "1447654091043110953",
                             "sku_id": "1447654091026206894",
@@ -5214,23 +5225,55 @@
                                     "randomizedSources": []
                                 }
                             ]
-                        },
-                        {
-                            "type": 0,
-                            "id": "1447654091017945308",
-                            "sku_id": "1447654091005235352",
-                            "asset": "a_9b622248170b1c9a82bb07eb6fa9a3f9",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/assets/content/06bec9ed4172198a4e54cd6ff53fb6241c53aa6f9e46df6969e90208d4970ef5",
-                                "animated_image_url": "https://cdn.discordapp.com/assets/content/806fbe0de324d32e0403c2e3c339d46daacb8c07adf14a5178d668337f2a3120"
-                            },
-                            "label": "Radiant golden mane with warm sunflowers and glowing flames surrounds the avatar in a majestic circle, with the Leo zodiac symbol at top."
                         }
                     ],
                     "type": 1000,
                     "premium_type": 0,
                     "category_sku_id": "1447654091630182572",
                     "bundled_products": [
+                        {
+                            "sku_id": "1447654091005235352",
+                            "name": "Leo",
+                            "summary": "Give your avatar a new look.",
+                            "type": 0,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
                         {
                             "sku_id": "1447654091026206894",
                             "name": "Leo",
@@ -5279,49 +5322,6 @@
                             "name": "Leo",
                             "summary": "Show this effect when others view your profile.",
                             "type": 1,
-                            "premium_type": 0,
-                            "prices": {
-                                "0": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 599,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                },
-                                "4": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 499,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                }
-                            }
-                        },
-                        {
-                            "sku_id": "1447654091005235352",
-                            "name": "Leo",
-                            "summary": "Give your avatar a new look.",
-                            "type": 0,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
