@@ -37233,17 +37233,6 @@
                     },
                     "items": [
                         {
-                            "type": 0,
-                            "id": "1387888352556093553",
-                            "sku_id": "1387888352539312288",
-                            "asset": "a_764c32ea9eb11a78306da97918922f53",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/assets/content/c44fa6b33ab24b98bff00cf16e6d30ed80f0fab2ebc76c20f29e8b52ce88a903",
-                                "animated_image_url": "https://cdn.discordapp.com/assets/content/3ecdd095982d27e8ce62f3fbfe2bd53e4737b1a68c86495c037bb2230743a8db"
-                            },
-                            "label": "A retro-style toilet appears around the avatar, with an NPC male character head bobbing and eventually getting flushed down the toilet bowl."
-                        },
-                        {
                             "type": 1,
                             "id": "1387888352874860695",
                             "sku_id": "1387888352853885098",
@@ -37285,6 +37274,17 @@
                                     "randomizedSources": []
                                 }
                             ]
+                        },
+                        {
+                            "type": 0,
+                            "id": "1387888352556093553",
+                            "sku_id": "1387888352539312288",
+                            "asset": "a_764c32ea9eb11a78306da97918922f53",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/assets/content/c44fa6b33ab24b98bff00cf16e6d30ed80f0fab2ebc76c20f29e8b52ce88a903",
+                                "animated_image_url": "https://cdn.discordapp.com/assets/content/3ecdd095982d27e8ce62f3fbfe2bd53e4737b1a68c86495c037bb2230743a8db"
+                            },
+                            "label": "A retro-style toilet appears around the avatar, with an NPC male character head bobbing and eventually getting flushed down the toilet bowl."
                         }
                     ],
                     "type": 1000,
@@ -37292,10 +37292,10 @@
                     "category_sku_id": "1387888352891764947",
                     "bundled_products": [
                         {
-                            "sku_id": "1387888352539312288",
-                            "name": "Skibidi Toilet",
-                            "summary": "Give your avatar a new look.",
-                            "type": 0,
+                            "sku_id": "1387888352853885098",
+                            "name": "Skibidi Toilets",
+                            "summary": "Show this effect when others view your profile.",
+                            "type": 1,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
@@ -37325,10 +37325,10 @@
                             }
                         },
                         {
-                            "sku_id": "1387888352853885098",
-                            "name": "Skibidi Toilets",
-                            "summary": "Show this effect when others view your profile.",
-                            "type": 1,
+                            "sku_id": "1387888352539312288",
+                            "name": "Skibidi Toilet",
+                            "summary": "Give your avatar a new look.",
+                            "type": 0,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
