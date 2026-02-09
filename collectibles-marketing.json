@@ -2,28 +2,49 @@
     "marketings": {
         "0": {
             "type": 0,
-            "version": 58,
-            "title": "Year of the Horse",
-            "body": "Gallop into the new year. Celebrate LNY with new styles!",
-            "avatar": "https://cdn.discordapp.com/assets/content/7ee04841718bee55252bc2113be42d719d470c1675fb33cf82e97384a4cd248c.png",
+            "version": 59,
+            "title": "Solo or Duo?",
+            "body": "Level up Valentine's with LOVE XP. Treat yourself or your bae.",
+            "avatar": "https://cdn.discordapp.com/assets/content/b9f4d12e641302a676540a3ecd8f8912f0907bfd4c4ed042fff21bf61bb42991.png",
             "decorations": [
-                "a_f3f66df4b52afe89efc4a36e367ca582",
-                "a_4ecf139a79f8ef0045e2346d2ce6e5b8",
-                "a_22166be7fd3b6b851108eb93ca9200a9",
-                "a_3ac61a1b32d8946b7bf588e756b4d388"
+                "a_d5f07a18604fae78eff00fc17d1340e8",
+                "a_4902a8c9c56b973c2bfaea1d9bec94f4",
+                "a_a4179196f789185fd5c3f20b083f722a",
+                "a_1f2df17cd18e322d446dea49549dedf4"
             ],
             "dismissible_content": 422,
-            "ref_target_background": null,
+            "ref_target_background": {
+                "style": {
+                    "resting": {
+                        "light": null,
+                        "dark": null
+                    },
+                    "hovered": {
+                        "light": null,
+                        "dark": null
+                    }
+                },
+                "asset": {
+                    "resting": {
+                        "light": null,
+                        "dark": null
+                    },
+                    "hovered": {
+                        "light": "https://cdn.discordapp.com/assets/content/063cd060d572d920e95594a059061254a4afb792684a53c4802b8316a19b66d2.png",
+                        "dark": "https://cdn.discordapp.com/assets/content/063cd060d572d920e95594a059061254a4afb792684a53c4802b8316a19b66d2.png"
+                    }
+                }
+            },
             "badge_icon": null,
             "badge_text": null
         },
         "2": {
             "type": 2,
-            "version": 58,
+            "version": 59,
             "title": "Give your profile a fresh look",
             "body": "Check out the latest avatar decorations, profile effects, and nameplates and collect your favorite styles.",
-            "asset": "https://cdn.discordapp.com/assets/content/5c89f536a9b700c3acbcfd4a9eea340a572d81bfd568ebef3b1312cd6781aa48.jpg",
-            "popout_asset": "https://cdn.discordapp.com/assets/content/60a0e4b61465d10c8a70ac141edc2c1b308723a43c34c12eb13dd47a8716afd2.png"
+            "asset": "https://cdn.discordapp.com/assets/content/3a19debd8953b05ccb71b6168a3e76af6df10d57bd6bd0a4135d625ee608b419.jpg",
+            "popout_asset": "https://cdn.discordapp.com/assets/content/338c2404f1829345747f4afe281333c34f4177a542fb10380b99b858a26ee220.png"
         }
     }
 }
