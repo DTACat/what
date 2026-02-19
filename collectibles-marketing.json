@@ -2,49 +2,30 @@
     "marketings": {
         "0": {
             "type": 0,
-            "version": 59,
-            "title": "Solo or Duo?",
-            "body": "Level up Valentine's with LOVE XP. Treat yourself or your bae.",
-            "avatar": "https://cdn.discordapp.com/assets/content/b9f4d12e641302a676540a3ecd8f8912f0907bfd4c4ed042fff21bf61bb42991.png",
+            "version": 60,
+            "title": "FLUX",
+            "body": "Ambient lights, endless vibes. Elevate your aesthetic.",
+            "avatar": "https://cdn.discordapp.com/assets/content/ca1b5b80ec3f2e4671b9fd300eb07729d9e46f486eb1e5e25da5b6e2ae6a3654.png",
             "decorations": [
-                "a_d5f07a18604fae78eff00fc17d1340e8",
-                "a_4902a8c9c56b973c2bfaea1d9bec94f4",
-                "a_a4179196f789185fd5c3f20b083f722a",
-                "a_1f2df17cd18e322d446dea49549dedf4"
+                "a_19b258f0d1bf320f024aa7f52d45d294",
+                "a_9e48937d08b835051cdbd8f7455279d7"
+            ],
+            "avatar_decoration_sku_ids": [
+                "1466993897333985330",
+                "1466990610429772001"
             ],
             "dismissible_content": 422,
-            "ref_target_background": {
-                "style": {
-                    "resting": {
-                        "light": null,
-                        "dark": null
-                    },
-                    "hovered": {
-                        "light": null,
-                        "dark": null
-                    }
-                },
-                "asset": {
-                    "resting": {
-                        "light": null,
-                        "dark": null
-                    },
-                    "hovered": {
-                        "light": "https://cdn.discordapp.com/assets/content/063cd060d572d920e95594a059061254a4afb792684a53c4802b8316a19b66d2.png",
-                        "dark": "https://cdn.discordapp.com/assets/content/063cd060d572d920e95594a059061254a4afb792684a53c4802b8316a19b66d2.png"
-                    }
-                }
-            },
+            "ref_target_background": null,
             "badge_icon": null,
             "badge_text": null
         },
         "2": {
             "type": 2,
-            "version": 59,
+            "version": 60,
             "title": "Give your profile a fresh look",
             "body": "Check out the latest avatar decorations, profile effects, and nameplates and collect your favorite styles.",
-            "asset": "https://cdn.discordapp.com/assets/content/3a19debd8953b05ccb71b6168a3e76af6df10d57bd6bd0a4135d625ee608b419.jpg",
-            "popout_asset": "https://cdn.discordapp.com/assets/content/338c2404f1829345747f4afe281333c34f4177a542fb10380b99b858a26ee220.png"
+            "asset": "https://cdn.discordapp.com/assets/content/7c5e9b35c1df306b42ba25e0533efe378535fac11fcbaf22cd6941d4dadf053e.jpg",
+            "popout_asset": "https://cdn.discordapp.com/media/v1/collectibles-shop/8f8475e8731b5f39044636e428ecc92fe865dc66c840867748a2104de0a3a66e"
         }
     }
 }
