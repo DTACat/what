@@ -1,1 +1,56 @@
-{}
+{
+    "marketings": {
+        "0": {
+            "type": 0,
+            "version": 61,
+            "title": "Mickey & Friends",
+            "body": "Style your avatar with Disney's Mickey & Friends © Disney.",
+            "avatar": "https://cdn.discordapp.com/assets/content/b9f4d12e641302a676540a3ecd8f8912f0907bfd4c4ed042fff21bf61bb42991.png",
+            "decorations": [
+                "a_2b7059990006501be98e7b32b18fceb1",
+                "a_9b4ce9be7dba0f46133d6e86302c8be9",
+                "a_edf5812af522ef3c1fb270ba742ac5fe",
+                "a_3b8b9d80afc6a69a9e27f9b7ca856769"
+            ],
+            "avatar_decoration_sku_ids": [
+                "1471907727889399910",
+                "1471907883732963340",
+                "1471908095251841055",
+                "1471908533908799609"
+            ],
+            "dismissible_content": 422,
+            "ref_target_background": {
+                "style": {
+                    "resting": {
+                        "light": null,
+                        "dark": null
+                    },
+                    "hovered": {
+                        "light": null,
+                        "dark": null
+                    }
+                },
+                "asset": {
+                    "resting": {
+                        "light": null,
+                        "dark": null
+                    },
+                    "hovered": {
+                        "light": "https://cdn.discordapp.com/media/v1/collectibles-shop/cddbf5d86b367ba01215d92aa2b16e644eaebd638f81b298d878557fb0a91237",
+                        "dark": "https://cdn.discordapp.com/media/v1/collectibles-shop/cddbf5d86b367ba01215d92aa2b16e644eaebd638f81b298d878557fb0a91237"
+                    }
+                }
+            },
+            "badge_icon": null,
+            "badge_text": null
+        },
+        "2": {
+            "type": 2,
+            "version": 61,
+            "title": "Give your profile a fresh look",
+            "body": "Check out the latest avatar decorations, profile effects, and nameplates and collect your favorite styles.",
+            "asset": "https://cdn.discordapp.com/media/v1/collectibles-shop/c49aca78742a956cbad10138732ed63b2d38e3c6848bcc837d848bbf3703fb42",
+            "popout_asset": "https://cdn.discordapp.com/media/v1/collectibles-shop/ab95b7e51af6299eec2733cedbac3338cd6dd8d83f6938eb3669f557381931a6"
+        }
+    }
+}
