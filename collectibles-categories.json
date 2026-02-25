@@ -1,6 +1,908 @@
 {
     "categories": [
         {
+            "sku_id": "1471907073888485541",
+            "name": "Mickey & Friends",
+            "summary": " ",
+            "store_listing_id": "1471907073888485541",
+            "styles": {
+                "background_colors": [
+                    786432,
+                    4849921
+                ],
+                "button_colors": [
+                    5793266,
+                    5793266
+                ],
+                "confetti_colors": [
+                    43772,
+                    15774258,
+                    16414587,
+                    3000177,
+                    9739511
+                ]
+            },
+            "hero_ranking": [
+                "1471907727889399910",
+                "1471907883732963340",
+                "1471908095251841055",
+                "1471908533908799609",
+                "1471908778516549683",
+                "1471909041541218426",
+                "1471909787355840626",
+                "1471910272783482993",
+                "1471910608386392136",
+                "1471910867741179967",
+                "1471911196448784704",
+                "1471911380490780703"
+            ],
+            "products": [
+                {
+                    "sku_id": "1471907727889399910",
+                    "name": "Mickey Ear Headband",
+                    "summary": "Give your avatar a new look.",
+                    "store_listing_id": "1471907727889399910",
+                    "styles": {
+                        "background_colors": [
+                            786432,
+                            4849921
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 899,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 699,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": 0,
+                            "id": 1,
+                            "sku_id": "1471907727889399910",
+                            "asset": "a_2b7059990006501be98e7b32b18fceb1",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1471907727889399910/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1471907727889399910/animated"
+                            },
+                            "label": "Black Mickey Mouse ears headband with twinkling stars on top."
+                        }
+                    ],
+                    "type": 0,
+                    "premium_type": 0,
+                    "category_sku_id": "1471907073888485541",
+                    "google_sku_ids": {
+                        "5": "1471907727889399910_1475872422157615295",
+                        "7": "1471907727889399910_1475872430483308637"
+                    }
+                },
+                {
+                    "sku_id": "1471907883732963340",
+                    "name": "Minnie Ear Headband",
+                    "summary": "Give your avatar a new look.",
+                    "store_listing_id": "1471907883732963340",
+                    "styles": {
+                        "background_colors": [
+                            786432,
+                            4849921
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 899,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 699,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": 0,
+                            "id": 1,
+                            "sku_id": "1471907883732963340",
+                            "asset": "a_9b4ce9be7dba0f46133d6e86302c8be9",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1471907883732963340/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1471907883732963340/animated"
+                            },
+                            "label": "Black Minnie Mouse ears with red polka dot bow and floating red hearts."
+                        }
+                    ],
+                    "type": 0,
+                    "premium_type": 0,
+                    "category_sku_id": "1471907073888485541",
+                    "google_sku_ids": {
+                        "5": "1471907883732963340_1475875674081464451",
+                        "7": "1471907883732963340_1475875681261846753"
+                    }
+                },
+                {
+                    "sku_id": "1471908095251841055",
+                    "name": "Donald Headband",
+                    "summary": "Give your avatar a new look.",
+                    "store_listing_id": "1471908095251841055",
+                    "styles": {
+                        "background_colors": [
+                            786432,
+                            4849921
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 899,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 699,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": 0,
+                            "id": 1,
+                            "sku_id": "1471908095251841055",
+                            "asset": "a_edf5812af522ef3c1fb270ba742ac5fe",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1471908095251841055/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1471908095251841055/animated"
+                            },
+                            "label": "Blue headband with Donald Duck character and floating blue bubbles."
+                        }
+                    ],
+                    "type": 0,
+                    "premium_type": 0,
+                    "category_sku_id": "1471907073888485541",
+                    "google_sku_ids": {
+                        "5": "1471908095251841055_1475874114991423508",
+                        "7": "1471908095251841055_1475874121123369050"
+                    }
+                },
+                {
+                    "sku_id": "1471908533908799609",
+                    "name": "Daisy Headband",
+                    "summary": "Give your avatar a new look.",
+                    "store_listing_id": "1471908533908799609",
+                    "styles": {
+                        "background_colors": [
+                            786432,
+                            4849921
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 899,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 699,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": 0,
+                            "id": 1,
+                            "sku_id": "1471908533908799609",
+                            "asset": "a_3b8b9d80afc6a69a9e27f9b7ca856769",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1471908533908799609/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1471908533908799609/animated"
+                            },
+                            "label": "Purple headband with Daisy Duck character and floating pink bubbles."
+                        }
+                    ],
+                    "type": 0,
+                    "premium_type": 0,
+                    "category_sku_id": "1471907073888485541",
+                    "google_sku_ids": {
+                        "5": "1471908533908799609_1475874087610876125",
+                        "7": "1471908533908799609_1475874094389137502"
+                    }
+                },
+                {
+                    "sku_id": "1471908778516549683",
+                    "name": "Goofy Ear Headband",
+                    "summary": "Give your avatar a new look.",
+                    "store_listing_id": "1471908778516549683",
+                    "styles": {
+                        "background_colors": [
+                            786432,
+                            4849921
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 899,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 699,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": 0,
+                            "id": 1,
+                            "sku_id": "1471908778516549683",
+                            "asset": "a_e6421b80146b787909e4accc4ab2c708",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1471908778516549683/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1471908778516549683/animated"
+                            },
+                            "label": "Orange and green headband with Goofy ears and green musical notes."
+                        }
+                    ],
+                    "type": 0,
+                    "premium_type": 0,
+                    "category_sku_id": "1471907073888485541",
+                    "google_sku_ids": {
+                        "5": "1471908778516549683_1475873443210596473",
+                        "7": "1471908778516549683_1475873449967878144"
+                    }
+                },
+                {
+                    "sku_id": "1471909041541218426",
+                    "name": "Pluto Hat",
+                    "summary": "Give your avatar a new look.",
+                    "store_listing_id": "1471909041541218426",
+                    "styles": {
+                        "background_colors": [
+                            786432,
+                            4849921
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 899,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 699,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": 0,
+                            "id": 1,
+                            "sku_id": "1471909041541218426",
+                            "asset": "a_13e5503db57a1c618428703c4b3b819d",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1471909041541218426/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1471909041541218426/animated"
+                            },
+                            "label": "Yellow Pluto face hat with black ears and green bone treats."
+                        }
+                    ],
+                    "type": 0,
+                    "premium_type": 0,
+                    "category_sku_id": "1471907073888485541",
+                    "google_sku_ids": {
+                        "5": "1471909041541218426_1475874502494650459",
+                        "7": "1471909041541218426_1475874515505381511"
+                    }
+                },
+                {
+                    "sku_id": "1471909787355840626",
+                    "name": "Mickey Twinkle Star",
+                    "summary": "Make your name stand out in servers and chats.",
+                    "store_listing_id": "1471909787355840626",
+                    "styles": {
+                        "background_colors": [
+                            786432,
+                            4849921
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 899,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 699,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": 2,
+                            "id": 1,
+                            "sku_id": "1471909787355840626",
+                            "asset": "nameplates/mickey_twinkle_star/1471909787355840626/",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1471909787355840626/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1471909787355840626/animated",
+                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1471909787355840626/video"
+                            },
+                            "label": "Purple gradient with twinkling white stars.",
+                            "palette": "violet"
+                        }
+                    ],
+                    "type": 2,
+                    "premium_type": 0,
+                    "category_sku_id": "1471907073888485541",
+                    "google_sku_ids": {
+                        "5": "1471909787355840626_1475872422119997544",
+                        "7": "1471909787355840626_1475872431733473454"
+                    }
+                },
+                {
+                    "sku_id": "1471910272783482993",
+                    "name": "Minnie True Love",
+                    "summary": "Make your name stand out in servers and chats.",
+                    "store_listing_id": "1471910272783482993",
+                    "styles": {
+                        "background_colors": [
+                            786432,
+                            4849921
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 899,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 699,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": 2,
+                            "id": 1,
+                            "sku_id": "1471910272783482993",
+                            "asset": "nameplates/minnie_true_love/1471910272783482993/",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1471910272783482993/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1471910272783482993/animated",
+                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1471910272783482993/video"
+                            },
+                            "label": "Red to pink gradient with floating red hearts.",
+                            "palette": "crimson"
+                        }
+                    ],
+                    "type": 2,
+                    "premium_type": 0,
+                    "category_sku_id": "1471907073888485541",
+                    "google_sku_ids": {
+                        "5": "1471910272783482993_1475874225834164375",
+                        "7": "1471910272783482993_1475874232251449438"
+                    }
+                },
+                {
+                    "sku_id": "1471910608386392136",
+                    "name": "Donald Splish Splash",
+                    "summary": "Make your name stand out in servers and chats.",
+                    "store_listing_id": "1471910608386392136",
+                    "styles": {
+                        "background_colors": [
+                            786432,
+                            4849921
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 899,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 699,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": 2,
+                            "id": 1,
+                            "sku_id": "1471910608386392136",
+                            "asset": "nameplates/donald_splish_splash/1471910608386392136/",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1471910608386392136/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1471910608386392136/animated",
+                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1471910608386392136/video"
+                            },
+                            "label": "Blue gradient with floating blue bubbles.",
+                            "palette": "sky"
+                        }
+                    ],
+                    "type": 2,
+                    "premium_type": 0,
+                    "category_sku_id": "1471907073888485541",
+                    "google_sku_ids": {
+                        "5": "1471910608386392136_1475872706154074263",
+                        "7": "1471910608386392136_1475872713498431591"
+                    }
+                },
+                {
+                    "sku_id": "1471910867741179967",
+                    "name": "Daisy Dream Bubbles",
+                    "summary": "Make your name stand out in servers and chats.",
+                    "store_listing_id": "1471910867741179967",
+                    "styles": {
+                        "background_colors": [
+                            786432,
+                            4849921
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 899,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 699,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": 2,
+                            "id": 1,
+                            "sku_id": "1471910867741179967",
+                            "asset": "nameplates/daisy_dream_bubbles/1471910867741179967/",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1471910867741179967/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1471910867741179967/animated",
+                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1471910867741179967/video"
+                            },
+                            "label": "Pink to purple gradient with floating pink bubbles.",
+                            "palette": "bubble_gum"
+                        }
+                    ],
+                    "type": 2,
+                    "premium_type": 0,
+                    "category_sku_id": "1471907073888485541",
+                    "google_sku_ids": {
+                        "5": "1471910867741179967_1475873155842179143",
+                        "7": "1471910867741179967_1475873162561589279"
+                    }
+                },
+                {
+                    "sku_id": "1471911196448784704",
+                    "name": "Goofy Happy Tune",
+                    "summary": "Make your name stand out in servers and chats.",
+                    "store_listing_id": "1471911196448784704",
+                    "styles": {
+                        "background_colors": [
+                            786432,
+                            4849921
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 899,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 699,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": 2,
+                            "id": 1,
+                            "sku_id": "1471911196448784704",
+                            "asset": "nameplates/goofy_happy_tune/1471911196448784704/",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1471911196448784704/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1471911196448784704/animated",
+                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1471911196448784704/video"
+                            },
+                            "label": "Green gradient with floating green musical notes.",
+                            "palette": "clover"
+                        }
+                    ],
+                    "type": 2,
+                    "premium_type": 0,
+                    "category_sku_id": "1471907073888485541",
+                    "google_sku_ids": {
+                        "5": "1471911196448784704_1475873566946754630",
+                        "7": "1471911196448784704_1475873573028626685"
+                    }
+                },
+                {
+                    "sku_id": "1471911380490780703",
+                    "name": "Pluto Playful Friend",
+                    "summary": "Make your name stand out in servers and chats.",
+                    "store_listing_id": "1471911380490780703",
+                    "styles": {
+                        "background_colors": [
+                            786432,
+                            4849921
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 899,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 699,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": 2,
+                            "id": 1,
+                            "sku_id": "1471911380490780703",
+                            "asset": "nameplates/pluto_playful_friend/1471911222382428362/",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1471911222382428362/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1471911222382428362/animated",
+                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1471911222382428362/video"
+                            },
+                            "label": "Green gradient with floating green bone treats.",
+                            "palette": "clover"
+                        }
+                    ],
+                    "type": 2,
+                    "premium_type": 0,
+                    "category_sku_id": "1471907073888485541",
+                    "google_sku_ids": {
+                        "5": "1471911380490780703_1475876324181541052",
+                        "7": "1471911380490780703_1475876330192113814"
+                    }
+                }
+            ],
+            "hero_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/ee6b918420f9d86c208147992770bec024422527759b94a6fd289bdd3e43f259",
+            "hero_banner_animated_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/ea24312883b30ca2ccab5c731968227db98161c7f1f87e1dc200c8e366a62274",
+            "hero_logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/9165f07788cb3b57a24bda8cf0b5fb55feb6491a6fdda902c9b5ece3e33e0c33",
+            "catalog_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/ef405943d320ed39afe7a417db104ba4deb4204300f8f5b29cd41585660b56ba",
+            "catalog_banner_animated_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/ea26dd6cabfa2e9d383ab165e12f45a94f42d61d469bc297c010a1e340867755",
+            "featured_block_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/0089623dd7877b24ee273ed4a755ed1135d4a0af47f67b35736dfc4f9408df56",
+            "logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/9165f07788cb3b57a24bda8cf0b5fb55feb6491a6fdda902c9b5ece3e33e0c33",
+            "pdp_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/4cac7d59da6fb410409b923d89ca859842ba65cf9af54d5a6337de754c348ba8",
+            "mobile_hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/956ab3eb25701dab623ac896eaa4969b9390e36503884d1efd45f49d45e40fb1",
+            "mobile_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/6e7d5fd64630e74a2b9e88dfcd8a39bcc1beb4c57085808fb0072682ed9257b9",
+            "mobile_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/a73e977e88ab4fb61587dbccc5f8a7955055f793a58099d8466fca5090198bc5",
+            "hero_banner_display_config": {
+                "desktop_max_height": 500,
+                "mobile_max_height": null,
+                "responsive": true,
+                "background_style": "linear-gradient(180deg, #0C0000 0%, #4A0101 100%)"
+            },
+            "hero_logo_display_config": {
+                "desktop_max_height": 160,
+                "mobile_max_height": null,
+                "responsive": null,
+                "background_style": null
+            }
+        },
+        {
             "sku_id": "1466889339966587046",
             "name": "Flux",
             "summary": " ",
