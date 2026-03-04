@@ -2,7 +2,7 @@
     "marketings": {
         "1": {
             "type": 1,
-            "version": 61,
+            "version": 62,
             "dismissible_content": 422,
             "decorations": []
         }
