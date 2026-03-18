@@ -1,6 +1,1146 @@
 {
     "categories": [
         {
+            "sku_id": "1479186830472511588",
+            "name": "Daydreaming",
+            "summary": " ",
+            "store_listing_id": "1479186830472511588",
+            "styles": {
+                "background_colors": [
+                    10054384,
+                    16158949
+                ],
+                "button_colors": [
+                    5793266,
+                    5793266
+                ],
+                "confetti_colors": [
+                    43772,
+                    15774258,
+                    16414587,
+                    3000177,
+                    9739511
+                ]
+            },
+            "hero_ranking": [
+                "1479190898561781872",
+                "1479191614734733322",
+                "1479186868187959358",
+                "1479187373639340103",
+                "1479187549367828692",
+                "1479187698768937010",
+                "1479187863756345384",
+                "1479187981083349214",
+                "1479189863629852682",
+                "1479190288936210433"
+            ],
+            "products": [
+                {
+                    "sku_id": "1479190898561781872",
+                    "name": "Enchanted Cosmos Bundle",
+                    "summary": "{joinedItems}",
+                    "store_listing_id": "1479190898561781872",
+                    "styles": {
+                        "background_colors": [
+                            10054384,
+                            16158949
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 1099,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 7600,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 899,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 7600,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": 0,
+                            "id": 1,
+                            "sku_id": "1479187698768937010",
+                            "asset": "a_33488e986d50fcf1896b7d1abd2528fa",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1479187698768937010/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1479187698768937010/animated"
+                            },
+                            "label": "Cosmic ring of purple and pink clouds with a rainbow comet"
+                        },
+                        {
+                            "type": 1,
+                            "id": 1,
+                            "sku_id": "1479189863629852682",
+                            "title": "Enchanted Cosmos",
+                            "description": "Show this effect when others view your profile.",
+                            "accessibilityLabel": "Dreamy pink and purple cosmic clouds with glowing planets, bubbles, and a rainbow comet",
+                            "animationType": 2,
+                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/4a9427f72fd4b7ada5fa1cc1d303f07c0326d281f71ba071392701b6a4632403",
+                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/1e5fc28c8878a61e47d2d5bb8a5f559d76e81d8d59339ab90a7e949f83c234ce",
+                            "effects": [
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/de0f810f9004f981f29842bba8438ee55a5cf0a425ae1b2bf50ee0cfd8cf7e70",
+                                    "loop": false,
+                                    "duration": 5000,
+                                    "start": 0,
+                                    "loopDelay": 0,
+                                    "zIndex": 100,
+                                    "randomizedSources": []
+                                },
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/d3363103df94e7444333e1f7aaf78d86bea7da7dfbd1ecd3bb28be5e9726dd63",
+                                    "loop": true,
+                                    "duration": 5000,
+                                    "start": 6500,
+                                    "loopDelay": 4500,
+                                    "zIndex": 101,
+                                    "randomizedSources": []
+                                }
+                            ]
+                        }
+                    ],
+                    "type": 1000,
+                    "premium_type": 0,
+                    "category_sku_id": "1479186830472511588",
+                    "bundled_products": [
+                        {
+                            "sku_id": "1479187698768937010",
+                            "name": "Cosmic Rainbow",
+                            "summary": "Give your avatar a new look.",
+                            "type": 0,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "sku_id": "1479189863629852682",
+                            "name": "Enchanted Cosmos",
+                            "summary": "Show this effect when others view your profile.",
+                            "type": 1,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "google_sku_ids": {
+                        "5": "1479190898561781872_1479195571838521562",
+                        "7": "1479190898561781872_1479195577844760776"
+                    }
+                },
+                {
+                    "sku_id": "1479191614734733322",
+                    "name": "Dream Hop Bundle",
+                    "summary": "{joinedItems}",
+                    "store_listing_id": "1479191614734733322",
+                    "styles": {
+                        "background_colors": [
+                            10054384,
+                            16158949
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 1099,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 7600,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 899,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 7600,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": 0,
+                            "id": 1,
+                            "sku_id": "1479187863756345384",
+                            "asset": "a_cd8c9673129b1a69a8d020f9ba3ca915",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1479187863756345384/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1479187863756345384/animated"
+                            },
+                            "label": "Ornate peach and gold baroque frame with a winged pink bunny hopping through"
+                        },
+                        {
+                            "type": 1,
+                            "id": 1,
+                            "sku_id": "1479190288936210433",
+                            "title": "Dream Hop Portal",
+                            "description": "Show this effect when others view your profile.",
+                            "accessibilityLabel": "Ornate baroque gateway to a pink stairway in the clouds, with pink winged bunnies hopping upward",
+                            "animationType": 2,
+                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/484386b34e26b35f2c65cf2c757ee0ca50745ca7ad878069f185f9a3396a932a",
+                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/5f2945694f7487823026cbb24396c8e1e2961a7e8741123ac9a75b329f6f3f6b",
+                            "effects": [
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/399334a1d40013704e1070ae1c378601bc0fdccdbf98a9f48b5dd0db37cb9807",
+                                    "loop": false,
+                                    "duration": 5083,
+                                    "start": 0,
+                                    "loopDelay": 0,
+                                    "zIndex": 100,
+                                    "randomizedSources": []
+                                },
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/bf5a5e772a20f7cf272627b49e571d117bcddcaa62a2eb710a5adeee7e73bdfa",
+                                    "loop": true,
+                                    "duration": 4583,
+                                    "start": 6500,
+                                    "loopDelay": 3500,
+                                    "zIndex": 101,
+                                    "randomizedSources": []
+                                }
+                            ]
+                        }
+                    ],
+                    "type": 1000,
+                    "premium_type": 0,
+                    "category_sku_id": "1479186830472511588",
+                    "bundled_products": [
+                        {
+                            "sku_id": "1479187863756345384",
+                            "name": "Dream Hop",
+                            "summary": "Give your avatar a new look.",
+                            "type": 0,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "sku_id": "1479190288936210433",
+                            "name": "Dream Hop Portal",
+                            "summary": "Show this effect when others view your profile.",
+                            "type": 1,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "google_sku_ids": {
+                        "5": "1479191614734733322_1479193703888457808",
+                        "7": "1479191614734733322_1479193711966552176"
+                    }
+                },
+                {
+                    "sku_id": "1479186868187959358",
+                    "name": "Lily of the Valley",
+                    "summary": "Give your avatar a new look.",
+                    "store_listing_id": "1479186868187959358",
+                    "styles": {
+                        "background_colors": [
+                            10054384,
+                            16158949
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": 0,
+                            "id": 1,
+                            "sku_id": "1479186868187959358",
+                            "asset": "a_7b4b20ad6ec70d6ce19b8d9b8d930658",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1479186868187959358/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1479186868187959358/animated"
+                            },
+                            "label": "Glowing crescent of lily of the valley flowers with small pink fairy"
+                        }
+                    ],
+                    "type": 0,
+                    "premium_type": 0,
+                    "category_sku_id": "1479186830472511588",
+                    "google_sku_ids": {
+                        "5": "1479186868187959358_1479188372982468821",
+                        "7": "1479186868187959358_1479188378972065938"
+                    }
+                },
+                {
+                    "sku_id": "1479187373639340103",
+                    "name": "Butterfly Burst",
+                    "summary": "Give your avatar a new look.",
+                    "store_listing_id": "1479187373639340103",
+                    "styles": {
+                        "background_colors": [
+                            10054384,
+                            16158949
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": 0,
+                            "id": 1,
+                            "sku_id": "1479187373639340103",
+                            "asset": "a_6aa12a372ac693ca3317505895e1302f",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1479187373639340103/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1479187373639340103/animated"
+                            },
+                            "label": "Glowing teal and purple butterflies with trails of purple cosmic dust and sparkles"
+                        }
+                    ],
+                    "type": 0,
+                    "premium_type": 0,
+                    "category_sku_id": "1479186830472511588",
+                    "google_sku_ids": {
+                        "5": "1479187373639340103_1479191131546849320",
+                        "7": "1479187373639340103_1479191138182103080"
+                    }
+                },
+                {
+                    "sku_id": "1479187549367828692",
+                    "name": "Dreamkeeper",
+                    "summary": "Give your avatar a new look.",
+                    "store_listing_id": "1479187549367828692",
+                    "styles": {
+                        "background_colors": [
+                            10054384,
+                            16158949
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": 0,
+                            "id": 1,
+                            "sku_id": "1479187549367828692",
+                            "asset": "a_050cdfce960c0e124280d985f6d2675d",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1479187549367828692/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1479187549367828692/animated"
+                            },
+                            "label": "Gold and pink crescent lined with eyes that morphs into a single large feather-winged eye"
+                        }
+                    ],
+                    "type": 0,
+                    "premium_type": 0,
+                    "category_sku_id": "1479186830472511588",
+                    "google_sku_ids": {
+                        "5": "1479187549367828692_1479188078441664562",
+                        "7": "1479187549367828692_1479188085106544916"
+                    }
+                },
+                {
+                    "sku_id": "1479187698768937010",
+                    "name": "Cosmic Rainbow",
+                    "summary": "Give your avatar a new look.",
+                    "store_listing_id": "1479187698768937010",
+                    "styles": {
+                        "background_colors": [
+                            10054384,
+                            16158949
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": 0,
+                            "id": 1,
+                            "sku_id": "1479187698768937010",
+                            "asset": "a_33488e986d50fcf1896b7d1abd2528fa",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1479187698768937010/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1479187698768937010/animated"
+                            },
+                            "label": "Cosmic ring of purple and pink clouds with a rainbow comet"
+                        }
+                    ],
+                    "type": 0,
+                    "premium_type": 0,
+                    "category_sku_id": "1479186830472511588",
+                    "google_sku_ids": {
+                        "5": "1479187698768937010_1479189899147214920",
+                        "7": "1479187698768937010_1479189906839441428"
+                    }
+                },
+                {
+                    "sku_id": "1479187863756345384",
+                    "name": "Dream Hop",
+                    "summary": "Give your avatar a new look.",
+                    "store_listing_id": "1479187863756345384",
+                    "styles": {
+                        "background_colors": [
+                            10054384,
+                            16158949
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": 0,
+                            "id": 1,
+                            "sku_id": "1479187863756345384",
+                            "asset": "a_cd8c9673129b1a69a8d020f9ba3ca915",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1479187863756345384/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1479187863756345384/animated"
+                            },
+                            "label": "Ornate peach and gold baroque frame with a winged pink bunny hopping through"
+                        }
+                    ],
+                    "type": 0,
+                    "premium_type": 0,
+                    "category_sku_id": "1479186830472511588",
+                    "google_sku_ids": {
+                        "5": "1479187863756345384_1479188450279424071",
+                        "7": "1479187863756345384_1479188456373485711"
+                    }
+                },
+                {
+                    "sku_id": "1479187981083349214",
+                    "name": "Cloud Kingdom",
+                    "summary": "Show this effect when others view your profile.",
+                    "store_listing_id": "1479187981083349214",
+                    "styles": {
+                        "background_colors": [
+                            10054384,
+                            16158949
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": 1,
+                            "id": 1,
+                            "sku_id": "1479187981083349214",
+                            "title": "Cloud Kingdom",
+                            "description": "Show this effect when others view your profile.",
+                            "accessibilityLabel": "A glowing fantasy castle rising from pastel pink and purple clouds",
+                            "animationType": 2,
+                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/52851daf06c3335187eb9414145bf8eba28acad95bb1d7eeefea6784a7349533",
+                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/7cd84f8ca8adedb1a493402d1b0ac1f5009dce7ca8c918019cdb59922dd2246d",
+                            "effects": [
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/c0234d7bbb187f85a1b8b4fbd351e4fa6d452ee2645ae0ecdd10a500dc0ff535",
+                                    "loop": false,
+                                    "duration": 5000,
+                                    "start": 0,
+                                    "loopDelay": 0,
+                                    "zIndex": 100,
+                                    "randomizedSources": []
+                                },
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/68d26850d4c8797afe4e42c5e77bb53fe15e9f098676921c86099e491f00e39d",
+                                    "loop": true,
+                                    "duration": 5000,
+                                    "start": 7000,
+                                    "loopDelay": 3500,
+                                    "zIndex": 101,
+                                    "randomizedSources": []
+                                }
+                            ]
+                        }
+                    ],
+                    "type": 1,
+                    "premium_type": 0,
+                    "category_sku_id": "1479186830472511588",
+                    "google_sku_ids": {
+                        "5": "1479187981083349214_1479191297708527657",
+                        "7": "1479187981083349214_1479191305794879690"
+                    }
+                },
+                {
+                    "sku_id": "1479189863629852682",
+                    "name": "Enchanted Cosmos",
+                    "summary": "Show this effect when others view your profile.",
+                    "store_listing_id": "1479189863629852682",
+                    "styles": {
+                        "background_colors": [
+                            10054384,
+                            16158949
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": 1,
+                            "id": 1,
+                            "sku_id": "1479189863629852682",
+                            "title": "Enchanted Cosmos",
+                            "description": "Show this effect when others view your profile.",
+                            "accessibilityLabel": "Dreamy pink and purple cosmic clouds with glowing planets, bubbles, and a rainbow comet",
+                            "animationType": 2,
+                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/4a9427f72fd4b7ada5fa1cc1d303f07c0326d281f71ba071392701b6a4632403",
+                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/1e5fc28c8878a61e47d2d5bb8a5f559d76e81d8d59339ab90a7e949f83c234ce",
+                            "effects": [
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/de0f810f9004f981f29842bba8438ee55a5cf0a425ae1b2bf50ee0cfd8cf7e70",
+                                    "loop": false,
+                                    "duration": 5000,
+                                    "start": 0,
+                                    "loopDelay": 0,
+                                    "zIndex": 100,
+                                    "randomizedSources": []
+                                },
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/d3363103df94e7444333e1f7aaf78d86bea7da7dfbd1ecd3bb28be5e9726dd63",
+                                    "loop": true,
+                                    "duration": 5000,
+                                    "start": 6500,
+                                    "loopDelay": 4500,
+                                    "zIndex": 101,
+                                    "randomizedSources": []
+                                }
+                            ]
+                        }
+                    ],
+                    "type": 1,
+                    "premium_type": 0,
+                    "category_sku_id": "1479186830472511588",
+                    "google_sku_ids": {
+                        "5": "1479189863629852682_1479190733956317316",
+                        "7": "1479189863629852682_1479190740264288457"
+                    }
+                },
+                {
+                    "sku_id": "1479190288936210433",
+                    "name": "Dream Hop Portal",
+                    "summary": "Show this effect when others view your profile.",
+                    "store_listing_id": "1479190288936210433",
+                    "styles": {
+                        "background_colors": [
+                            10054384,
+                            16158949
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "items": [
+                        {
+                            "type": 1,
+                            "id": 1,
+                            "sku_id": "1479190288936210433",
+                            "title": "Dream Hop Portal",
+                            "description": "Show this effect when others view your profile.",
+                            "accessibilityLabel": "Ornate baroque gateway to a pink stairway in the clouds, with pink winged bunnies hopping upward",
+                            "animationType": 2,
+                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/484386b34e26b35f2c65cf2c757ee0ca50745ca7ad878069f185f9a3396a932a",
+                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/5f2945694f7487823026cbb24396c8e1e2961a7e8741123ac9a75b329f6f3f6b",
+                            "effects": [
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/399334a1d40013704e1070ae1c378601bc0fdccdbf98a9f48b5dd0db37cb9807",
+                                    "loop": false,
+                                    "duration": 5083,
+                                    "start": 0,
+                                    "loopDelay": 0,
+                                    "zIndex": 100,
+                                    "randomizedSources": []
+                                },
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/bf5a5e772a20f7cf272627b49e571d117bcddcaa62a2eb710a5adeee7e73bdfa",
+                                    "loop": true,
+                                    "duration": 4583,
+                                    "start": 6500,
+                                    "loopDelay": 3500,
+                                    "zIndex": 101,
+                                    "randomizedSources": []
+                                }
+                            ]
+                        }
+                    ],
+                    "type": 1,
+                    "premium_type": 0,
+                    "category_sku_id": "1479186830472511588",
+                    "google_sku_ids": {
+                        "5": "1479190288936210433_1479192725243826289",
+                        "7": "1479190288936210433_1479192732173074502"
+                    }
+                }
+            ],
+            "hero_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/d6c2712d765d1bdf7d4b05bb4efb085cc95a2fc94da6c138d67dfbe4ac6a6698",
+            "hero_logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/d80fdd2dbf0e40514e7c43afa24f3c6bf6696e9ae7574b28c69dd5096ad74bb1",
+            "catalog_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/5f8e49619509d339303f6b3455a39a6ebe4fe208b91821c7db2df1f1913a09a5",
+            "featured_block_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/7255249b396715cc4668b8b9b479e7d2150f570c7c7a91db02327d7f300fcf36",
+            "logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/8cdda03f9bd248a5e57e02c5d128f6e1b2fc3b396124744b8e36986f192d5890",
+            "pdp_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/dd67f168607ed6e37a26cfd5479e969a888b4d3f630468337f878a6a5c4b7dd9",
+            "mobile_hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/c891dd5165a1932753d8d02cbb998edb6f04ee3a76643eff66e689f1a3b14d9c",
+            "mobile_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/fd1e2f1a46c4021f796cb4c1d7a48e04cf754913d26b9a6e2cfe0f87c346bded",
+            "mobile_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/c4298ba8d1b0e76dd215a51a433fa214c7be13cca91ed0486a86a49d1bf42932",
+            "hero_banner_display_config": {
+                "desktop_max_height": null,
+                "mobile_max_height": null,
+                "responsive": false,
+                "background_style": "linear-gradient(180deg, #996AF0 0%, #F690E5 100%)"
+            }
+        },
+        {
             "sku_id": "1478147561062797454",
             "name": "Feeling Lucky",
             "summary": " ",
