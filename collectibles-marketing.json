@@ -1,35 +1,45 @@
 {
     "marketings": {
         "0": {
-            "type": 0,
-            "version": 65,
-            "title": "Daydreaming",
-            "body": "Your profile, but dreamier. Find your favorite look now.",
-            "avatar": "https://cdn.discordapp.com/assets/content/886c9960358eeb8e1574b8ec5bd496927a60f7883baa889975ecc04864711448.png",
-            "decorations": [
-                "a_7b4b20ad6ec70d6ce19b8d9b8d930658",
-                "a_6aa12a372ac693ca3317505895e1302f",
-                "a_050cdfce960c0e124280d985f6d2675d",
-                "a_33488e986d50fcf1896b7d1abd2528fa"
-            ],
-            "avatar_decoration_sku_ids": [
-                "1479186868187959358",
-                "1479187373639340103",
-                "1479187549367828692",
-                "1479187698768937010"
-            ],
+            "type": 4,
+            "version": 67,
+            "title": "Mood",
+            "body": "Not a prank! New styles just dropped. Shop now and match your mood.",
+            "asset": "https://cdn.discordapp.com/media/v1/collectibles-shop/50e8d1500a6519d3fdcae22ac6ca7bdfcd2b02a42ef38edd07e75da7742ad22a",
             "dismissible_content": 422,
-            "ref_target_background": null,
+            "ref_target_background": {
+                "style": {
+                    "resting": {
+                        "light": null,
+                        "dark": null
+                    },
+                    "hovered": {
+                        "light": null,
+                        "dark": null
+                    }
+                },
+                "asset": {
+                    "resting": {
+                        "light": null,
+                        "dark": null
+                    },
+                    "hovered": {
+                        "light": "https://cdn.discordapp.com/media/v1/collectibles-shop/b484822872691ae1c474647d104b75fdb34955e353583dbd419c3cfa01781434",
+                        "dark": "https://cdn.discordapp.com/media/v1/collectibles-shop/b484822872691ae1c474647d104b75fdb34955e353583dbd419c3cfa01781434"
+                    }
+                }
+            },
             "badge_icon": null,
             "badge_text": null
         },
         "2": {
             "type": 2,
-            "version": 65,
+            "version": 67,
             "title": "Give your profile a fresh look",
             "body": "Check out the latest avatar decorations, profile effects, and nameplates and collect your favorite styles.",
-            "asset": "https://cdn.discordapp.com/media/v1/collectibles-shop/392d39e77fdc2a0f740cdeda3d257216b9dfdfc9c3161c7f0e1f41efcebe2aea",
-            "popout_asset": "https://cdn.discordapp.com/media/v1/collectibles-shop/88ac158cfd12c61be7292135234791f4eee32472c5df5624a161be7f651e4a25"
+            "asset": "https://cdn.discordapp.com/media/v1/collectibles-shop/c909eb3e63e870581711ae1ecc9948509014df9b1dc82fd340bf109007523521",
+            "popout_asset": "https://cdn.discordapp.com/media/v1/collectibles-shop/8af9a81d781c81a7693ebd45955ed532bfc516637e2865823afc9a3f8699e40a",
+            "revert_text_color": true
         }
     }
 }
