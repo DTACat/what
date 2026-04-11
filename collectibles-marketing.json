@@ -2,10 +2,10 @@
     "marketings": {
         "0": {
             "type": 4,
-            "version": 67,
-            "title": "Mood",
-            "body": "Not a prank! New styles just dropped. Shop now and match your mood.",
-            "asset": "https://cdn.discordapp.com/media/v1/collectibles-shop/50e8d1500a6519d3fdcae22ac6ca7bdfcd2b02a42ef38edd07e75da7742ad22a",
+            "version": 68,
+            "title": "Hello Kitty® and Friends",
+            "body": "Your favorite characters are here! Come say hello.",
+            "asset": "https://cdn.discordapp.com/media/v1/collectibles-shop/f0b040769cf78c1a92b0b6954d18fa8d90be2ce5d094075ce325e28e7a7f2577",
             "dismissible_content": 422,
             "ref_target_background": {
                 "style": {
@@ -24,21 +24,20 @@
                         "dark": null
                     },
                     "hovered": {
-                        "light": "https://cdn.discordapp.com/media/v1/collectibles-shop/b484822872691ae1c474647d104b75fdb34955e353583dbd419c3cfa01781434",
-                        "dark": "https://cdn.discordapp.com/media/v1/collectibles-shop/b484822872691ae1c474647d104b75fdb34955e353583dbd419c3cfa01781434"
+                        "light": "https://cdn.discordapp.com/media/v1/collectibles-shop/b56829da75873e081517f8701ebde611a33eb1c0a831216517f6ae0f79f035a4",
+                        "dark": "https://cdn.discordapp.com/media/v1/collectibles-shop/b56829da75873e081517f8701ebde611a33eb1c0a831216517f6ae0f79f035a4"
                     }
                 }
             },
-            "badge_icon": null,
-            "badge_text": null
+            "show_hover_gradient": true
         },
         "2": {
             "type": 2,
-            "version": 67,
+            "version": 68,
             "title": "Give your profile a fresh look",
             "body": "Check out the latest avatar decorations, profile effects, and nameplates and collect your favorite styles.",
-            "asset": "https://cdn.discordapp.com/media/v1/collectibles-shop/c909eb3e63e870581711ae1ecc9948509014df9b1dc82fd340bf109007523521",
-            "popout_asset": "https://cdn.discordapp.com/media/v1/collectibles-shop/8af9a81d781c81a7693ebd45955ed532bfc516637e2865823afc9a3f8699e40a",
+            "asset": "https://cdn.discordapp.com/media/v1/collectibles-shop/e50c75d4c9c17e73f48bd3c737087ba1b3efb699202d906bebea5916d7c6489c",
+            "popout_asset": "https://cdn.discordapp.com/media/v1/collectibles-shop/e9f6b16d660a434e6a5433b7dd1a6f0662299721aecfe37730012cee6b20d874",
             "revert_text_color": true
         }
     }
