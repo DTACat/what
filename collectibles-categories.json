@@ -25,8 +25,8 @@
             "hero_ranking": [
                 "1493449742875885568",
                 "1493450101127909526",
-                "1493344853596180490",
                 "1493344973230440638",
+                "1493344853596180490",
                 "1493341414766018600",
                 "1493344745383002332",
                 "1493450269281882274",
@@ -296,6 +296,262 @@
                     "google_sku_ids": {
                         "5": "1493449742875885568_1493451715968634990",
                         "7": "1493449742875885568_1493451721387544636"
+                    }
+                },
+                {
+                    "sku_id": "1493451256616845423",
+                    "name": "Glowies Bundle",
+                    "summary": "{joinedItems}",
+                    "store_listing_id": "1493451256616845423",
+                    "styles": {
+                        "background_colors": [
+                            1515796,
+                            724236
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 1599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 11000,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 1299,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 11000,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": {
+                        "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/1cbf66ed5d87d6a8ae86ee9793bc1d0133f85c46832ea8466d714f3e82b7ebeb",
+                        "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/d349de8884aaca91cb1423ca9979100fb53f430cddc0d5e26d5e1b94e282374a"
+                    },
+                    "items": [
+                        {
+                            "type": 0,
+                            "sku_id": "1493344973230440638",
+                            "asset": "a_f5957a07b90ded4cfe3c5aa499573bf0",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493344973230440638/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493344973230440638/animated"
+                            },
+                            "label": "Glowing fireflies float inside a glass jar"
+                        },
+                        {
+                            "type": 2,
+                            "sku_id": "1493348788713033878",
+                            "asset": "nameplates/glowies/1493348788713033878/",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493348788713033878/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493348788713033878/animated",
+                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493348788713033878/video"
+                            },
+                            "label": "Two glowing fireflies dance around each other in the air",
+                            "palette": "sky"
+                        },
+                        {
+                            "type": 1,
+                            "sku_id": "1493448979101519982",
+                            "title": "Buggy Branches",
+                            "description": "Show this effect when others view your profile.",
+                            "accessibilityLabel": "A bumblebee and ladybug float through a forest canopy filled with ladybugs and beetles",
+                            "animationType": 1,
+                            "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/3268a18303f7ea68b7aea74d56d549a2c17c4523eb60925b749bab7f3731c6a9",
+                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/70af748d07993526e4b7eaa98c597b9ed89de0542710f44451e62686b568ed63",
+                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/b29ee24173c3d79174bf64e269f08f6b0fd92b81e3af32b15b53a12bba21b1de",
+                            "effects": [
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/daa7490f2c80352fa9eb5b685766c03c1ac5ce3f460b4bd30ee621bb6ad80c7d",
+                                    "loop": false,
+                                    "duration": 5000,
+                                    "start": 0,
+                                    "loopDelay": 0,
+                                    "zIndex": 100,
+                                    "randomizedSources": []
+                                },
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/fc139035474a15dade068317fa65b025611f7361b062dbb347003f9f6ab74289",
+                                    "loop": true,
+                                    "duration": 5000,
+                                    "start": 5000,
+                                    "loopDelay": 0,
+                                    "zIndex": 101,
+                                    "randomizedSources": []
+                                }
+                            ]
+                        }
+                    ],
+                    "type": 1000,
+                    "premium_type": 0,
+                    "category_sku_id": "1492264701281702039",
+                    "bundled_products": [
+                        {
+                            "sku_id": "1493344973230440638",
+                            "name": "Jar of Glowies",
+                            "summary": "Give your avatar a new look.",
+                            "type": 0,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "sku_id": "1493348788713033878",
+                            "name": "Glowies",
+                            "summary": "Make your name stand out in servers and chats.",
+                            "type": 2,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "sku_id": "1493448979101519982",
+                            "name": "Buggy Branches",
+                            "summary": "Show this effect when others view your profile.",
+                            "type": 1,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "google_sku_ids": {
+                        "5": "1493451256616845423_1493455112885239808",
+                        "7": "1493451256616845423_1493455121588289708"
                     }
                 },
                 {
@@ -811,262 +1067,6 @@
                     }
                 },
                 {
-                    "sku_id": "1493451256616845423",
-                    "name": "Glowies Bundle",
-                    "summary": "{joinedItems}",
-                    "store_listing_id": "1493451256616845423",
-                    "styles": {
-                        "background_colors": [
-                            1515796,
-                            724236
-                        ],
-                        "button_colors": [
-                            5793266,
-                            5793266
-                        ],
-                        "confetti_colors": [
-                            43772,
-                            15774258,
-                            16414587,
-                            3000177,
-                            9739511
-                        ]
-                    },
-                    "prices": {
-                        "0": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 1599,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    },
-                                    {
-                                        "amount": 11000,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        },
-                        "4": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 1299,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    },
-                                    {
-                                        "amount": 11000,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "preview_assets": {
-                        "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/1cbf66ed5d87d6a8ae86ee9793bc1d0133f85c46832ea8466d714f3e82b7ebeb",
-                        "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/d349de8884aaca91cb1423ca9979100fb53f430cddc0d5e26d5e1b94e282374a"
-                    },
-                    "items": [
-                        {
-                            "type": 0,
-                            "sku_id": "1493344973230440638",
-                            "asset": "a_f5957a07b90ded4cfe3c5aa499573bf0",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493344973230440638/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493344973230440638/animated"
-                            },
-                            "label": "Glowing fireflies float inside a glass jar"
-                        },
-                        {
-                            "type": 2,
-                            "sku_id": "1493348788713033878",
-                            "asset": "nameplates/glowies/1493348788713033878/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493348788713033878/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493348788713033878/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493348788713033878/video"
-                            },
-                            "label": "Two glowing fireflies dance around each other in the air",
-                            "palette": "sky"
-                        },
-                        {
-                            "type": 1,
-                            "sku_id": "1493448979101519982",
-                            "title": "Buggy Branches",
-                            "description": "Show this effect when others view your profile.",
-                            "accessibilityLabel": "A bumblebee and ladybug float through a forest canopy filled with ladybugs and beetles",
-                            "animationType": 1,
-                            "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/3268a18303f7ea68b7aea74d56d549a2c17c4523eb60925b749bab7f3731c6a9",
-                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/70af748d07993526e4b7eaa98c597b9ed89de0542710f44451e62686b568ed63",
-                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/b29ee24173c3d79174bf64e269f08f6b0fd92b81e3af32b15b53a12bba21b1de",
-                            "effects": [
-                                {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/daa7490f2c80352fa9eb5b685766c03c1ac5ce3f460b4bd30ee621bb6ad80c7d",
-                                    "loop": false,
-                                    "duration": 5000,
-                                    "start": 0,
-                                    "loopDelay": 0,
-                                    "zIndex": 100,
-                                    "randomizedSources": []
-                                },
-                                {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/fc139035474a15dade068317fa65b025611f7361b062dbb347003f9f6ab74289",
-                                    "loop": true,
-                                    "duration": 5000,
-                                    "start": 5000,
-                                    "loopDelay": 0,
-                                    "zIndex": 101,
-                                    "randomizedSources": []
-                                }
-                            ]
-                        }
-                    ],
-                    "type": 1000,
-                    "premium_type": 0,
-                    "category_sku_id": "1492264701281702039",
-                    "bundled_products": [
-                        {
-                            "sku_id": "1493344973230440638",
-                            "name": "Jar of Glowies",
-                            "summary": "Give your avatar a new look.",
-                            "type": 0,
-                            "premium_type": 0,
-                            "prices": {
-                                "0": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 599,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                },
-                                "4": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 499,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                }
-                            }
-                        },
-                        {
-                            "sku_id": "1493348788713033878",
-                            "name": "Glowies",
-                            "summary": "Make your name stand out in servers and chats.",
-                            "type": 2,
-                            "premium_type": 0,
-                            "prices": {
-                                "0": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 599,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                },
-                                "4": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 499,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                }
-                            }
-                        },
-                        {
-                            "sku_id": "1493448979101519982",
-                            "name": "Buggy Branches",
-                            "summary": "Show this effect when others view your profile.",
-                            "type": 1,
-                            "premium_type": 0,
-                            "prices": {
-                                "0": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 599,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                },
-                                "4": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 499,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                }
-                            }
-                        }
-                    ],
-                    "google_sku_ids": {
-                        "5": "1493451256616845423_1493455112885239808",
-                        "7": "1493451256616845423_1493455121588289708"
-                    }
-                },
-                {
                     "sku_id": "1493341414766018600",
                     "name": "Busy Bee",
                     "summary": "Give your avatar a new look.",
@@ -1143,6 +1143,85 @@
                     "google_sku_ids": {
                         "5": "1493341414766018600_1493346036050165800",
                         "7": "1493341414766018600_1493346042190762024"
+                    }
+                },
+                {
+                    "sku_id": "1493344973230440638",
+                    "name": "Jar of Glowies",
+                    "summary": "Give your avatar a new look.",
+                    "store_listing_id": "1493344973230440638",
+                    "styles": {
+                        "background_colors": [
+                            1515796,
+                            724236
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 0,
+                            "sku_id": "1493344973230440638",
+                            "asset": "a_f5957a07b90ded4cfe3c5aa499573bf0",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493344973230440638/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493344973230440638/animated"
+                            },
+                            "label": "Glowing fireflies float inside a glass jar"
+                        }
+                    ],
+                    "type": 0,
+                    "premium_type": 0,
+                    "category_sku_id": "1492264701281702039",
+                    "google_sku_ids": {
+                        "5": "1493344973230440638_1493347357247668346",
+                        "7": "1493344973230440638_1493347364222664724"
                     }
                 },
                 {
@@ -1301,85 +1380,6 @@
                     "google_sku_ids": {
                         "5": "1493344853596180490_1493348898498940928",
                         "7": "1493344853596180490_1493348903914049847"
-                    }
-                },
-                {
-                    "sku_id": "1493344973230440638",
-                    "name": "Jar of Glowies",
-                    "summary": "Give your avatar a new look.",
-                    "store_listing_id": "1493344973230440638",
-                    "styles": {
-                        "background_colors": [
-                            1515796,
-                            724236
-                        ],
-                        "button_colors": [
-                            5793266,
-                            5793266
-                        ],
-                        "confetti_colors": [
-                            43772,
-                            15774258,
-                            16414587,
-                            3000177,
-                            9739511
-                        ]
-                    },
-                    "prices": {
-                        "0": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 599,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    },
-                                    {
-                                        "amount": 4100,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        },
-                        "4": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 499,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    },
-                                    {
-                                        "amount": 4100,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "preview_assets": null,
-                    "items": [
-                        {
-                            "type": 0,
-                            "sku_id": "1493344973230440638",
-                            "asset": "a_f5957a07b90ded4cfe3c5aa499573bf0",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493344973230440638/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493344973230440638/animated"
-                            },
-                            "label": "Glowing fireflies float inside a glass jar"
-                        }
-                    ],
-                    "type": 0,
-                    "premium_type": 0,
-                    "category_sku_id": "1492264701281702039",
-                    "google_sku_ids": {
-                        "5": "1493344973230440638_1493347357247668346",
-                        "7": "1493344973230440638_1493347364222664724"
                     }
                 },
                 {
