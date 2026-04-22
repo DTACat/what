@@ -1,6 +1,2180 @@
 {
     "categories": [
         {
+            "sku_id": "1492264701281702039",
+            "name": "Smol Bugs",
+            "summary": " ",
+            "store_listing_id": "1492264701281702039",
+            "styles": {
+                "background_colors": [
+                    1515796,
+                    724236
+                ],
+                "button_colors": [
+                    5793266,
+                    5793266
+                ],
+                "confetti_colors": [
+                    43772,
+                    15774258,
+                    16414587,
+                    3000177,
+                    9739511
+                ]
+            },
+            "hero_ranking": [
+                "1493449742875885568",
+                "1493450101127909526",
+                "1493344853596180490",
+                "1493344973230440638",
+                "1493341414766018600",
+                "1493344745383002332",
+                "1493450269281882274",
+                "1493451256616845423",
+                "1493345090855370752",
+                "1493345236531806338",
+                "1493345371915682006",
+                "1493345497526567033",
+                "1493348343114371343",
+                "1493348343999500489",
+                "1493348788713033878",
+                "1493446745059754035",
+                "1493448979101519982"
+            ],
+            "products": [
+                {
+                    "sku_id": "1493449742875885568",
+                    "name": "Busy Bee Bundle",
+                    "summary": "{joinedItems}",
+                    "store_listing_id": "1493449742875885568",
+                    "styles": {
+                        "background_colors": [
+                            1515796,
+                            724236
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 1599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 11000,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 1299,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 11000,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": {
+                        "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/9665d210b82f3e0df20a5deda218bb93874097ed693c1cab4eb69535f0189aa0",
+                        "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/d349de8884aaca91cb1423ca9979100fb53f430cddc0d5e26d5e1b94e282374a"
+                    },
+                    "items": [
+                        {
+                            "type": 0,
+                            "sku_id": "1493341414766018600",
+                            "asset": "a_06e1b28461422fc20d3b3d908cc0c8fb",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493341414766018600/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493341414766018600/animated"
+                            },
+                            "label": "A cheerful bumblebee lazily flies toward a pink flower and sniffs it deeply"
+                        },
+                        {
+                            "type": 2,
+                            "sku_id": "1493345090855370752",
+                            "asset": "nameplates/busy_bee/1493345090855370752/",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493345090855370752/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493345090855370752/animated",
+                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493345090855370752/video"
+                            },
+                            "label": "A bumblebee sniffs a pink flower deeply",
+                            "palette": "sky"
+                        },
+                        {
+                            "type": 1,
+                            "sku_id": "1493448979101519982",
+                            "title": "Buggy Branches",
+                            "description": "Show this effect when others view your profile.",
+                            "accessibilityLabel": "A bumblebee and ladybug float through a forest canopy filled with ladybugs and beetles",
+                            "animationType": 1,
+                            "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/3268a18303f7ea68b7aea74d56d549a2c17c4523eb60925b749bab7f3731c6a9",
+                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/70af748d07993526e4b7eaa98c597b9ed89de0542710f44451e62686b568ed63",
+                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/b29ee24173c3d79174bf64e269f08f6b0fd92b81e3af32b15b53a12bba21b1de",
+                            "effects": [
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/daa7490f2c80352fa9eb5b685766c03c1ac5ce3f460b4bd30ee621bb6ad80c7d",
+                                    "loop": false,
+                                    "duration": 5000,
+                                    "start": 0,
+                                    "loopDelay": 0,
+                                    "zIndex": 100,
+                                    "randomizedSources": []
+                                },
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/fc139035474a15dade068317fa65b025611f7361b062dbb347003f9f6ab74289",
+                                    "loop": true,
+                                    "duration": 5000,
+                                    "start": 5000,
+                                    "loopDelay": 0,
+                                    "zIndex": 101,
+                                    "randomizedSources": []
+                                }
+                            ]
+                        }
+                    ],
+                    "type": 1000,
+                    "premium_type": 0,
+                    "category_sku_id": "1492264701281702039",
+                    "bundled_products": [
+                        {
+                            "sku_id": "1493341414766018600",
+                            "name": "Busy Bee",
+                            "summary": "Give your avatar a new look.",
+                            "type": 0,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "sku_id": "1493345090855370752",
+                            "name": "Busy Bee",
+                            "summary": "Make your name stand out in servers and chats.",
+                            "type": 2,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "sku_id": "1493448979101519982",
+                            "name": "Buggy Branches",
+                            "summary": "Show this effect when others view your profile.",
+                            "type": 1,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "google_sku_ids": {
+                        "5": "1493449742875885568_1493451715968634990",
+                        "7": "1493449742875885568_1493451721387544636"
+                    }
+                },
+                {
+                    "sku_id": "1493450101127909526",
+                    "name": "Lil' Inchy Bundle",
+                    "summary": "{joinedItems}",
+                    "store_listing_id": "1493450101127909526",
+                    "styles": {
+                        "background_colors": [
+                            1515796,
+                            724236
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 1599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 11000,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 1299,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 11000,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": {
+                        "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/873c4eaae2b44edfc5b633018f3140abd69821a7b62ce812a82d611e5984d4a1",
+                        "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/d349de8884aaca91cb1423ca9979100fb53f430cddc0d5e26d5e1b94e282374a"
+                    },
+                    "items": [
+                        {
+                            "type": 0,
+                            "sku_id": "1493344745383002332",
+                            "asset": "a_c7935ecfee94ff0329fcaddc0c37d48d",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493344745383002332/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493344745383002332/animated"
+                            },
+                            "label": "A small green inchworm inches across the avatar"
+                        },
+                        {
+                            "type": 2,
+                            "sku_id": "1493345371915682006",
+                            "asset": "nameplates/lil'_inchy/1493345371915682006/",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493345371915682006/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493345371915682006/animated",
+                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493345371915682006/video"
+                            },
+                            "label": "A small green inchworm inches along a leaf",
+                            "palette": "sky"
+                        },
+                        {
+                            "type": 1,
+                            "sku_id": "1493448979101519982",
+                            "title": "Buggy Branches",
+                            "description": "Show this effect when others view your profile.",
+                            "accessibilityLabel": "A bumblebee and ladybug float through a forest canopy filled with ladybugs and beetles",
+                            "animationType": 1,
+                            "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/3268a18303f7ea68b7aea74d56d549a2c17c4523eb60925b749bab7f3731c6a9",
+                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/70af748d07993526e4b7eaa98c597b9ed89de0542710f44451e62686b568ed63",
+                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/b29ee24173c3d79174bf64e269f08f6b0fd92b81e3af32b15b53a12bba21b1de",
+                            "effects": [
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/daa7490f2c80352fa9eb5b685766c03c1ac5ce3f460b4bd30ee621bb6ad80c7d",
+                                    "loop": false,
+                                    "duration": 5000,
+                                    "start": 0,
+                                    "loopDelay": 0,
+                                    "zIndex": 100,
+                                    "randomizedSources": []
+                                },
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/fc139035474a15dade068317fa65b025611f7361b062dbb347003f9f6ab74289",
+                                    "loop": true,
+                                    "duration": 5000,
+                                    "start": 5000,
+                                    "loopDelay": 0,
+                                    "zIndex": 101,
+                                    "randomizedSources": []
+                                }
+                            ]
+                        }
+                    ],
+                    "type": 1000,
+                    "premium_type": 0,
+                    "category_sku_id": "1492264701281702039",
+                    "bundled_products": [
+                        {
+                            "sku_id": "1493344745383002332",
+                            "name": "Lil' Inchy",
+                            "summary": "Give your avatar a new look.",
+                            "type": 0,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "sku_id": "1493345371915682006",
+                            "name": "Lil' Inchy",
+                            "summary": "Make your name stand out in servers and chats.",
+                            "type": 2,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "sku_id": "1493448979101519982",
+                            "name": "Buggy Branches",
+                            "summary": "Show this effect when others view your profile.",
+                            "type": 1,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "google_sku_ids": {
+                        "5": "1493450101127909526_1493453316980740096",
+                        "7": "1493450101127909526_1493453323162878043"
+                    }
+                },
+                {
+                    "sku_id": "1493450269281882274",
+                    "name": "Roly Poly Bundle",
+                    "summary": "{joinedItems}",
+                    "store_listing_id": "1493450269281882274",
+                    "styles": {
+                        "background_colors": [
+                            1515796,
+                            724236
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 1599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 11000,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 1299,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 11000,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": {
+                        "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/4697ad7bf7af702eb3442d2158ae092263784cb8cd419b3e04011a1ffbf6e71d",
+                        "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/d349de8884aaca91cb1423ca9979100fb53f430cddc0d5e26d5e1b94e282374a"
+                    },
+                    "items": [
+                        {
+                            "type": 0,
+                            "sku_id": "1493344853596180490",
+                            "asset": "a_7d5e7264c04937c754d03acadf718d4f",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493344853596180490/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493344853596180490/animated"
+                            },
+                            "label": "Three colorful pill bugs curl into balls and roll around in a circle"
+                        },
+                        {
+                            "type": 2,
+                            "sku_id": "1493345497526567033",
+                            "asset": "nameplates/roly_poly/1493345497526567033/",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493345497526567033/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493345497526567033/animated",
+                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493345497526567033/video"
+                            },
+                            "label": "A pink pill bug rolls down a grassy hill",
+                            "palette": "sky"
+                        },
+                        {
+                            "type": 1,
+                            "sku_id": "1493448979101519982",
+                            "title": "Buggy Branches",
+                            "description": "Show this effect when others view your profile.",
+                            "accessibilityLabel": "A bumblebee and ladybug float through a forest canopy filled with ladybugs and beetles",
+                            "animationType": 1,
+                            "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/3268a18303f7ea68b7aea74d56d549a2c17c4523eb60925b749bab7f3731c6a9",
+                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/70af748d07993526e4b7eaa98c597b9ed89de0542710f44451e62686b568ed63",
+                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/b29ee24173c3d79174bf64e269f08f6b0fd92b81e3af32b15b53a12bba21b1de",
+                            "effects": [
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/daa7490f2c80352fa9eb5b685766c03c1ac5ce3f460b4bd30ee621bb6ad80c7d",
+                                    "loop": false,
+                                    "duration": 5000,
+                                    "start": 0,
+                                    "loopDelay": 0,
+                                    "zIndex": 100,
+                                    "randomizedSources": []
+                                },
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/fc139035474a15dade068317fa65b025611f7361b062dbb347003f9f6ab74289",
+                                    "loop": true,
+                                    "duration": 5000,
+                                    "start": 5000,
+                                    "loopDelay": 0,
+                                    "zIndex": 101,
+                                    "randomizedSources": []
+                                }
+                            ]
+                        }
+                    ],
+                    "type": 1000,
+                    "premium_type": 0,
+                    "category_sku_id": "1492264701281702039",
+                    "bundled_products": [
+                        {
+                            "sku_id": "1493344853596180490",
+                            "name": "Roly Poly Gang",
+                            "summary": "Give your avatar a new look.",
+                            "type": 0,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "sku_id": "1493345497526567033",
+                            "name": "Roly Poly (Pink)",
+                            "summary": "Make your name stand out in servers and chats.",
+                            "type": 2,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "sku_id": "1493448979101519982",
+                            "name": "Buggy Branches",
+                            "summary": "Show this effect when others view your profile.",
+                            "type": 1,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "google_sku_ids": {
+                        "5": "1493450269281882274_1493450836100255887",
+                        "7": "1493450269281882274_1493450842789908581"
+                    }
+                },
+                {
+                    "sku_id": "1493451256616845423",
+                    "name": "Glowies Bundle",
+                    "summary": "{joinedItems}",
+                    "store_listing_id": "1493451256616845423",
+                    "styles": {
+                        "background_colors": [
+                            1515796,
+                            724236
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 1599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 11000,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 1299,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 11000,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": {
+                        "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/1cbf66ed5d87d6a8ae86ee9793bc1d0133f85c46832ea8466d714f3e82b7ebeb",
+                        "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/d349de8884aaca91cb1423ca9979100fb53f430cddc0d5e26d5e1b94e282374a"
+                    },
+                    "items": [
+                        {
+                            "type": 0,
+                            "sku_id": "1493344973230440638",
+                            "asset": "a_f5957a07b90ded4cfe3c5aa499573bf0",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493344973230440638/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493344973230440638/animated"
+                            },
+                            "label": "Glowing fireflies float inside a glass jar"
+                        },
+                        {
+                            "type": 2,
+                            "sku_id": "1493348788713033878",
+                            "asset": "nameplates/glowies/1493348788713033878/",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493348788713033878/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493348788713033878/animated",
+                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493348788713033878/video"
+                            },
+                            "label": "Two glowing fireflies dance around each other in the air",
+                            "palette": "sky"
+                        },
+                        {
+                            "type": 1,
+                            "sku_id": "1493448979101519982",
+                            "title": "Buggy Branches",
+                            "description": "Show this effect when others view your profile.",
+                            "accessibilityLabel": "A bumblebee and ladybug float through a forest canopy filled with ladybugs and beetles",
+                            "animationType": 1,
+                            "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/3268a18303f7ea68b7aea74d56d549a2c17c4523eb60925b749bab7f3731c6a9",
+                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/70af748d07993526e4b7eaa98c597b9ed89de0542710f44451e62686b568ed63",
+                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/b29ee24173c3d79174bf64e269f08f6b0fd92b81e3af32b15b53a12bba21b1de",
+                            "effects": [
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/daa7490f2c80352fa9eb5b685766c03c1ac5ce3f460b4bd30ee621bb6ad80c7d",
+                                    "loop": false,
+                                    "duration": 5000,
+                                    "start": 0,
+                                    "loopDelay": 0,
+                                    "zIndex": 100,
+                                    "randomizedSources": []
+                                },
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/fc139035474a15dade068317fa65b025611f7361b062dbb347003f9f6ab74289",
+                                    "loop": true,
+                                    "duration": 5000,
+                                    "start": 5000,
+                                    "loopDelay": 0,
+                                    "zIndex": 101,
+                                    "randomizedSources": []
+                                }
+                            ]
+                        }
+                    ],
+                    "type": 1000,
+                    "premium_type": 0,
+                    "category_sku_id": "1492264701281702039",
+                    "bundled_products": [
+                        {
+                            "sku_id": "1493344973230440638",
+                            "name": "Jar of Glowies",
+                            "summary": "Give your avatar a new look.",
+                            "type": 0,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "sku_id": "1493348788713033878",
+                            "name": "Glowies",
+                            "summary": "Make your name stand out in servers and chats.",
+                            "type": 2,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "sku_id": "1493448979101519982",
+                            "name": "Buggy Branches",
+                            "summary": "Show this effect when others view your profile.",
+                            "type": 1,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "google_sku_ids": {
+                        "5": "1493451256616845423_1493455112885239808",
+                        "7": "1493451256616845423_1493455121588289708"
+                    }
+                },
+                {
+                    "sku_id": "1493341414766018600",
+                    "name": "Busy Bee",
+                    "summary": "Give your avatar a new look.",
+                    "store_listing_id": "1493341414766018600",
+                    "styles": {
+                        "background_colors": [
+                            1515796,
+                            724236
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 0,
+                            "sku_id": "1493341414766018600",
+                            "asset": "a_06e1b28461422fc20d3b3d908cc0c8fb",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493341414766018600/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493341414766018600/animated"
+                            },
+                            "label": "A cheerful bumblebee lazily flies toward a pink flower and sniffs it deeply"
+                        }
+                    ],
+                    "type": 0,
+                    "premium_type": 0,
+                    "category_sku_id": "1492264701281702039",
+                    "google_sku_ids": {
+                        "5": "1493341414766018600_1493346036050165800",
+                        "7": "1493341414766018600_1493346042190762024"
+                    }
+                },
+                {
+                    "sku_id": "1493344745383002332",
+                    "name": "Lil' Inchy",
+                    "summary": "Give your avatar a new look.",
+                    "store_listing_id": "1493344745383002332",
+                    "styles": {
+                        "background_colors": [
+                            1515796,
+                            724236
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 0,
+                            "sku_id": "1493344745383002332",
+                            "asset": "a_c7935ecfee94ff0329fcaddc0c37d48d",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493344745383002332/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493344745383002332/animated"
+                            },
+                            "label": "A small green inchworm inches across the avatar"
+                        }
+                    ],
+                    "type": 0,
+                    "premium_type": 0,
+                    "category_sku_id": "1492264701281702039",
+                    "google_sku_ids": {
+                        "5": "1493344745383002332_1493345868890243293",
+                        "7": "1493344745383002332_1493345874275733746"
+                    }
+                },
+                {
+                    "sku_id": "1493344853596180490",
+                    "name": "Roly Poly Gang",
+                    "summary": "Give your avatar a new look.",
+                    "store_listing_id": "1493344853596180490",
+                    "styles": {
+                        "background_colors": [
+                            1515796,
+                            724236
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 0,
+                            "sku_id": "1493344853596180490",
+                            "asset": "a_7d5e7264c04937c754d03acadf718d4f",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493344853596180490/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493344853596180490/animated"
+                            },
+                            "label": "Three colorful pill bugs curl into balls and roll around in a circle"
+                        }
+                    ],
+                    "type": 0,
+                    "premium_type": 0,
+                    "category_sku_id": "1492264701281702039",
+                    "google_sku_ids": {
+                        "5": "1493344853596180490_1493348898498940928",
+                        "7": "1493344853596180490_1493348903914049847"
+                    }
+                },
+                {
+                    "sku_id": "1493344973230440638",
+                    "name": "Jar of Glowies",
+                    "summary": "Give your avatar a new look.",
+                    "store_listing_id": "1493344973230440638",
+                    "styles": {
+                        "background_colors": [
+                            1515796,
+                            724236
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 0,
+                            "sku_id": "1493344973230440638",
+                            "asset": "a_f5957a07b90ded4cfe3c5aa499573bf0",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493344973230440638/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493344973230440638/animated"
+                            },
+                            "label": "Glowing fireflies float inside a glass jar"
+                        }
+                    ],
+                    "type": 0,
+                    "premium_type": 0,
+                    "category_sku_id": "1492264701281702039",
+                    "google_sku_ids": {
+                        "5": "1493344973230440638_1493347357247668346",
+                        "7": "1493344973230440638_1493347364222664724"
+                    }
+                },
+                {
+                    "sku_id": "1493345090855370752",
+                    "name": "Busy Bee",
+                    "summary": "Make your name stand out in servers and chats.",
+                    "store_listing_id": "1493345090855370752",
+                    "styles": {
+                        "background_colors": [
+                            1515796,
+                            724236
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 2,
+                            "sku_id": "1493345090855370752",
+                            "asset": "nameplates/busy_bee/1493345090855370752/",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493345090855370752/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493345090855370752/animated",
+                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493345090855370752/video"
+                            },
+                            "label": "A bumblebee sniffs a pink flower deeply",
+                            "palette": "sky"
+                        }
+                    ],
+                    "type": 2,
+                    "premium_type": 0,
+                    "category_sku_id": "1492264701281702039",
+                    "google_sku_ids": {
+                        "5": "1493345090855370752_1493345971449364571",
+                        "7": "1493345090855370752_1493345976562483320"
+                    }
+                },
+                {
+                    "sku_id": "1493345236531806338",
+                    "name": "Ladybug Luau",
+                    "summary": "Make your name stand out in servers and chats.",
+                    "store_listing_id": "1493345236531806338",
+                    "styles": {
+                        "background_colors": [
+                            1515796,
+                            724236
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 2,
+                            "sku_id": "1493345236531806338",
+                            "asset": "nameplates/ladybug_luau/1493345236531806338/",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493345236531806338/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493345236531806338/animated",
+                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493345236531806338/video"
+                            },
+                            "label": "Ladybugs crawl along a winding green stem and cling to dandelion puffs",
+                            "palette": "forest"
+                        }
+                    ],
+                    "type": 2,
+                    "premium_type": 0,
+                    "category_sku_id": "1492264701281702039",
+                    "google_sku_ids": {
+                        "5": "1493345236531806338_1493346856183398520",
+                        "7": "1493345236531806338_1493346861983989831"
+                    }
+                },
+                {
+                    "sku_id": "1493345371915682006",
+                    "name": "Lil' Inchy",
+                    "summary": "Make your name stand out in servers and chats.",
+                    "store_listing_id": "1493345371915682006",
+                    "styles": {
+                        "background_colors": [
+                            1515796,
+                            724236
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 2,
+                            "sku_id": "1493345371915682006",
+                            "asset": "nameplates/lil'_inchy/1493345371915682006/",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493345371915682006/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493345371915682006/animated",
+                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493345371915682006/video"
+                            },
+                            "label": "A small green inchworm inches along a leaf",
+                            "palette": "sky"
+                        }
+                    ],
+                    "type": 2,
+                    "premium_type": 0,
+                    "category_sku_id": "1492264701281702039",
+                    "google_sku_ids": {
+                        "5": "1493345371915682006_1493348500694634536",
+                        "7": "1493345371915682006_1493348508735111311"
+                    }
+                },
+                {
+                    "sku_id": "1493345497526567033",
+                    "name": "Roly Poly (Pink)",
+                    "summary": "Make your name stand out in servers and chats.",
+                    "store_listing_id": "1493345497526567033",
+                    "styles": {
+                        "background_colors": [
+                            1515796,
+                            724236
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 2,
+                            "sku_id": "1493345497526567033",
+                            "asset": "nameplates/roly_poly/1493345497526567033/",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493345497526567033/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493345497526567033/animated",
+                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493345497526567033/video"
+                            },
+                            "label": "A pink pill bug rolls down a grassy hill",
+                            "palette": "sky"
+                        }
+                    ],
+                    "type": 2,
+                    "premium_type": 0,
+                    "category_sku_id": "1492264701281702039",
+                    "google_sku_ids": {
+                        "5": "1493345497526567033_1493346382491291670",
+                        "7": "1493345497526567033_1493346387947946044"
+                    }
+                },
+                {
+                    "sku_id": "1493348343114371343",
+                    "name": "Roly Poly (Blue)",
+                    "summary": "Make your name stand out in servers and chats.",
+                    "store_listing_id": "1493348343114371343",
+                    "styles": {
+                        "background_colors": [
+                            1515796,
+                            724236
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 2,
+                            "sku_id": "1493348343114371343",
+                            "asset": "nameplates/roly_poly/1493348343114371343/",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493348343114371343/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493348343114371343/animated",
+                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493348343114371343/video"
+                            },
+                            "label": "A blue pill bug rolls down a grassy hill",
+                            "palette": "sky"
+                        }
+                    ],
+                    "type": 2,
+                    "premium_type": 0,
+                    "category_sku_id": "1492264701281702039",
+                    "google_sku_ids": {
+                        "5": "1493348343114371343_1496503675013697566",
+                        "7": "1493348343114371343_1496503680524877895"
+                    }
+                },
+                {
+                    "sku_id": "1493348343999500489",
+                    "name": "Roly Poly (Orange)",
+                    "summary": "Make your name stand out in servers and chats.",
+                    "store_listing_id": "1493348343999500489",
+                    "styles": {
+                        "background_colors": [
+                            1515796,
+                            724236
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 2,
+                            "sku_id": "1493348343999500489",
+                            "asset": "nameplates/roly_poly/1493348343999500489/",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493348343999500489/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493348343999500489/animated",
+                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493348343999500489/video"
+                            },
+                            "label": "An orange pill bug rolls down a grassy hill",
+                            "palette": "sky"
+                        }
+                    ],
+                    "type": 2,
+                    "premium_type": 0,
+                    "category_sku_id": "1492264701281702039",
+                    "google_sku_ids": {
+                        "5": "1493348343999500489_1496504277416411176",
+                        "7": "1493348343999500489_1496504282957091009"
+                    }
+                },
+                {
+                    "sku_id": "1493348788713033878",
+                    "name": "Glowies",
+                    "summary": "Make your name stand out in servers and chats.",
+                    "store_listing_id": "1493348788713033878",
+                    "styles": {
+                        "background_colors": [
+                            1515796,
+                            724236
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 2,
+                            "sku_id": "1493348788713033878",
+                            "asset": "nameplates/glowies/1493348788713033878/",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493348788713033878/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493348788713033878/animated",
+                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1493348788713033878/video"
+                            },
+                            "label": "Two glowing fireflies dance around each other in the air",
+                            "palette": "sky"
+                        }
+                    ],
+                    "type": 2,
+                    "premium_type": 0,
+                    "category_sku_id": "1492264701281702039",
+                    "google_sku_ids": {
+                        "5": "1493348788713033878_1493352557366608096",
+                        "7": "1493348788713033878_1493352564249329694"
+                    }
+                },
+                {
+                    "sku_id": "1493446745059754035",
+                    "name": "Ladybug Luau",
+                    "summary": "Show this effect when others view your profile.",
+                    "store_listing_id": "1493446745059754035",
+                    "styles": {
+                        "background_colors": [
+                            1515796,
+                            724236
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 1,
+                            "sku_id": "1493446745059754035",
+                            "title": "Ladybug Luau",
+                            "description": "Show this effect when others view your profile.",
+                            "accessibilityLabel": "Ladybugs flutter around or cling to dandelion puffs and drift across the profile",
+                            "animationType": 2,
+                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/5032548178daf691602ddfef2110e7c44ca06ea33e38c9f567be5e365577fc7a",
+                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/b512cf7204d52750fd1a13172c9e5877e9eeaabe254724fc6e27cdc3d019d91f",
+                            "effects": [
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/1e1e20e48c6ed6a9b00ef021057e7024995daeccf63ba41188bb21350001cdf2",
+                                    "loop": false,
+                                    "duration": 5000,
+                                    "start": 0,
+                                    "loopDelay": 0,
+                                    "zIndex": 100,
+                                    "randomizedSources": []
+                                },
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/46876700b357fe58a42aea64bf14abd69cce53886d48282212f429ccb2656170",
+                                    "loop": true,
+                                    "duration": 5000,
+                                    "start": 8000,
+                                    "loopDelay": 10500,
+                                    "zIndex": 101,
+                                    "randomizedSources": []
+                                },
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/68e0e9147e244ce7e2d2102a4306bbbfa89e3dd468025106cbf1af38ae9f1edf",
+                                    "loop": true,
+                                    "duration": 5000,
+                                    "start": 16000,
+                                    "loopDelay": 10500,
+                                    "zIndex": 102,
+                                    "randomizedSources": []
+                                }
+                            ]
+                        }
+                    ],
+                    "type": 1,
+                    "premium_type": 0,
+                    "category_sku_id": "1492264701281702039",
+                    "google_sku_ids": {
+                        "5": "1493446745059754035_1493450974050652271",
+                        "7": "1493446745059754035_1493450979780329554"
+                    }
+                },
+                {
+                    "sku_id": "1493448979101519982",
+                    "name": "Buggy Branches",
+                    "summary": "Show this effect when others view your profile.",
+                    "store_listing_id": "1493448979101519982",
+                    "styles": {
+                        "background_colors": [
+                            1515796,
+                            724236
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 1,
+                            "sku_id": "1493448979101519982",
+                            "title": "Buggy Branches",
+                            "description": "Show this effect when others view your profile.",
+                            "accessibilityLabel": "A bumblebee and ladybug float through a forest canopy filled with ladybugs and beetles",
+                            "animationType": 1,
+                            "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/3268a18303f7ea68b7aea74d56d549a2c17c4523eb60925b749bab7f3731c6a9",
+                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/70af748d07993526e4b7eaa98c597b9ed89de0542710f44451e62686b568ed63",
+                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/b29ee24173c3d79174bf64e269f08f6b0fd92b81e3af32b15b53a12bba21b1de",
+                            "effects": [
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/daa7490f2c80352fa9eb5b685766c03c1ac5ce3f460b4bd30ee621bb6ad80c7d",
+                                    "loop": false,
+                                    "duration": 5000,
+                                    "start": 0,
+                                    "loopDelay": 0,
+                                    "zIndex": 100,
+                                    "randomizedSources": []
+                                },
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/fc139035474a15dade068317fa65b025611f7361b062dbb347003f9f6ab74289",
+                                    "loop": true,
+                                    "duration": 5000,
+                                    "start": 5000,
+                                    "loopDelay": 0,
+                                    "zIndex": 101,
+                                    "randomizedSources": []
+                                }
+                            ]
+                        }
+                    ],
+                    "type": 1,
+                    "premium_type": 0,
+                    "category_sku_id": "1492264701281702039",
+                    "google_sku_ids": {
+                        "5": "1493448979101519982_1493452317834481776",
+                        "7": "1493448979101519982_1493452324562272276"
+                    }
+                }
+            ],
+            "hero_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/923b60b5c933e621e43b3f9063e460654985e1ceaa36bb80453fc1cef8e75525",
+            "hero_logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/a1f06b586271cc2202eb7608ffe0888326f6ba2ff6c7aba2120eea3169f6b0c4",
+            "catalog_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/f873e1f2664b88b7dbe71965386f12bf42804143a0cd9041c12f9e0f1280e1e4",
+            "featured_block_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/516405e96add8ab139f6258a2e502dbb781418dda6facb59af5eb410fe245b6c",
+            "logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/d6d85ccabb4d70d1d912bca9cfcbbc17724283eb5fe90fb92ad3556f3ce30a51",
+            "pdp_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/f2cad71f9801754594c20652e18c3d4c7bfff9ef14b83eed6326a38eac8e12e0",
+            "mobile_hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/748bd1cb290796a0b1f1f4902e5579f4d920b96a5c85c34e3ed68cbd855ca7a1",
+            "mobile_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/e1c35e971ceafb7a6453b598d8c937889c253508b5b6805325562f762e1ed442",
+            "mobile_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/2feaf317c113e9b4e7c3057b4b896b2d1915424373962ddfbc5bed84f756e0d8",
+            "hero_banner_display_config": {
+                "desktop_max_height": null,
+                "mobile_max_height": null,
+                "responsive": null,
+                "background_style": "linear-gradient(180deg, #172114 0%, #0B0D0C 100%)"
+            }
+        },
+        {
             "sku_id": "1488179906260238397",
             "name": "Hello Kitty and Friends",
             "summary": " ",
