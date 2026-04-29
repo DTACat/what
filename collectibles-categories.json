@@ -1,6 +1,1920 @@
 {
     "categories": [
         {
+            "sku_id": "1495803249687527617",
+            "name": "Cozy Getaway",
+            "summary": " ",
+            "store_listing_id": "1495803249687527617",
+            "styles": {
+                "background_colors": [
+                    527384,
+                    393216
+                ],
+                "button_colors": [
+                    5793266,
+                    5793266
+                ],
+                "confetti_colors": [
+                    43772,
+                    15774258,
+                    16414587,
+                    3000177,
+                    9739511
+                ]
+            },
+            "hero_ranking": [
+                "1495808505494372534",
+                "1495808863721492661",
+                "1495805433405767680",
+                "1495805987133849610",
+                "1495806200468607117",
+                "1495805817792761976",
+                "1495808150744596581",
+                "1495808637199716372",
+                "1495807265175900180",
+                "1495807012888379624",
+                "1495806356999897240",
+                "1495806574269038713",
+                "1495807466854682624",
+                "1495807809747423302"
+            ],
+            "products": [
+                {
+                    "sku_id": "1495808150744596581",
+                    "name": "Cloud Nine Bundle",
+                    "summary": "{joinedItems}",
+                    "store_listing_id": "1495808150744596581",
+                    "styles": {
+                        "background_colors": [
+                            527384,
+                            393216
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 1599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 11000,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 1299,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 11000,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": {
+                        "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/baa1e6102ea96dfe0379020d8a5d704df5e9b63f2f1c04c52d3caf69c795f44f",
+                        "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/aed5900c33457139fdc5b551369ccb762f77e2abb654c54be50b7960c543f17b"
+                    },
+                    "items": [
+                        {
+                            "type": 0,
+                            "sku_id": "1495805433405767680",
+                            "asset": "a_c9a52215698a9b4b75bd6e9bdd14f8b1",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495805433405767680/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495805433405767680/animated"
+                            },
+                            "label": "Soft daylight shining through a partly cloudy sky"
+                        },
+                        {
+                            "type": 2,
+                            "sku_id": "1495806356999897240",
+                            "asset": "nameplates/cloud_nine/1495806356999897240/",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495806356999897240/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495806356999897240/animated",
+                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495806356999897240/video"
+                            },
+                            "label": "Soft daylight shining through clouds",
+                            "palette": "sky"
+                        },
+                        {
+                            "type": 1,
+                            "sku_id": "1495807466854682624",
+                            "title": "Cloud Nine",
+                            "description": "Show this effect when others view your profile.",
+                            "accessibilityLabel": "Soft daylight shining through clouds and trees overhead",
+                            "animationType": 2,
+                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/7ec8f00e7eefb7dfca3a09df378839d063d9070e0d351d5b589f494cc12033c5",
+                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/bc3e98185406f49783b83bdd97e78806627659be9fa3e96be689b0ba5a500f20",
+                            "effects": [
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/4db6ea4482d7a73fca8a89d16f6eca4267f1014b87e6839b560e3b80bc89ef91",
+                                    "loop": false,
+                                    "duration": 5000,
+                                    "start": 0,
+                                    "loopDelay": 0,
+                                    "zIndex": 100,
+                                    "randomizedSources": []
+                                },
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/c0bdd9b5c10adcd090bf9d2450b5a1f4535dbaf5bf28380bff01cee9eb3e563e",
+                                    "loop": true,
+                                    "duration": 4918,
+                                    "start": 8000,
+                                    "loopDelay": 3000,
+                                    "zIndex": 101,
+                                    "randomizedSources": []
+                                }
+                            ]
+                        }
+                    ],
+                    "type": 1000,
+                    "premium_type": 0,
+                    "category_sku_id": "1495803249687527617",
+                    "bundled_products": [
+                        {
+                            "sku_id": "1495805433405767680",
+                            "name": "Cloud Nine",
+                            "summary": "Give your avatar a new look.",
+                            "type": 0,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "sku_id": "1495806356999897240",
+                            "name": "Cloud Nine",
+                            "summary": "Make your name stand out in servers and chats.",
+                            "type": 2,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "sku_id": "1495807466854682624",
+                            "name": "Cloud Nine",
+                            "summary": "Show this effect when others view your profile.",
+                            "type": 1,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "google_sku_ids": {
+                        "5": "1495808150744596581_1495808914162319401",
+                        "7": "1495808150744596581_1495808919552131245"
+                    }
+                },
+                {
+                    "sku_id": "1495808505494372534",
+                    "name": "Star Struck Bundle",
+                    "summary": "{joinedItems}",
+                    "store_listing_id": "1495808505494372534",
+                    "styles": {
+                        "background_colors": [
+                            527384,
+                            393216
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 1599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 11000,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 1299,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 11000,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": {
+                        "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/3a9d3862d38721b216a5729bb045b6a05e394a403bff0c666efa9a5ea0c95b92",
+                        "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/aed5900c33457139fdc5b551369ccb762f77e2abb654c54be50b7960c543f17b"
+                    },
+                    "items": [
+                        {
+                            "type": 0,
+                            "sku_id": "1495805817792761976",
+                            "asset": "a_8cda4fb38c18ce7a3ccc513030148e24",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495805817792761976/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495805817792761976/animated"
+                            },
+                            "label": "Cloudy night sky with crescent moon and stars"
+                        },
+                        {
+                            "type": 2,
+                            "sku_id": "1495806574269038713",
+                            "asset": "nameplates/star_struck/1495806574269038713/",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495806574269038713/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495806574269038713/animated",
+                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495806574269038713/video"
+                            },
+                            "label": "Cloudy night sky with crescent moon and stars ",
+                            "palette": "cobalt"
+                        },
+                        {
+                            "type": 1,
+                            "sku_id": "1495807809747423302",
+                            "title": "Star Struck",
+                            "description": "Show this effect when others view your profile.",
+                            "accessibilityLabel": "Night stars twinkling through a gap in the trees overhead",
+                            "animationType": 2,
+                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/4492dd173c1627436bfc766b624b4aad3e07bccf23e1eb044a1114d4214f7d78",
+                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/a74d0fadc143229a27598cd926de98f5417be60246d56f2dec46c7c24b4b18bc",
+                            "effects": [
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/a04066547495558ad4c4e38773b115a78cb5f46e8482ae9888b5f156a1b18cf8",
+                                    "loop": false,
+                                    "duration": 5000,
+                                    "start": 0,
+                                    "loopDelay": 0,
+                                    "zIndex": 100,
+                                    "randomizedSources": []
+                                },
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/8534f7c263db542f8773965ed9f215128b91dd57c0946d8065960d1f99dfdf5c",
+                                    "loop": true,
+                                    "duration": 4918,
+                                    "start": 8000,
+                                    "loopDelay": 3000,
+                                    "zIndex": 101,
+                                    "randomizedSources": []
+                                }
+                            ]
+                        }
+                    ],
+                    "type": 1000,
+                    "premium_type": 0,
+                    "category_sku_id": "1495803249687527617",
+                    "bundled_products": [
+                        {
+                            "sku_id": "1495805817792761976",
+                            "name": "Star Struck",
+                            "summary": "Give your avatar a new look.",
+                            "type": 0,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "sku_id": "1495806574269038713",
+                            "name": "Star Struck",
+                            "summary": "Make your name stand out in servers and chats.",
+                            "type": 2,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "sku_id": "1495807809747423302",
+                            "name": "Star Struck",
+                            "summary": "Show this effect when others view your profile.",
+                            "type": 1,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "google_sku_ids": {
+                        "5": "1495808505494372534_1495808714018394192",
+                        "7": "1495808505494372534_1495808719777300581"
+                    }
+                },
+                {
+                    "sku_id": "1495808637199716372",
+                    "name": "Slow Burn Bundle",
+                    "summary": "{joinedItems}",
+                    "store_listing_id": "1495808637199716372",
+                    "styles": {
+                        "background_colors": [
+                            527384,
+                            393216
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 1599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 11000,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 1299,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 11000,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": {
+                        "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/43a574a082bf99787e737fd18d84a6a6b628c2cd4e9182fd23edb89228818401",
+                        "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/aed5900c33457139fdc5b551369ccb762f77e2abb654c54be50b7960c543f17b"
+                    },
+                    "items": [
+                        {
+                            "type": 0,
+                            "sku_id": "1495805987133849610",
+                            "asset": "a_29d98532a4aaa984c3000296548e4124",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495805987133849610/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495805987133849610/animated"
+                            },
+                            "label": "Flickering red, orange, and yellow campfire"
+                        },
+                        {
+                            "type": 2,
+                            "sku_id": "1495807012888379624",
+                            "asset": "nameplates/toasty/1495807012888379624/",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495807012888379624/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495807012888379624/animated",
+                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495807012888379624/video"
+                            },
+                            "label": "Flickering campfire with a toasting marshmallow on a stick",
+                            "palette": "crimson"
+                        },
+                        {
+                            "type": 1,
+                            "sku_id": "1495807809747423302",
+                            "title": "Star Struck",
+                            "description": "Show this effect when others view your profile.",
+                            "accessibilityLabel": "Night stars twinkling through a gap in the trees overhead",
+                            "animationType": 2,
+                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/4492dd173c1627436bfc766b624b4aad3e07bccf23e1eb044a1114d4214f7d78",
+                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/a74d0fadc143229a27598cd926de98f5417be60246d56f2dec46c7c24b4b18bc",
+                            "effects": [
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/a04066547495558ad4c4e38773b115a78cb5f46e8482ae9888b5f156a1b18cf8",
+                                    "loop": false,
+                                    "duration": 5000,
+                                    "start": 0,
+                                    "loopDelay": 0,
+                                    "zIndex": 100,
+                                    "randomizedSources": []
+                                },
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/8534f7c263db542f8773965ed9f215128b91dd57c0946d8065960d1f99dfdf5c",
+                                    "loop": true,
+                                    "duration": 4918,
+                                    "start": 8000,
+                                    "loopDelay": 3000,
+                                    "zIndex": 101,
+                                    "randomizedSources": []
+                                }
+                            ]
+                        }
+                    ],
+                    "type": 1000,
+                    "premium_type": 0,
+                    "category_sku_id": "1495803249687527617",
+                    "bundled_products": [
+                        {
+                            "sku_id": "1495805987133849610",
+                            "name": "Slow Burn",
+                            "summary": "Give your avatar a new look.",
+                            "type": 0,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "sku_id": "1495807012888379624",
+                            "name": "Toasty",
+                            "summary": "Make your name stand out in servers and chats.",
+                            "type": 2,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "sku_id": "1495807809747423302",
+                            "name": "Star Struck",
+                            "summary": "Show this effect when others view your profile.",
+                            "type": 1,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "google_sku_ids": {
+                        "5": "1495808637199716372_1495809495882797156",
+                        "7": "1495808637199716372_1495809500970483772"
+                    }
+                },
+                {
+                    "sku_id": "1495808863721492661",
+                    "name": "Story Time Bundle",
+                    "summary": "{joinedItems}",
+                    "store_listing_id": "1495808863721492661",
+                    "styles": {
+                        "background_colors": [
+                            527384,
+                            393216
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 1599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 11000,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 1299,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 11000,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": {
+                        "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/10f555236583b725bab966fb377748a1c0c8ffc42f576f10b409fd875c18c4ae",
+                        "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/aed5900c33457139fdc5b551369ccb762f77e2abb654c54be50b7960c543f17b"
+                    },
+                    "items": [
+                        {
+                            "type": 0,
+                            "sku_id": "1495806200468607117",
+                            "asset": "a_aea83b1702c0fd1ae17309be873856bb",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495806200468607117/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495806200468607117/animated"
+                            },
+                            "label": "String lights and lanterns illuminating a picnic blanket with a book open"
+                        },
+                        {
+                            "type": 2,
+                            "sku_id": "1495807012888379624",
+                            "asset": "nameplates/toasty/1495807012888379624/",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495807012888379624/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495807012888379624/animated",
+                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495807012888379624/video"
+                            },
+                            "label": "Flickering campfire with a toasting marshmallow on a stick",
+                            "palette": "crimson"
+                        },
+                        {
+                            "type": 1,
+                            "sku_id": "1495807809747423302",
+                            "title": "Star Struck",
+                            "description": "Show this effect when others view your profile.",
+                            "accessibilityLabel": "Night stars twinkling through a gap in the trees overhead",
+                            "animationType": 2,
+                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/4492dd173c1627436bfc766b624b4aad3e07bccf23e1eb044a1114d4214f7d78",
+                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/a74d0fadc143229a27598cd926de98f5417be60246d56f2dec46c7c24b4b18bc",
+                            "effects": [
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/a04066547495558ad4c4e38773b115a78cb5f46e8482ae9888b5f156a1b18cf8",
+                                    "loop": false,
+                                    "duration": 5000,
+                                    "start": 0,
+                                    "loopDelay": 0,
+                                    "zIndex": 100,
+                                    "randomizedSources": []
+                                },
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/8534f7c263db542f8773965ed9f215128b91dd57c0946d8065960d1f99dfdf5c",
+                                    "loop": true,
+                                    "duration": 4918,
+                                    "start": 8000,
+                                    "loopDelay": 3000,
+                                    "zIndex": 101,
+                                    "randomizedSources": []
+                                }
+                            ]
+                        }
+                    ],
+                    "type": 1000,
+                    "premium_type": 0,
+                    "category_sku_id": "1495803249687527617",
+                    "bundled_products": [
+                        {
+                            "sku_id": "1495806200468607117",
+                            "name": "Story Time",
+                            "summary": "Give your avatar a new look.",
+                            "type": 0,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "sku_id": "1495807012888379624",
+                            "name": "Toasty",
+                            "summary": "Make your name stand out in servers and chats.",
+                            "type": 2,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "sku_id": "1495807809747423302",
+                            "name": "Star Struck",
+                            "summary": "Show this effect when others view your profile.",
+                            "type": 1,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "google_sku_ids": {
+                        "5": "1495808863721492661_1495810943081513132",
+                        "7": "1495808863721492661_1495810951188844595"
+                    }
+                },
+                {
+                    "sku_id": "1495805433405767680",
+                    "name": "Cloud Nine",
+                    "summary": "Give your avatar a new look.",
+                    "store_listing_id": "1495805433405767680",
+                    "styles": {
+                        "background_colors": [
+                            527384,
+                            393216
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 0,
+                            "sku_id": "1495805433405767680",
+                            "asset": "a_c9a52215698a9b4b75bd6e9bdd14f8b1",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495805433405767680/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495805433405767680/animated"
+                            },
+                            "label": "Soft daylight shining through a partly cloudy sky"
+                        }
+                    ],
+                    "type": 0,
+                    "premium_type": 0,
+                    "category_sku_id": "1495803249687527617",
+                    "google_sku_ids": {
+                        "5": "1495805433405767680_1495807871949082855",
+                        "7": "1495805433405767680_1495807877980356778"
+                    }
+                },
+                {
+                    "sku_id": "1495805817792761976",
+                    "name": "Star Struck",
+                    "summary": "Give your avatar a new look.",
+                    "store_listing_id": "1495805817792761976",
+                    "styles": {
+                        "background_colors": [
+                            527384,
+                            393216
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 0,
+                            "sku_id": "1495805817792761976",
+                            "asset": "a_8cda4fb38c18ce7a3ccc513030148e24",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495805817792761976/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495805817792761976/animated"
+                            },
+                            "label": "Cloudy night sky with crescent moon and stars"
+                        }
+                    ],
+                    "type": 0,
+                    "premium_type": 0,
+                    "category_sku_id": "1495803249687527617",
+                    "google_sku_ids": {
+                        "5": "1495805817792761976_1495806706880348281",
+                        "7": "1495805817792761976_1495806712152850535"
+                    }
+                },
+                {
+                    "sku_id": "1495805987133849610",
+                    "name": "Slow Burn",
+                    "summary": "Give your avatar a new look.",
+                    "store_listing_id": "1495805987133849610",
+                    "styles": {
+                        "background_colors": [
+                            527384,
+                            393216
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 0,
+                            "sku_id": "1495805987133849610",
+                            "asset": "a_29d98532a4aaa984c3000296548e4124",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495805987133849610/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495805987133849610/animated"
+                            },
+                            "label": "Flickering red, orange, and yellow campfire"
+                        }
+                    ],
+                    "type": 0,
+                    "premium_type": 0,
+                    "category_sku_id": "1495803249687527617",
+                    "google_sku_ids": {
+                        "5": "1495805987133849610_1495808103990562917",
+                        "7": "1495805987133849610_1495808109472645291"
+                    }
+                },
+                {
+                    "sku_id": "1495806200468607117",
+                    "name": "Story Time",
+                    "summary": "Give your avatar a new look.",
+                    "store_listing_id": "1495806200468607117",
+                    "styles": {
+                        "background_colors": [
+                            527384,
+                            393216
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 0,
+                            "sku_id": "1495806200468607117",
+                            "asset": "a_aea83b1702c0fd1ae17309be873856bb",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495806200468607117/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495806200468607117/animated"
+                            },
+                            "label": "String lights and lanterns illuminating a picnic blanket with a book open"
+                        }
+                    ],
+                    "type": 0,
+                    "premium_type": 0,
+                    "category_sku_id": "1495803249687527617",
+                    "google_sku_ids": {
+                        "5": "1495806200468607117_1495806574982332567",
+                        "7": "1495806200468607117_1495806581005094922"
+                    }
+                },
+                {
+                    "sku_id": "1495806356999897240",
+                    "name": "Cloud Nine",
+                    "summary": "Make your name stand out in servers and chats.",
+                    "store_listing_id": "1495806356999897240",
+                    "styles": {
+                        "background_colors": [
+                            527384,
+                            393216
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 2,
+                            "sku_id": "1495806356999897240",
+                            "asset": "nameplates/cloud_nine/1495806356999897240/",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495806356999897240/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495806356999897240/animated",
+                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495806356999897240/video"
+                            },
+                            "label": "Soft daylight shining through clouds",
+                            "palette": "sky"
+                        }
+                    ],
+                    "type": 2,
+                    "premium_type": 0,
+                    "category_sku_id": "1495803249687527617",
+                    "google_sku_ids": {
+                        "5": "1495806356999897240_1495807803044925460",
+                        "7": "1495806356999897240_1495807809583841350"
+                    }
+                },
+                {
+                    "sku_id": "1495806574269038713",
+                    "name": "Star Struck",
+                    "summary": "Make your name stand out in servers and chats.",
+                    "store_listing_id": "1495806574269038713",
+                    "styles": {
+                        "background_colors": [
+                            527384,
+                            393216
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 2,
+                            "sku_id": "1495806574269038713",
+                            "asset": "nameplates/star_struck/1495806574269038713/",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495806574269038713/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495806574269038713/animated",
+                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495806574269038713/video"
+                            },
+                            "label": "Cloudy night sky with crescent moon and stars ",
+                            "palette": "cobalt"
+                        }
+                    ],
+                    "type": 2,
+                    "premium_type": 0,
+                    "category_sku_id": "1495803249687527617",
+                    "google_sku_ids": {
+                        "5": "1495806574269038713_1495809962285207657",
+                        "7": "1495806574269038713_1495809968123674745"
+                    }
+                },
+                {
+                    "sku_id": "1495807012888379624",
+                    "name": "Toasty",
+                    "summary": "Make your name stand out in servers and chats.",
+                    "store_listing_id": "1495807012888379624",
+                    "styles": {
+                        "background_colors": [
+                            527384,
+                            393216
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 2,
+                            "sku_id": "1495807012888379624",
+                            "asset": "nameplates/toasty/1495807012888379624/",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495807012888379624/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495807012888379624/animated",
+                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495807012888379624/video"
+                            },
+                            "label": "Flickering campfire with a toasting marshmallow on a stick",
+                            "palette": "crimson"
+                        }
+                    ],
+                    "type": 2,
+                    "premium_type": 0,
+                    "category_sku_id": "1495803249687527617",
+                    "google_sku_ids": {
+                        "5": "1495807012888379624_1495809224385630288",
+                        "7": "1495807012888379624_1495809230207193349"
+                    }
+                },
+                {
+                    "sku_id": "1495807265175900180",
+                    "name": "Pitter Patter",
+                    "summary": "Make your name stand out in servers and chats.",
+                    "store_listing_id": "1495807265175900180",
+                    "styles": {
+                        "background_colors": [
+                            527384,
+                            393216
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 2,
+                            "sku_id": "1495807265175900180",
+                            "asset": "nameplates/pitter_patter/1495807265175900180/",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495807265175900180/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495807265175900180/animated",
+                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1495807265175900180/video"
+                            },
+                            "label": "Drizzling rain pattering over a small pond",
+                            "palette": "forest"
+                        }
+                    ],
+                    "type": 2,
+                    "premium_type": 0,
+                    "category_sku_id": "1495803249687527617",
+                    "google_sku_ids": {
+                        "5": "1495807265175900180_1495811187223302325",
+                        "7": "1495807265175900180_1495811198674014210"
+                    }
+                },
+                {
+                    "sku_id": "1495807466854682624",
+                    "name": "Cloud Nine",
+                    "summary": "Show this effect when others view your profile.",
+                    "store_listing_id": "1495807466854682624",
+                    "styles": {
+                        "background_colors": [
+                            527384,
+                            393216
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 1,
+                            "sku_id": "1495807466854682624",
+                            "title": "Cloud Nine",
+                            "description": "Show this effect when others view your profile.",
+                            "accessibilityLabel": "Soft daylight shining through clouds and trees overhead",
+                            "animationType": 2,
+                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/7ec8f00e7eefb7dfca3a09df378839d063d9070e0d351d5b589f494cc12033c5",
+                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/bc3e98185406f49783b83bdd97e78806627659be9fa3e96be689b0ba5a500f20",
+                            "effects": [
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/4db6ea4482d7a73fca8a89d16f6eca4267f1014b87e6839b560e3b80bc89ef91",
+                                    "loop": false,
+                                    "duration": 5000,
+                                    "start": 0,
+                                    "loopDelay": 0,
+                                    "zIndex": 100,
+                                    "randomizedSources": []
+                                },
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/c0bdd9b5c10adcd090bf9d2450b5a1f4535dbaf5bf28380bff01cee9eb3e563e",
+                                    "loop": true,
+                                    "duration": 4918,
+                                    "start": 8000,
+                                    "loopDelay": 3000,
+                                    "zIndex": 101,
+                                    "randomizedSources": []
+                                }
+                            ]
+                        }
+                    ],
+                    "type": 1,
+                    "premium_type": 0,
+                    "category_sku_id": "1495803249687527617",
+                    "google_sku_ids": {
+                        "5": "1495807466854682624_1495808118360113393",
+                        "7": "1495807466854682624_1495808123934474300"
+                    }
+                },
+                {
+                    "sku_id": "1495807809747423302",
+                    "name": "Star Struck",
+                    "summary": "Show this effect when others view your profile.",
+                    "store_listing_id": "1495807809747423302",
+                    "styles": {
+                        "background_colors": [
+                            527384,
+                            393216
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 1,
+                            "sku_id": "1495807809747423302",
+                            "title": "Star Struck",
+                            "description": "Show this effect when others view your profile.",
+                            "accessibilityLabel": "Night stars twinkling through a gap in the trees overhead",
+                            "animationType": 2,
+                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/4492dd173c1627436bfc766b624b4aad3e07bccf23e1eb044a1114d4214f7d78",
+                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/a74d0fadc143229a27598cd926de98f5417be60246d56f2dec46c7c24b4b18bc",
+                            "effects": [
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/a04066547495558ad4c4e38773b115a78cb5f46e8482ae9888b5f156a1b18cf8",
+                                    "loop": false,
+                                    "duration": 5000,
+                                    "start": 0,
+                                    "loopDelay": 0,
+                                    "zIndex": 100,
+                                    "randomizedSources": []
+                                },
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/8534f7c263db542f8773965ed9f215128b91dd57c0946d8065960d1f99dfdf5c",
+                                    "loop": true,
+                                    "duration": 4918,
+                                    "start": 8000,
+                                    "loopDelay": 3000,
+                                    "zIndex": 101,
+                                    "randomizedSources": []
+                                }
+                            ]
+                        }
+                    ],
+                    "type": 1,
+                    "premium_type": 0,
+                    "category_sku_id": "1495803249687527617",
+                    "google_sku_ids": {
+                        "5": "1495807809747423302_1495809108018729141",
+                        "7": "1495807809747423302_1495809114994114641"
+                    }
+                }
+            ],
+            "hero_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/2abbf83c52dba971144ff48d9e9ca2f4f58326f5ea598ec094f7fec529e72e60",
+            "hero_logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/c454365305732a6ac5a7b83664639119324265b937c29ca4de6a03bd0f85b5e3",
+            "catalog_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/b56615a6859a30bb1a44a3501d5496dab4d86405b9b98df1ac351a15967a61a6",
+            "featured_block_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/405f7bccd1a514da2fb99a11cc2c4cecf7fda835c781ca95d4e52b5a1a778164",
+            "logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/3aa15909fcade151dff404c979f027239a85657a9b4dfc0c336b78fdfa54d9d5",
+            "pdp_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/5c695c14f6b205ba5eaa3ecd662d2c8594a4795be759fab60c52e425dde6bc45",
+            "mobile_hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/271cc4312d8f88d1408b58432cadcdcf8b4a5d437841b278211c3aa8eff82dc1",
+            "mobile_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/eb40839788d77485eae246a3c1eea7cf94db6cf35ad02a1e334b236c21d5bb99",
+            "mobile_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/8ca5eaf135df6599a0c5e5789de7a0f69d1c72ec544252663ae3d18481b1e6f1",
+            "hero_banner_display_config": {
+                "desktop_max_height": null,
+                "mobile_max_height": null,
+                "responsive": null,
+                "background_style": "linear-gradient(180deg, #080C18 0%, #060000 100%)"
+            }
+        },
+        {
             "sku_id": "1492264701281702039",
             "name": "Smol Bugs",
             "summary": " ",
@@ -76228,20 +78142,20 @@
                 ]
             },
             "hero_ranking": [
-                "1365410895945269368",
-                "1365410895982886942",
-                "1365410896029159607",
                 "1365410896196669480",
+                "1365410896029159607",
                 "1365410896054325288",
+                "1365410895903330414",
+                "1365410896008188115",
                 "1365410896075296848",
                 "1365410896117239919",
                 "1365410895966244925",
-                "1365410896175697930",
-                "1365410895903330414",
-                "1365410896008188115",
-                "1365410896096268368",
+                "1365410895945269368",
+                "1365410895982886942",
                 "1365410895928234155",
-                "1365410896154853386"
+                "1365410896154853386",
+                "1365410896096268368",
+                "1365410896175697930"
             ],
             "products": [
                 {
