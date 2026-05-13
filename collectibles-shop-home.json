@@ -2,39 +2,36 @@
     "shop_blocks": [
         {
             "type": 0,
-            "category_sku_id": "1498445865973715084",
-            "name": "Fruitables",
-            "category_store_listing_id": "1498445865973715084",
+            "category_sku_id": "1500907050744680608",
+            "name": "Starlight Magic",
+            "category_store_listing_id": "1500907050744680608",
             "unpublished_at": null,
             "summary": " ",
             "ranked_sku_ids": [
-                "1498449287837651114",
-                "1498448904725729320",
-                "1498446571140939860",
-                "1498446695510577243",
-                "1498447602054598888",
-                "1498447487348904087",
-                "1498447374496956567",
-                "1498446412306714644",
-                "1498445907169902712",
-                "1498446254072528926",
-                "1498449439675781301",
-                "1498449123882438766",
-                "1498447721600909352",
-                "1498448010940780834",
-                "1498447882569908435",
-                "1498448616115671222",
-                "1498448124497236140",
-                "1498448402340515870"
+                "1500911819726917895",
+                "1500911564440731860",
+                "1500907134190354576",
+                "1500908088184668302",
+                "1500909195933782167",
+                "1500909310971220020",
+                "1500909656669687940",
+                "1500909535668473996",
+                "1500911204032319671",
+                "1500910258757828618",
+                "1500910067719999579",
+                "1500909875515887847",
+                "1500910942739894372",
+                "1500910723621060658",
+                "1500910389003816990"
             ],
-            "hero_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/29370f041805b02017b2f54bcb2df877fa193615045bc9d4ff4e3508ca934821",
-            "hero_logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/153457cf5f4e3acd1672c819d98faa97970790853282528d733c9930bf157c37",
-            "mobile_hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/3d4913d9a7f0752db5177b1860f94d4dcf71c541a9720bd9b8118f02d08ef5a1",
+            "hero_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/d6cb9b01a4aae40c77bc9399d90b58a0d65c62bac65942def6d2f4843f0c8026",
+            "hero_logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/bc0b9fc5944c559416a4a3dfc2072b2c0a3c9d62c66761ccb9efe25eec35e6a7",
+            "mobile_hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/b46b406df3b20a28abe625b1cea115d0db45148086ce0af4a1abc39411f871dd",
             "banner_display_config": {
                 "desktop_max_height": null,
                 "mobile_max_height": null,
                 "responsive": null,
-                "background_style": "linear-gradient(180deg, #FAE297 0%, #FFBD54 100%)"
+                "background_style": "linear-gradient(180deg, #7D9EE9 0%, #D78CE8 100%)"
             }
         },
         {
@@ -42,12 +39,12 @@
             "subblocks": [
                 {
                     "type": 0,
-                    "category_store_listing_id": "1495803249687527617",
-                    "name": "Cozy Getaway",
+                    "category_store_listing_id": "1498445865973715084",
+                    "name": "Fruitables",
                     "unpublished_at": null,
                     "body_text": null,
                     "banner_text_color": null,
-                    "asset_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/405f7bccd1a514da2fb99a11cc2c4cecf7fda835c781ca95d4e52b5a1a778164"
+                    "asset_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/9c73d0d14113dc4269a0363f48ee5b3ad8d4b5eef288242dc5eac83843e0bec9"
                 },
                 {
                     "type": 0,
@@ -112,19 +109,26 @@
                 "1495806574269038713",
                 "1462116613745676445",
                 "1495805817792761976",
+                "1498445907169902712",
                 "1495807809747423302",
                 "1271175049168031815",
+                "1498446571140939860",
                 "1465519580016410746",
+                "1498446412306714644",
                 "1495808505494372534",
                 "1495805433405767680",
+                "1498447882569908435",
                 "1462116613682757888",
+                "1498449287837651114",
                 "1459194821255237723",
+                "1498448124497236140",
                 "1382845914225442886",
                 "1462116613674373345",
                 "1427463138646954036",
                 "1280621222496964630",
                 "1447654090661302343",
                 "1462116613775167569",
+                "1498447721600909352",
                 "1462116613691281560",
                 "1427463138634109026",
                 "1385050947956248696",
@@ -137,7 +141,9 @@
                 "1488248959481811104",
                 "1349849614257225760",
                 "1212570343567261736",
+                "1498448010940780834",
                 "1144307257807491094",
+                "1498448904725729320",
                 "1366494385671245826",
                 "1271174732577767626",
                 "1357589632581374042",
@@ -153,6 +159,7 @@
                 "1333866045303423026",
                 "1432550258126229565",
                 "1417311919643299840",
+                "1498446695510577243",
                 "1462116613645144185",
                 "1409898407799160963",
                 "1428438925021548544",
@@ -175,6 +182,7 @@
                 "1459194821456691393",
                 "1352407446282440704",
                 "1349849614102036581",
+                "1498448616115671222",
                 "1459194821372805192",
                 "1287835633787732070",
                 "1495807466854682624",
@@ -202,19 +210,26 @@
                     "1495806574269038713",
                     "1462116613745676445",
                     "1495805817792761976",
+                    "1498445907169902712",
                     "1495807809747423302",
                     "1271175049168031815",
+                    "1498446571140939860",
                     "1465519580016410746",
+                    "1498446412306714644",
                     "1495808505494372534",
                     "1495805433405767680",
+                    "1498447882569908435",
                     "1462116613682757888",
+                    "1498449287837651114",
                     "1459194821255237723",
+                    "1498448124497236140",
                     "1382845914225442886",
                     "1462116613674373345",
                     "1427463138646954036",
                     "1280621222496964630",
                     "1447654090661302343",
                     "1462116613775167569",
+                    "1498447721600909352",
                     "1462116613691281560",
                     "1427463138634109026",
                     "1385050947956248696",
@@ -227,7 +242,9 @@
                     "1488248959481811104",
                     "1349849614257225760",
                     "1212570343567261736",
+                    "1498448010940780834",
                     "1144307257807491094",
+                    "1498448904725729320",
                     "1366494385671245826",
                     "1271174732577767626",
                     "1357589632581374042",
@@ -243,6 +260,7 @@
                     "1333866045303423026",
                     "1432550258126229565",
                     "1417311919643299840",
+                    "1498446695510577243",
                     "1462116613645144185",
                     "1409898407799160963",
                     "1428438925021548544",
@@ -265,6 +283,7 @@
                     "1459194821456691393",
                     "1352407446282440704",
                     "1349849614102036581",
+                    "1498448616115671222",
                     "1459194821372805192",
                     "1287835633787732070",
                     "1495807466854682624",
@@ -287,6 +306,7 @@
                     "1462116614131548265",
                     "1462116613804396646",
                     "1462116613745676445",
+                    "1498449287837651114",
                     "1488249426316099878",
                     "1462116613791682632",
                     "1495805817792761976",
@@ -314,6 +334,9 @@
                     "1428438924564631663",
                     "1280621222496964630",
                     "1495807809747423302",
+                    "1498448904725729320",
+                    "1498446571140939860",
+                    "1498445907169902712",
                     "1462116613775167569",
                     "1488244924066566185",
                     "1495808863721492661",
@@ -326,6 +349,7 @@
                     "1432550258126229565",
                     "1447654090661302343",
                     "1488249824691224657",
+                    "1498446412306714644",
                     "1271175049168031815",
                     "1366494385482502184",
                     "1495806356999897240",
@@ -339,6 +363,7 @@
                     "1462116613691281560",
                     "1382845914225442886",
                     "1459194821255237723",
+                    "1498447882569908435",
                     "1462116613653401775",
                     "1212570343567261736",
                     "1462116613674373345",
@@ -351,6 +376,7 @@
                     "1462116613632426014",
                     "1139323093991575696",
                     "1409898407799160963",
+                    "1498448124497236140",
                     "1488244261362340101",
                     "1481391634234085559",
                     "1447654090439004170",
@@ -394,6 +420,7 @@
                     "1366494385692217495",
                     "1385050947712979074",
                     "1333278032768536596",
+                    "1498449123882438766",
                     "1144307957425778779",
                     "1478173285316559041",
                     "1479186868187959358",
@@ -422,11 +449,13 @@
                     "1243620093431119922",
                     "1341506443613831168",
                     "1462116613661786143",
+                    "1498447721600909352",
                     "1409898407920668782",
                     "1432550258403180644",
                     "1466991494467555391",
                     "1385035256058482798",
                     "1495807012888379624",
+                    "1498446695510577243",
                     "1483911783268876489",
                     "1287835633485877369",
                     "1461062060040261705",
@@ -434,6 +463,7 @@
                     "1428438924988125224",
                     "1428438924962959421",
                     "1428438925046714408",
+                    "1498449439675781301",
                     "1459194821372805192",
                     "1271174732577767626",
                     "1343751617421381773",
@@ -445,6 +475,7 @@
                     "1447654090539667609",
                     "1447654090556571799",
                     "1404558257195847830",
+                    "1498448010940780834",
                     "1343751620919300188",
                     "1420225379347726367",
                     "1468089794251853825",
@@ -528,6 +559,7 @@
                     "1495805987133849610",
                     "1488245662947475506",
                     "1377377712104018071",
+                    "1498447487348904087",
                     "1447654090506240122",
                     "1458479739110166563",
                     "1432550258201858118",
@@ -588,6 +620,7 @@
                     "1436367668964884690",
                     "1436367668943913131",
                     "1417311919378796554",
+                    "1498446254072528926",
                     "1458472704251396148",
                     "1409898407971127427",
                     "1493451256616845423",
@@ -602,6 +635,7 @@
                     "1228234634379132958",
                     "1144307629225672846",
                     "1447654091173007401",
+                    "1498448616115671222",
                     "1303490165213237338",
                     "1306752744278982737",
                     "1466990610429772003",
@@ -703,6 +737,7 @@
                     "1432550258209984553",
                     "1465522871521513557",
                     "1306330662898372639",
+                    "1498448402340515870",
                     "1382845914246549535",
                     "1287835633590734848",
                     "1282820582223642624",
@@ -719,6 +754,7 @@
                     "1420225379272232990",
                     "1343751620965564426",
                     "1436367668881133598",
+                    "1498447374496956567",
                     "1341506443777409024",
                     "1207048289610899526",
                     "1420225379314044958",
@@ -858,6 +894,7 @@
                     "1461062060371738694",
                     "1409898407895503061",
                     "1483914387235406097",
+                    "1498447602054598888",
                     "1326333074023383102",
                     "1373015260570845185",
                     "1462116613821305035",
@@ -1503,14 +1540,14 @@
     ],
     "categories": [
         {
-            "sku_id": "1498445865973715084",
-            "name": "Fruitables",
+            "sku_id": "1500907050744680608",
+            "name": "Starlight Magic",
             "summary": " ",
-            "store_listing_id": "1498445865973715084",
+            "store_listing_id": "1500907050744680608",
             "styles": {
                 "background_colors": [
-                    16442007,
-                    16760148
+                    8232681,
+                    14126312
                 ],
                 "button_colors": [
                     5793266,
@@ -1525,35 +1562,32 @@
                 ]
             },
             "hero_ranking": [
-                "1498449287837651114",
-                "1498448904725729320",
-                "1498446571140939860",
-                "1498446695510577243",
-                "1498447602054598888",
-                "1498447487348904087",
-                "1498447374496956567",
-                "1498446412306714644",
-                "1498445907169902712",
-                "1498446254072528926",
-                "1498449439675781301",
-                "1498449123882438766",
-                "1498447721600909352",
-                "1498448010940780834",
-                "1498447882569908435",
-                "1498448616115671222",
-                "1498448124497236140",
-                "1498448402340515870"
+                "1500911819726917895",
+                "1500911564440731860",
+                "1500907134190354576",
+                "1500908088184668302",
+                "1500909195933782167",
+                "1500909310971220020",
+                "1500909656669687940",
+                "1500909535668473996",
+                "1500911204032319671",
+                "1500910258757828618",
+                "1500910067719999579",
+                "1500909875515887847",
+                "1500910942739894372",
+                "1500910723621060658",
+                "1500910389003816990"
             ],
             "products": [
                 {
-                    "sku_id": "1498448904725729320",
-                    "name": "Nyan Bundle",
+                    "sku_id": "1500911819726917895",
+                    "name": "Starlight Bundle",
                     "summary": "{joinedItems}",
-                    "store_listing_id": "1498448904725729320",
+                    "store_listing_id": "1500911819726917895",
                     "styles": {
                         "background_colors": [
-                            16442007,
-                            16760148
+                            8232681,
+                            14126312
                         ],
                         "button_colors": [
                             5793266,
@@ -1604,57 +1638,577 @@
                         }
                     },
                     "preview_assets": {
-                        "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/928b948f016f1763b9381ad8f1593acce0ebcd45558ac61559724e7fe849adef",
-                        "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/eea3e0b0533d674b3bb18ccc1faab15451486688c569f9b8d5edbc0eb99827c4"
+                        "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/b3eba982a49d8ad326b66137b82f8f4d44e55a7632895b8768518e1d146c1dce",
+                        "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/32ff42a9c876d9efd83031738b86091213aa2226a7bce1f5a6a60f72a53af89b"
                     },
                     "items": [
                         {
                             "type": 0,
-                            "sku_id": "1498445907169902712",
-                            "asset": "a_fc10280d008d9749f3e5048af8d0f54f",
+                            "sku_id": "1500909656669687940",
+                            "asset": "a_07a06a98a40f22c7f717fbb063eec0e3",
                             "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498445907169902712/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498445907169902712/animated"
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500909656669687940/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500909656669687940/animated"
                             },
-                            "label": "Cute cat with strawberry on its head peeking out and happy strawberries surrounding avatar"
+                            "label": "Glowing wand topped with a star emitting trails of hearts"
                         },
                         {
                             "type": 2,
-                            "sku_id": "1498447721600909352",
-                            "asset": "nameplates/ichi-nyan/1498447721600909352/",
+                            "sku_id": "1500910258757828618",
+                            "asset": "nameplates/sweetheart_charm/1500910258757828618/",
                             "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498447721600909352/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498447721600909352/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498447721600909352/video"
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500910258757828618/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500910258757828618/animated",
+                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500910258757828618/video"
                             },
-                            "label": "Pink cat with a red strawberry hood dancing",
+                            "label": "Pink heart-shaped petals float upward",
+                            "palette": "sky"
+                        },
+                        {
+                            "type": 1,
+                            "sku_id": "1500910942739894372",
+                            "title": "Starlight Wand",
+                            "description": "Show this effect when others view your profile.",
+                            "accessibilityLabel": "Glowing wand topped with a star emitting light trails and pink petals",
+                            "animationType": 1,
+                            "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/d9d6d703ee76e859eddbe40918f4e818307127edec7f1b86218c57da8bfa77b8",
+                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/b891d1ef7d14aa41fa84878a2b3c55f7cf35156b4737c3954278af3410217d44",
+                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/27e250e7f1172de34d26ef4dd72ab78896113aa3aa25b95cc78ddded3779ed6c",
+                            "effects": [
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/205e28226b9469deb677dd3385c1c62499dc2ef0185aaf526bbe4ae695ee7692",
+                                    "loop": false,
+                                    "duration": 4000,
+                                    "start": 0,
+                                    "loopDelay": 0,
+                                    "zIndex": 100,
+                                    "randomizedSources": []
+                                },
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/9cf28c832863d567277d7fdd7cd98e84b71d034552529e2a63e8292b911cc301",
+                                    "loop": true,
+                                    "duration": 3000,
+                                    "start": 7000,
+                                    "loopDelay": 5000,
+                                    "zIndex": 101,
+                                    "randomizedSources": []
+                                },
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/7edde14a780dfef0a6c7ffc8b4d89bde4350cc5a187ac1d5996492ede572fcdf",
+                                    "loop": true,
+                                    "duration": 3000,
+                                    "start": 4001,
+                                    "loopDelay": 0,
+                                    "zIndex": 102,
+                                    "randomizedSources": []
+                                }
+                            ]
+                        }
+                    ],
+                    "type": 1000,
+                    "premium_type": 0,
+                    "category_sku_id": "1500907050744680608",
+                    "bundled_products": [
+                        {
+                            "sku_id": "1500909656669687940",
+                            "name": "Starlight Wand",
+                            "summary": "Give your avatar a new look.",
+                            "type": 0,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "sku_id": "1500910258757828618",
+                            "name": "Sweetheart Charm",
+                            "summary": "Make your name stand out in servers and chats.",
+                            "type": 2,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "sku_id": "1500910942739894372",
+                            "name": "Starlight Wand",
+                            "summary": "Show this effect when others view your profile.",
+                            "type": 1,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "google_sku_ids": {
+                        "5": "1500911819726917895_1500916002567749652",
+                        "7": "1500911819726917895_1500916008309886976"
+                    }
+                },
+                {
+                    "sku_id": "1500911564440731860",
+                    "name": "Cosmic Guardian Bundle",
+                    "summary": "{joinedItems}",
+                    "store_listing_id": "1500911564440731860",
+                    "styles": {
+                        "background_colors": [
+                            8232681,
+                            14126312
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 1599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 11000,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 1299,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 11000,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": {
+                        "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/309fcefb1e0ace1cb51b43e526db42df0095f14ed9fddc4e89ca463ac669f738",
+                        "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/32ff42a9c876d9efd83031738b86091213aa2226a7bce1f5a6a60f72a53af89b"
+                    },
+                    "items": [
+                        {
+                            "type": 0,
+                            "sku_id": "1500909535668473996",
+                            "asset": "a_a2163cdb93b395b783a09d1458e28298",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500909535668473996/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500909535668473996/animated"
+                            },
+                            "label": "Pastel blue bear with wings floating among stars"
+                        },
+                        {
+                            "type": 2,
+                            "sku_id": "1500910067719999579",
+                            "asset": "nameplates/cosmic_guardian/1500910067719999579/",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500910067719999579/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500910067719999579/animated",
+                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500910067719999579/video"
+                            },
+                            "label": "Pastel blue bear with wings posing while bubbles float past",
+                            "palette": "violet"
+                        },
+                        {
+                            "type": 1,
+                            "sku_id": "1500910723621060658",
+                            "title": "Cosmic Guardian",
+                            "description": "Show this effect when others view your profile.",
+                            "accessibilityLabel": "Pastel blue bear with wings floating among stars and winking",
+                            "animationType": 2,
+                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/8cd9850d53282f56e048ff74571e4b59bb323ecbf304c2ece25e8ea9d52adc9a",
+                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/385c4e0f55c2c7830637ea9d87d3079a3d7432caed4be37affba224eded7309b",
+                            "effects": [
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/62d26c8cffa319cd9d1f7a29fa5833298a1ffcd72fb8ef1c3b644581c4a086b8",
+                                    "loop": false,
+                                    "duration": 3000,
+                                    "start": 0,
+                                    "loopDelay": 0,
+                                    "zIndex": 100,
+                                    "randomizedSources": []
+                                },
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/0350f57d170f2bde273f4d44d4cb2c4dcd63e8abda8d7c1c979496328f63e1bc",
+                                    "loop": true,
+                                    "duration": 3000,
+                                    "start": 5000,
+                                    "loopDelay": 4000,
+                                    "zIndex": 101,
+                                    "randomizedSources": []
+                                }
+                            ]
+                        }
+                    ],
+                    "type": 1000,
+                    "premium_type": 0,
+                    "category_sku_id": "1500907050744680608",
+                    "bundled_products": [
+                        {
+                            "sku_id": "1500909535668473996",
+                            "name": "Cosmic Guardian",
+                            "summary": "Give your avatar a new look.",
+                            "type": 0,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "sku_id": "1500910067719999579",
+                            "name": "Cosmic Guardian",
+                            "summary": "Make your name stand out in servers and chats.",
+                            "type": 2,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "sku_id": "1500910723621060658",
+                            "name": "Cosmic Guardian",
+                            "summary": "Show this effect when others view your profile.",
+                            "type": 1,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "google_sku_ids": {
+                        "5": "1500911564440731860_1500914919393202338",
+                        "7": "1500911564440731860_1500914924455461116"
+                    }
+                },
+                {
+                    "sku_id": "1500911204032319671",
+                    "name": "Heart's Reflection Bundle",
+                    "summary": "{joinedItems}",
+                    "store_listing_id": "1500911204032319671",
+                    "styles": {
+                        "background_colors": [
+                            8232681,
+                            14126312
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 1599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 11000,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 1299,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 11000,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": {
+                        "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/fe4ad31d6933f460dcadcabd417d5c1604b3fe581891f588af9de3c369a25ed7",
+                        "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/32ff42a9c876d9efd83031738b86091213aa2226a7bce1f5a6a60f72a53af89b"
+                    },
+                    "items": [
+                        {
+                            "type": 0,
+                            "sku_id": "1500907134190354576",
+                            "asset": "a_0e25685f403ba17f91b70ed424ce685e",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500907134190354576/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500907134190354576/animated"
+                            },
+                            "label": "Pink heart-shaped compact mirror opening and closing"
+                        },
+                        {
+                            "type": 2,
+                            "sku_id": "1500909875515887847",
+                            "asset": "nameplates/heart's_reflection/1500909875515887847/",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500909875515887847/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500909875515887847/animated",
+                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500909875515887847/video"
+                            },
+                            "label": "Pink heart-shaped compact mirror opening and closing",
                             "palette": "bubble_gum"
                         },
                         {
                             "type": 1,
-                            "sku_id": "1498448616115671222",
-                            "title": "Bananabelle",
+                            "sku_id": "1500910389003816990",
+                            "title": "Heart Beam",
                             "description": "Show this effect when others view your profile.",
-                            "accessibilityLabel": "A cute cat sleeping in the curve of a yellow banana floating across the profile",
+                            "accessibilityLabel": "Radiant beams of hearts projecting outward from a pink heart shaped crystal in the center",
                             "animationType": 2,
-                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/f0fd7bfb5f11cb0df05b27210f7e022561bd76ce3f61f73dd8fbc3ae9a72b903",
-                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/129febc42c24498de1e5188dc9d871a6cadf7cb27ed5e07d9f9ab50c959b17b8",
+                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/012470a0c0785ba2e4e7f706d864b694236d2f92a99d1cb182549ef08868128f",
+                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/4688ada42d7372ef175fc6184c1174b2d0f2f3269f4873b4d4df6f2dc3b0caa5",
                             "effects": [
                                 {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/bae7702dde457d8c42d745feb4dfa8560024a77462ea35f503f48644bd242511",
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/4405689265fe62c32d14d468fec4e611058e175566cc09112308b6d62aca7c13",
                                     "loop": false,
-                                    "duration": 6083,
+                                    "duration": 3000,
                                     "start": 0,
                                     "loopDelay": 0,
                                     "zIndex": 100,
                                     "randomizedSources": []
                                 },
                                 {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/8689f1ad5d315cd6f61c587d41f2eada26dcb35eb6933779822165f6565fc326",
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/6875bb355d9a6c212852104f863a89ed585cf747f0b5b049510c10fd476878c3",
                                     "loop": true,
-                                    "duration": 5417,
-                                    "start": 8000,
-                                    "loopDelay": 3500,
+                                    "duration": 3000,
+                                    "start": 5000,
+                                    "loopDelay": 4000,
                                     "zIndex": 101,
                                     "randomizedSources": []
                                 }
@@ -1663,11 +2217,11 @@
                     ],
                     "type": 1000,
                     "premium_type": 0,
-                    "category_sku_id": "1498445865973715084",
+                    "category_sku_id": "1500907050744680608",
                     "bundled_products": [
                         {
-                            "sku_id": "1498445907169902712",
-                            "name": "Ichi-Nyan",
+                            "sku_id": "1500907134190354576",
+                            "name": "Heart's Reflection",
                             "summary": "Give your avatar a new look.",
                             "type": 0,
                             "premium_type": 0,
@@ -1709,8 +2263,8 @@
                             }
                         },
                         {
-                            "sku_id": "1498447721600909352",
-                            "name": "Ichi-Nyan",
+                            "sku_id": "1500909875515887847",
+                            "name": "Heart's Reflection",
                             "summary": "Make your name stand out in servers and chats.",
                             "type": 2,
                             "premium_type": 0,
@@ -1752,8 +2306,8 @@
                             }
                         },
                         {
-                            "sku_id": "1498448616115671222",
-                            "name": "Bananabelle",
+                            "sku_id": "1500910389003816990",
+                            "name": "Heart Beam",
                             "summary": "Show this effect when others view your profile.",
                             "type": 1,
                             "premium_type": 0,
@@ -1796,19 +2350,19 @@
                         }
                     ],
                     "google_sku_ids": {
-                        "5": "1498448904725729320_1498452199339065400",
-                        "7": "1498448904725729320_1498452204837933077"
+                        "5": "1500911204032319671_1500915035856441686",
+                        "7": "1500911204032319671_1500915040998395904"
                     }
                 },
                 {
-                    "sku_id": "1498449287837651114",
-                    "name": "Cherry Surprise Bundle",
-                    "summary": "{joinedItems}",
-                    "store_listing_id": "1498449287837651114",
+                    "sku_id": "1500909656669687940",
+                    "name": "Starlight Wand",
+                    "summary": "Give your avatar a new look.",
+                    "store_listing_id": "1500909656669687940",
                     "styles": {
                         "background_colors": [
-                            16442007,
-                            16760148
+                            8232681,
+                            14126312
                         ],
                         "button_colors": [
                             5793266,
@@ -1828,12 +2382,12 @@
                                 "country_code": "US",
                                 "prices": [
                                     {
-                                        "amount": 1599,
+                                        "amount": 599,
                                         "currency": "usd",
                                         "exponent": 2
                                     },
                                     {
-                                        "amount": 11000,
+                                        "amount": 4100,
                                         "currency": "discord_orb",
                                         "exponent": 0
                                     }
@@ -1845,12 +2399,12 @@
                                 "country_code": "US",
                                 "prices": [
                                     {
-                                        "amount": 1299,
+                                        "amount": 499,
                                         "currency": "usd",
                                         "exponent": 2
                                     },
                                     {
-                                        "amount": 11000,
+                                        "amount": 4100,
                                         "currency": "discord_orb",
                                         "exponent": 0
                                     }
@@ -1858,572 +2412,328 @@
                             }
                         }
                     },
-                    "preview_assets": {
-                        "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/c88ddcf31c39ed33c086910625e1536156d97cc25a261114cf6093406ff6907c",
-                        "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/eea3e0b0533d674b3bb18ccc1faab15451486688c569f9b8d5edbc0eb99827c4"
-                    },
+                    "preview_assets": null,
                     "items": [
                         {
                             "type": 0,
-                            "sku_id": "1498446412306714644",
-                            "asset": "a_7cc34759ebc9a802f33d4feaa852d162",
+                            "sku_id": "1500909656669687940",
+                            "asset": "a_07a06a98a40f22c7f717fbb063eec0e3",
                             "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498446412306714644/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498446412306714644/animated"
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500909656669687940/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500909656669687940/animated"
                             },
-                            "label": "Cherry and whipped cream on top of avatar"
-                        },
-                        {
-                            "type": 2,
-                            "sku_id": "1498447882569908435",
-                            "asset": "nameplates/cherry_surprise/1498447882569908435/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498447882569908435/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498447882569908435/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498447882569908435/video"
-                            },
-                            "label": "Red cherries spinning and dancing",
-                            "palette": "crimson"
-                        },
-                        {
-                            "type": 1,
-                            "sku_id": "1498448124497236140",
-                            "title": "Cherry Surprise",
-                            "description": "Show this effect when others view your profile.",
-                            "accessibilityLabel": "A dollop of whipped cream falling and then a cherry falling on top of it",
-                            "animationType": 2,
-                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/5362e19e700d6f8c1a0244a901d9dca0cbfbea851c6236d49608e15c88a6c7ad",
-                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/ffc606c0ab44b4dc6fa5975f90d3107cda33cab3d395d14a9f961ba3d2811c6e",
-                            "effects": [
-                                {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/8f7470718b53d890c9d4e1b0d700e8d4526c8351e8855b7571735e7438e58ec9",
-                                    "loop": false,
-                                    "duration": 3250,
-                                    "start": 0,
-                                    "loopDelay": 0,
-                                    "zIndex": 100,
-                                    "randomizedSources": []
-                                },
-                                {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/48c6194872ada8238608c4fd9a360e8eb63dfacdb5a179e970496a26559ae2c9",
-                                    "loop": true,
-                                    "duration": 4000,
-                                    "start": 4300,
-                                    "loopDelay": 2500,
-                                    "zIndex": 101,
-                                    "randomizedSources": []
-                                }
-                            ]
+                            "label": "Glowing wand topped with a star emitting trails of hearts"
                         }
                     ],
-                    "type": 1000,
+                    "type": 0,
                     "premium_type": 0,
-                    "category_sku_id": "1498445865973715084",
-                    "bundled_products": [
+                    "category_sku_id": "1500907050744680608",
+                    "google_sku_ids": {
+                        "5": "1500909656669687940_1500911286920155198",
+                        "7": "1500909656669687940_1500911292641448057"
+                    }
+                },
+                {
+                    "sku_id": "1500909535668473996",
+                    "name": "Cosmic Guardian",
+                    "summary": "Give your avatar a new look.",
+                    "store_listing_id": "1500909535668473996",
+                    "styles": {
+                        "background_colors": [
+                            8232681,
+                            14126312
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
                         {
-                            "sku_id": "1498446412306714644",
-                            "name": "Cherry Cream",
+                            "type": 0,
+                            "sku_id": "1500909535668473996",
+                            "asset": "a_a2163cdb93b395b783a09d1458e28298",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500909535668473996/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500909535668473996/animated"
+                            },
+                            "label": "Pastel blue bear with wings floating among stars"
+                        }
+                    ],
+                    "type": 0,
+                    "premium_type": 0,
+                    "category_sku_id": "1500907050744680608",
+                    "google_sku_ids": {
+                        "5": "1500909535668473996_1500910015115170013",
+                        "7": "1500909535668473996_1500910022345887826"
+                    }
+                },
+                {
+                    "sku_id": "1500908088184668302",
+                    "name": "Enchanted Ribbon",
+                    "summary": "Give your avatar a new look.",
+                    "store_listing_id": "1500908088184668302",
+                    "styles": {
+                        "background_colors": [
+                            8232681,
+                            14126312
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [],
+                    "type": 2000,
+                    "premium_type": 0,
+                    "category_sku_id": "1500907050744680608",
+                    "variants": [
+                        {
+                            "sku_id": "1500908088184668302",
+                            "name": "Enchanted Ribbon (Pink)",
+                            "name_localizations": null,
                             "summary": "Give your avatar a new look.",
+                            "summary_localizations": null,
                             "type": 0,
+                            "store_listing_id": "1500908088184668302",
+                            "category_sku_id": "1500907050744680608",
                             "premium_type": 0,
-                            "prices": {
-                                "0": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 599,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                },
-                                "4": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 499,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                }
-                            }
-                        },
-                        {
-                            "sku_id": "1498447882569908435",
-                            "name": "Cherry Surprise",
-                            "summary": "Make your name stand out in servers and chats.",
-                            "type": 2,
-                            "premium_type": 0,
-                            "prices": {
-                                "0": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 599,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                },
-                                "4": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 499,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                }
-                            }
-                        },
-                        {
-                            "sku_id": "1498448124497236140",
-                            "name": "Cherry Surprise",
-                            "summary": "Show this effect when others view your profile.",
-                            "type": 1,
-                            "premium_type": 0,
-                            "prices": {
-                                "0": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 599,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                },
-                                "4": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 499,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                }
-                            }
-                        }
-                    ],
-                    "google_sku_ids": {
-                        "5": "1498449287837651114_1498453428580647065",
-                        "7": "1498449287837651114_1498453434242699415"
-                    }
-                },
-                {
-                    "sku_id": "1498449123882438766",
-                    "name": "Bananabelle Bundle",
-                    "summary": "{joinedItems}",
-                    "store_listing_id": "1498449123882438766",
-                    "styles": {
-                        "background_colors": [
-                            16442007,
-                            16760148
-                        ],
-                        "button_colors": [
-                            5793266,
-                            5793266
-                        ],
-                        "confetti_colors": [
-                            43772,
-                            15774258,
-                            16414587,
-                            3000177,
-                            9739511
-                        ]
-                    },
-                    "prices": {
-                        "0": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 1599,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    },
-                                    {
-                                        "amount": 11000,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        },
-                        "4": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 1299,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    },
-                                    {
-                                        "amount": 11000,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "preview_assets": {
-                        "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/33e568407f73b48a8c0d392936db68ea9cc5e201700088a783e804bf431af19d",
-                        "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/eea3e0b0533d674b3bb18ccc1faab15451486688c569f9b8d5edbc0eb99827c4"
-                    },
-                    "items": [
-                        {
-                            "type": 0,
-                            "sku_id": "1498446695510577243",
-                            "asset": "a_5ab3e4dd9aba6876c9eb858fa530505c",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498446695510577243/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498446695510577243/animated"
-                            },
-                            "label": "Happy banana peel sitting on top of avatar"
-                        },
-                        {
-                            "type": 2,
-                            "sku_id": "1498448010940780834",
-                            "asset": "nameplates/banana_bliss/1498448010940780834/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498448010940780834/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498448010940780834/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498448010940780834/video"
-                            },
-                            "label": "Cute cat sleeping in the curve of a yellow banana",
-                            "palette": "cobalt"
-                        },
-                        {
-                            "type": 1,
-                            "sku_id": "1498448616115671222",
-                            "title": "Bananabelle",
-                            "description": "Show this effect when others view your profile.",
-                            "accessibilityLabel": "A cute cat sleeping in the curve of a yellow banana floating across the profile",
-                            "animationType": 2,
-                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/f0fd7bfb5f11cb0df05b27210f7e022561bd76ce3f61f73dd8fbc3ae9a72b903",
-                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/129febc42c24498de1e5188dc9d871a6cadf7cb27ed5e07d9f9ab50c959b17b8",
-                            "effects": [
+                            "items": [
                                 {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/bae7702dde457d8c42d745feb4dfa8560024a77462ea35f503f48644bd242511",
-                                    "loop": false,
-                                    "duration": 6083,
-                                    "start": 0,
-                                    "loopDelay": 0,
-                                    "zIndex": 100,
-                                    "randomizedSources": []
-                                },
-                                {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/8689f1ad5d315cd6f61c587d41f2eada26dcb35eb6933779822165f6565fc326",
-                                    "loop": true,
-                                    "duration": 5417,
-                                    "start": 8000,
-                                    "loopDelay": 3500,
-                                    "zIndex": 101,
-                                    "randomizedSources": []
+                                    "type": 0,
+                                    "sku_id": "1500908088184668302",
+                                    "asset": "a_ab3d61ff09b06bb1e762d6a577b78469",
+                                    "assets": {
+                                        "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500908088184668302/static",
+                                        "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500908088184668302/animated"
+                                    },
+                                    "label": "Pink ribbon tying itself into a neat bow around the avatar"
                                 }
-                            ]
-                        }
-                    ],
-                    "type": 1000,
-                    "premium_type": 0,
-                    "category_sku_id": "1498445865973715084",
-                    "bundled_products": [
+                            ],
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "variant_label": "Pink",
+                            "variant_value": "#f478c0",
+                            "base_variant_sku_id": "1500908088184668302",
+                            "base_variant_name": "Enchanted Ribbon",
+                            "styles": null,
+                            "google_sku_ids": {
+                                "5": "1500908088184668302_1500912112246067433",
+                                "7": "1500908088184668302_1500912117518438621"
+                            }
+                        },
                         {
-                            "sku_id": "1498446695510577243",
-                            "name": "Bananabelle",
+                            "sku_id": "1500908412009975970",
+                            "name": "Enchanted Ribbon (Blue)",
+                            "name_localizations": null,
                             "summary": "Give your avatar a new look.",
+                            "summary_localizations": null,
                             "type": 0,
+                            "store_listing_id": "1500908412009975970",
+                            "category_sku_id": "1500907050744680608",
                             "premium_type": 0,
-                            "prices": {
-                                "0": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 599,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                },
-                                "4": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 499,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                }
-                            }
-                        },
-                        {
-                            "sku_id": "1498448010940780834",
-                            "name": "Banana Bliss",
-                            "summary": "Make your name stand out in servers and chats.",
-                            "type": 2,
-                            "premium_type": 0,
-                            "prices": {
-                                "0": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 599,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                },
-                                "4": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 499,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                }
-                            }
-                        },
-                        {
-                            "sku_id": "1498448616115671222",
-                            "name": "Bananabelle",
-                            "summary": "Show this effect when others view your profile.",
-                            "type": 1,
-                            "premium_type": 0,
-                            "prices": {
-                                "0": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 599,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                },
-                                "4": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 499,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                }
-                            }
-                        }
-                    ],
-                    "google_sku_ids": {
-                        "5": "1498449123882438766_1498451890600415232",
-                        "7": "1498449123882438766_1498451896480956507"
-                    }
-                },
-                {
-                    "sku_id": "1498449439675781301",
-                    "name": "Berry Cute Bundle",
-                    "summary": "{joinedItems}",
-                    "store_listing_id": "1498449439675781301",
-                    "styles": {
-                        "background_colors": [
-                            16442007,
-                            16760148
-                        ],
-                        "button_colors": [
-                            5793266,
-                            5793266
-                        ],
-                        "confetti_colors": [
-                            43772,
-                            15774258,
-                            16414587,
-                            3000177,
-                            9739511
-                        ]
-                    },
-                    "prices": {
-                        "0": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 1099,
-                                        "currency": "usd",
-                                        "exponent": 2
+                            "items": [
+                                {
+                                    "type": 0,
+                                    "sku_id": "1500908412009975970",
+                                    "asset": "a_f8593dfb05bee7e07dc87e2031f74b03",
+                                    "assets": {
+                                        "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500908412009975970/static",
+                                        "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500908412009975970/animated"
                                     },
-                                    {
-                                        "amount": 7600,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
+                                    "label": "Blue ribbon tying itself into a neat bow around the avatar"
+                                }
+                            ],
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
                                     }
-                                ]
-                            }
-                        },
-                        "4": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 899,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    },
-                                    {
-                                        "amount": 7600,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
                                     }
-                                ]
-                            }
-                        }
-                    },
-                    "preview_assets": {
-                        "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/934ba990c771d9ec0823a4fb6a431fa7f2b48c369dc79813e20abba8c6efcf69",
-                        "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/eea3e0b0533d674b3bb18ccc1faab15451486688c569f9b8d5edbc0eb99827c4"
-                    },
-                    "items": [
-                        {
-                            "type": 0,
-                            "sku_id": "1498446254072528926",
-                            "asset": "a_7a37ce9e5674681cb80476e6772f78ff",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498446254072528926/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498446254072528926/animated"
+                                }
                             },
-                            "label": "Many fruits with happy expressions in a circle outlining avatar"
+                            "variant_label": "Blue",
+                            "variant_value": "#76b2ff",
+                            "base_variant_sku_id": "1500908088184668302",
+                            "base_variant_name": "Enchanted Ribbon",
+                            "styles": null,
+                            "google_sku_ids": {
+                                "5": "1500908412009975970_1500911041318490335",
+                                "7": "1500908412009975970_1500911048117588062"
+                            }
                         },
                         {
-                            "type": 1,
-                            "sku_id": "1498448402340515870",
-                            "title": "Berry Cute",
-                            "description": "Show this effect when others view your profile.",
-                            "accessibilityLabel": "Many fruits with cute faces appearing and dancing",
-                            "animationType": 2,
-                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/c53da7ec89f5038c8ebcef60642af6c05a655cf18bc1117bf0ec57214e853474",
-                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/738df0c693b797200e80974efcd871e9d8fd743b3b96b5e724f3eacca98b9d49",
-                            "effects": [
-                                {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/81622117d27a6cdad381eaae6b30439764b43c95222b8f8e9c1676700e060955",
-                                    "loop": false,
-                                    "duration": 3333,
-                                    "start": 0,
-                                    "loopDelay": 0,
-                                    "zIndex": 100,
-                                    "randomizedSources": []
-                                },
-                                {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/bf8f8b3c4efc05fb35922c202adb1eca7d88087f406babd1012e1c0f33e5bbfc",
-                                    "loop": true,
-                                    "duration": 3333,
-                                    "start": 4900,
-                                    "loopDelay": 2800,
-                                    "zIndex": 101,
-                                    "randomizedSources": []
-                                }
-                            ]
-                        }
-                    ],
-                    "type": 1000,
-                    "premium_type": 0,
-                    "category_sku_id": "1498445865973715084",
-                    "bundled_products": [
-                        {
-                            "sku_id": "1498446254072528926",
-                            "name": "Berry Cute",
+                            "sku_id": "1500908587256381571",
+                            "name": "Enchanted Ribbon (Green)",
+                            "name_localizations": null,
                             "summary": "Give your avatar a new look.",
+                            "summary_localizations": null,
                             "type": 0,
+                            "store_listing_id": "1500908587256381571",
+                            "category_sku_id": "1500907050744680608",
                             "premium_type": 0,
+                            "items": [
+                                {
+                                    "type": 0,
+                                    "sku_id": "1500908587256381571",
+                                    "asset": "a_1df2f56a1f84177ecf5855e06850357f",
+                                    "assets": {
+                                        "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500908587256381571/static",
+                                        "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500908587256381571/animated"
+                                    },
+                                    "label": "Green ribbon tying itself into a neat bow around the avatar"
+                                }
+                            ],
                             "prices": {
                                 "0": {
                                     "country_prices": {
@@ -2459,14 +2769,39 @@
                                         ]
                                     }
                                 }
+                            },
+                            "variant_label": "Green",
+                            "variant_value": "#6be8a1",
+                            "base_variant_sku_id": "1500908088184668302",
+                            "base_variant_name": "Enchanted Ribbon",
+                            "styles": null,
+                            "google_sku_ids": {
+                                "5": "1500908587256381571_1500912914398314496",
+                                "7": "1500908587256381571_1500912920135995592"
                             }
                         },
                         {
-                            "sku_id": "1498448402340515870",
-                            "name": "Berry Cute",
-                            "summary": "Show this effect when others view your profile.",
-                            "type": 1,
+                            "sku_id": "1500908791145955389",
+                            "name": "Enchanted Ribbon (Purple)",
+                            "name_localizations": null,
+                            "summary": "Give your avatar a new look.",
+                            "summary_localizations": null,
+                            "type": 0,
+                            "store_listing_id": "1500908791145955389",
+                            "category_sku_id": "1500907050744680608",
                             "premium_type": 0,
+                            "items": [
+                                {
+                                    "type": 0,
+                                    "sku_id": "1500908791145955389",
+                                    "asset": "a_1110d2ad9e435ed20d27656ed4e3fe7c",
+                                    "assets": {
+                                        "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500908791145955389/static",
+                                        "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500908791145955389/animated"
+                                    },
+                                    "label": "Purple ribbon tying itself into a neat bow around the avatar"
+                                }
+                            ],
                             "prices": {
                                 "0": {
                                     "country_prices": {
@@ -2502,23 +2837,100 @@
                                         ]
                                     }
                                 }
+                            },
+                            "variant_label": "Purple",
+                            "variant_value": "#8d6bf8",
+                            "base_variant_sku_id": "1500908088184668302",
+                            "base_variant_name": "Enchanted Ribbon",
+                            "styles": null,
+                            "google_sku_ids": {
+                                "5": "1500908791145955389_1500910287639941334",
+                                "7": "1500908791145955389_1500910293193064649"
+                            }
+                        },
+                        {
+                            "sku_id": "1500908955780775977",
+                            "name": "Enchanted Ribbon (Red)",
+                            "name_localizations": null,
+                            "summary": "Give your avatar a new look.",
+                            "summary_localizations": null,
+                            "type": 0,
+                            "store_listing_id": "1500908955780775977",
+                            "category_sku_id": "1500907050744680608",
+                            "premium_type": 0,
+                            "items": [
+                                {
+                                    "type": 0,
+                                    "sku_id": "1500908955780775977",
+                                    "asset": "a_48c10661910ea9ba20a8070f2cd6549f",
+                                    "assets": {
+                                        "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500908955780775977/static",
+                                        "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500908955780775977/animated"
+                                    },
+                                    "label": "Red ribbon tying itself into a neat bow around the avatar"
+                                }
+                            ],
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "variant_label": "Red",
+                            "variant_value": "#f56c70",
+                            "base_variant_sku_id": "1500908088184668302",
+                            "base_variant_name": "Enchanted Ribbon",
+                            "styles": null,
+                            "google_sku_ids": {
+                                "5": "1500908955780775977_1500912540257882142",
+                                "7": "1500908955780775977_1500912547019096194"
                             }
                         }
                     ],
                     "google_sku_ids": {
-                        "5": "1498449439675781301_1498453331348291715",
-                        "7": "1498449439675781301_1498453336737714246"
+                        "5": "1500908088184668302_1500912112246067433",
+                        "7": "1500908088184668302_1500912117518438621"
                     }
                 },
                 {
-                    "sku_id": "1498445907169902712",
-                    "name": "Ichi-Nyan",
+                    "sku_id": "1500907134190354576",
+                    "name": "Heart's Reflection",
                     "summary": "Give your avatar a new look.",
-                    "store_listing_id": "1498445907169902712",
+                    "store_listing_id": "1500907134190354576",
                     "styles": {
                         "background_colors": [
-                            16442007,
-                            16760148
+                            8232681,
+                            14126312
                         ],
                         "button_colors": [
                             5793266,
@@ -2572,32 +2984,32 @@
                     "items": [
                         {
                             "type": 0,
-                            "sku_id": "1498445907169902712",
-                            "asset": "a_fc10280d008d9749f3e5048af8d0f54f",
+                            "sku_id": "1500907134190354576",
+                            "asset": "a_0e25685f403ba17f91b70ed424ce685e",
                             "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498445907169902712/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498445907169902712/animated"
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500907134190354576/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500907134190354576/animated"
                             },
-                            "label": "Cute cat with strawberry on its head peeking out and happy strawberries surrounding avatar"
+                            "label": "Pink heart-shaped compact mirror opening and closing"
                         }
                     ],
                     "type": 0,
                     "premium_type": 0,
-                    "category_sku_id": "1498445865973715084",
+                    "category_sku_id": "1500907050744680608",
                     "google_sku_ids": {
-                        "5": "1498445907169902712_1498446485778337893",
-                        "7": "1498445907169902712_1498446491956678786"
+                        "5": "1500907134190354576_1500911376879845466",
+                        "7": "1500907134190354576_1500911382558802051"
                     }
                 },
                 {
-                    "sku_id": "1498446412306714644",
-                    "name": "Cherry Cream",
+                    "sku_id": "1500909195933782167",
+                    "name": "Fairy Wings",
                     "summary": "Give your avatar a new look.",
-                    "store_listing_id": "1498446412306714644",
+                    "store_listing_id": "1500909195933782167",
                     "styles": {
                         "background_colors": [
-                            16442007,
-                            16760148
+                            8232681,
+                            14126312
                         ],
                         "button_colors": [
                             5793266,
@@ -2651,32 +3063,32 @@
                     "items": [
                         {
                             "type": 0,
-                            "sku_id": "1498446412306714644",
-                            "asset": "a_7cc34759ebc9a802f33d4feaa852d162",
+                            "sku_id": "1500909195933782167",
+                            "asset": "a_098e92341db5d984ca066bebe558ffdf",
                             "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498446412306714644/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498446412306714644/animated"
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500909195933782167/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500909195933782167/animated"
                             },
-                            "label": "Cherry and whipped cream on top of avatar"
+                            "label": "Delicate pink and blue translucent wings with sparkles"
                         }
                     ],
                     "type": 0,
                     "premium_type": 0,
-                    "category_sku_id": "1498445865973715084",
+                    "category_sku_id": "1500907050744680608",
                     "google_sku_ids": {
-                        "5": "1498446412306714644_1498446792138686514",
-                        "7": "1498446412306714644_1498446797675430030"
+                        "5": "1500909195933782167_1500913120594362600",
+                        "7": "1500909195933782167_1500913127074693170"
                     }
                 },
                 {
-                    "sku_id": "1498446695510577243",
-                    "name": "Bananabelle",
+                    "sku_id": "1500909310971220020",
+                    "name": "Guardian Wings",
                     "summary": "Give your avatar a new look.",
-                    "store_listing_id": "1498446695510577243",
+                    "store_listing_id": "1500909310971220020",
                     "styles": {
                         "background_colors": [
-                            16442007,
-                            16760148
+                            8232681,
+                            14126312
                         ],
                         "button_colors": [
                             5793266,
@@ -2730,427 +3142,32 @@
                     "items": [
                         {
                             "type": 0,
-                            "sku_id": "1498446695510577243",
-                            "asset": "a_5ab3e4dd9aba6876c9eb858fa530505c",
+                            "sku_id": "1500909310971220020",
+                            "asset": "a_29b87e18aa419c48c2da8d364bbe642e",
                             "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498446695510577243/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498446695510577243/animated"
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500909310971220020/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500909310971220020/animated"
                             },
-                            "label": "Happy banana peel sitting on top of avatar"
+                            "label": "Angelic feathery wings flapping and glowing softly"
                         }
                     ],
                     "type": 0,
                     "premium_type": 0,
-                    "category_sku_id": "1498445865973715084",
+                    "category_sku_id": "1500907050744680608",
                     "google_sku_ids": {
-                        "5": "1498446695510577243_1498448519399211248",
-                        "7": "1498446695510577243_1498448525560778952"
+                        "5": "1500909310971220020_1500911325638033489",
+                        "7": "1500909310971220020_1500911332151791646"
                     }
                 },
                 {
-                    "sku_id": "1498446254072528926",
-                    "name": "Berry Cute",
-                    "summary": "Give your avatar a new look.",
-                    "store_listing_id": "1498446254072528926",
-                    "styles": {
-                        "background_colors": [
-                            16442007,
-                            16760148
-                        ],
-                        "button_colors": [
-                            5793266,
-                            5793266
-                        ],
-                        "confetti_colors": [
-                            43772,
-                            15774258,
-                            16414587,
-                            3000177,
-                            9739511
-                        ]
-                    },
-                    "prices": {
-                        "0": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 599,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    },
-                                    {
-                                        "amount": 4100,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        },
-                        "4": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 499,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    },
-                                    {
-                                        "amount": 4100,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "preview_assets": null,
-                    "items": [
-                        {
-                            "type": 0,
-                            "sku_id": "1498446254072528926",
-                            "asset": "a_7a37ce9e5674681cb80476e6772f78ff",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498446254072528926/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498446254072528926/animated"
-                            },
-                            "label": "Many fruits with happy expressions in a circle outlining avatar"
-                        }
-                    ],
-                    "type": 0,
-                    "premium_type": 0,
-                    "category_sku_id": "1498445865973715084",
-                    "google_sku_ids": {
-                        "5": "1498446254072528926_1498448462709129326",
-                        "7": "1498446254072528926_1498448468442877962"
-                    }
-                },
-                {
-                    "sku_id": "1498446571140939860",
-                    "name": "Clementina",
-                    "summary": "Give your avatar a new look.",
-                    "store_listing_id": "1498446571140939860",
-                    "styles": {
-                        "background_colors": [
-                            16442007,
-                            16760148
-                        ],
-                        "button_colors": [
-                            5793266,
-                            5793266
-                        ],
-                        "confetti_colors": [
-                            43772,
-                            15774258,
-                            16414587,
-                            3000177,
-                            9739511
-                        ]
-                    },
-                    "prices": {
-                        "0": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 599,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    },
-                                    {
-                                        "amount": 4100,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        },
-                        "4": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 499,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    },
-                                    {
-                                        "amount": 4100,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "preview_assets": null,
-                    "items": [
-                        {
-                            "type": 0,
-                            "sku_id": "1498446571140939860",
-                            "asset": "a_80b79cc42a0db76b02c45f080a44ceff",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498446571140939860/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498446571140939860/animated"
-                            },
-                            "label": "Animal ears and an orange sitting on top of avatar"
-                        }
-                    ],
-                    "type": 0,
-                    "premium_type": 0,
-                    "category_sku_id": "1498445865973715084",
-                    "google_sku_ids": {
-                        "5": "1498446571140939860_1498448114913382491",
-                        "7": "1498446571140939860_1498448120554717344"
-                    }
-                },
-                {
-                    "sku_id": "1498447374496956567",
-                    "name": "Lemonette",
-                    "summary": "Give your avatar a new look.",
-                    "store_listing_id": "1498447374496956567",
-                    "styles": {
-                        "background_colors": [
-                            16442007,
-                            16760148
-                        ],
-                        "button_colors": [
-                            5793266,
-                            5793266
-                        ],
-                        "confetti_colors": [
-                            43772,
-                            15774258,
-                            16414587,
-                            3000177,
-                            9739511
-                        ]
-                    },
-                    "prices": {
-                        "0": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 599,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    },
-                                    {
-                                        "amount": 4100,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        },
-                        "4": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 499,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    },
-                                    {
-                                        "amount": 4100,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "preview_assets": null,
-                    "items": [
-                        {
-                            "type": 0,
-                            "sku_id": "1498447374496956567",
-                            "asset": "a_cbe3d48e08e71e05c787f0952c59e02f",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498447374496956567/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498447374496956567/animated"
-                            },
-                            "label": "Yellow lemon hood around avatar"
-                        }
-                    ],
-                    "type": 0,
-                    "premium_type": 0,
-                    "category_sku_id": "1498445865973715084",
-                    "google_sku_ids": {
-                        "5": "1498447374496956567_1498451517202759821",
-                        "7": "1498447374496956567_1498451522797703360"
-                    }
-                },
-                {
-                    "sku_id": "1498447487348904087",
-                    "name": "Strawbelline",
-                    "summary": "Give your avatar a new look.",
-                    "store_listing_id": "1498447487348904087",
-                    "styles": {
-                        "background_colors": [
-                            16442007,
-                            16760148
-                        ],
-                        "button_colors": [
-                            5793266,
-                            5793266
-                        ],
-                        "confetti_colors": [
-                            43772,
-                            15774258,
-                            16414587,
-                            3000177,
-                            9739511
-                        ]
-                    },
-                    "prices": {
-                        "0": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 599,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    },
-                                    {
-                                        "amount": 4100,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        },
-                        "4": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 499,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    },
-                                    {
-                                        "amount": 4100,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "preview_assets": null,
-                    "items": [
-                        {
-                            "type": 0,
-                            "sku_id": "1498447487348904087",
-                            "asset": "a_5a84fbea96f5b12798e7401c859884ce",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498447487348904087/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498447487348904087/animated"
-                            },
-                            "label": "Red strawberry hood around avatar"
-                        }
-                    ],
-                    "type": 0,
-                    "premium_type": 0,
-                    "category_sku_id": "1498445865973715084",
-                    "google_sku_ids": {
-                        "5": "1498447487348904087_1498448349328572476",
-                        "7": "1498447487348904087_1498448355209253115"
-                    }
-                },
-                {
-                    "sku_id": "1498447602054598888",
-                    "name": "Melonie",
-                    "summary": "Give your avatar a new look.",
-                    "store_listing_id": "1498447602054598888",
-                    "styles": {
-                        "background_colors": [
-                            16442007,
-                            16760148
-                        ],
-                        "button_colors": [
-                            5793266,
-                            5793266
-                        ],
-                        "confetti_colors": [
-                            43772,
-                            15774258,
-                            16414587,
-                            3000177,
-                            9739511
-                        ]
-                    },
-                    "prices": {
-                        "0": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 599,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    },
-                                    {
-                                        "amount": 4100,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        },
-                        "4": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 499,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    },
-                                    {
-                                        "amount": 4100,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "preview_assets": null,
-                    "items": [
-                        {
-                            "type": 0,
-                            "sku_id": "1498447602054598888",
-                            "asset": "a_ad4ccdcd7723bbd2f841217d8c7cfbaf",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498447602054598888/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498447602054598888/animated"
-                            },
-                            "label": "Green striped watermelon rind hood around avatar"
-                        }
-                    ],
-                    "type": 0,
-                    "premium_type": 0,
-                    "category_sku_id": "1498445865973715084",
-                    "google_sku_ids": {
-                        "5": "1498447602054598888_1498448547018838046",
-                        "7": "1498447602054598888_1498448552697921576"
-                    }
-                },
-                {
-                    "sku_id": "1498447721600909352",
-                    "name": "Ichi-Nyan",
+                    "sku_id": "1500910258757828618",
+                    "name": "Sweetheart Charm",
                     "summary": "Make your name stand out in servers and chats.",
-                    "store_listing_id": "1498447721600909352",
+                    "store_listing_id": "1500910258757828618",
                     "styles": {
                         "background_colors": [
-                            16442007,
-                            16760148
+                            8232681,
+                            14126312
                         ],
                         "button_colors": [
                             5793266,
@@ -3204,196 +3221,196 @@
                     "items": [
                         {
                             "type": 2,
-                            "sku_id": "1498447721600909352",
-                            "asset": "nameplates/ichi-nyan/1498447721600909352/",
+                            "sku_id": "1500910258757828618",
+                            "asset": "nameplates/sweetheart_charm/1500910258757828618/",
                             "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498447721600909352/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498447721600909352/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498447721600909352/video"
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500910258757828618/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500910258757828618/animated",
+                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500910258757828618/video"
                             },
-                            "label": "Pink cat with a red strawberry hood dancing",
+                            "label": "Pink heart-shaped petals float upward",
+                            "palette": "sky"
+                        }
+                    ],
+                    "type": 2,
+                    "premium_type": 0,
+                    "category_sku_id": "1500907050744680608",
+                    "google_sku_ids": {
+                        "5": "1500910258757828618_1500911389718352103",
+                        "7": "1500910258757828618_1500911395519332464"
+                    }
+                },
+                {
+                    "sku_id": "1500910067719999579",
+                    "name": "Cosmic Guardian",
+                    "summary": "Make your name stand out in servers and chats.",
+                    "store_listing_id": "1500910067719999579",
+                    "styles": {
+                        "background_colors": [
+                            8232681,
+                            14126312
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 2,
+                            "sku_id": "1500910067719999579",
+                            "asset": "nameplates/cosmic_guardian/1500910067719999579/",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500910067719999579/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500910067719999579/animated",
+                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500910067719999579/video"
+                            },
+                            "label": "Pastel blue bear with wings posing while bubbles float past",
+                            "palette": "violet"
+                        }
+                    ],
+                    "type": 2,
+                    "premium_type": 0,
+                    "category_sku_id": "1500907050744680608",
+                    "google_sku_ids": {
+                        "5": "1500910067719999579_1500911970637975834",
+                        "7": "1500910067719999579_1500911976367263935"
+                    }
+                },
+                {
+                    "sku_id": "1500909875515887847",
+                    "name": "Heart's Reflection",
+                    "summary": "Make your name stand out in servers and chats.",
+                    "store_listing_id": "1500909875515887847",
+                    "styles": {
+                        "background_colors": [
+                            8232681,
+                            14126312
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 2,
+                            "sku_id": "1500909875515887847",
+                            "asset": "nameplates/heart's_reflection/1500909875515887847/",
+                            "assets": {
+                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500909875515887847/static",
+                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500909875515887847/animated",
+                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1500909875515887847/video"
+                            },
+                            "label": "Pink heart-shaped compact mirror opening and closing",
                             "palette": "bubble_gum"
                         }
                     ],
                     "type": 2,
                     "premium_type": 0,
-                    "category_sku_id": "1498445865973715084",
+                    "category_sku_id": "1500907050744680608",
                     "google_sku_ids": {
-                        "5": "1498447721600909352_1498449575663505552",
-                        "7": "1498447721600909352_1498449581065633812"
+                        "5": "1500909875515887847_1500912086841032714",
+                        "7": "1500909875515887847_1500912092545417236"
                     }
                 },
                 {
-                    "sku_id": "1498447882569908435",
-                    "name": "Cherry Surprise",
-                    "summary": "Make your name stand out in servers and chats.",
-                    "store_listing_id": "1498447882569908435",
-                    "styles": {
-                        "background_colors": [
-                            16442007,
-                            16760148
-                        ],
-                        "button_colors": [
-                            5793266,
-                            5793266
-                        ],
-                        "confetti_colors": [
-                            43772,
-                            15774258,
-                            16414587,
-                            3000177,
-                            9739511
-                        ]
-                    },
-                    "prices": {
-                        "0": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 599,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    },
-                                    {
-                                        "amount": 4100,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        },
-                        "4": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 499,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    },
-                                    {
-                                        "amount": 4100,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "preview_assets": null,
-                    "items": [
-                        {
-                            "type": 2,
-                            "sku_id": "1498447882569908435",
-                            "asset": "nameplates/cherry_surprise/1498447882569908435/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498447882569908435/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498447882569908435/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498447882569908435/video"
-                            },
-                            "label": "Red cherries spinning and dancing",
-                            "palette": "crimson"
-                        }
-                    ],
-                    "type": 2,
-                    "premium_type": 0,
-                    "category_sku_id": "1498445865973715084",
-                    "google_sku_ids": {
-                        "5": "1498447882569908435_1498450076501147768",
-                        "7": "1498447882569908435_1498450082104873070"
-                    }
-                },
-                {
-                    "sku_id": "1498448010940780834",
-                    "name": "Banana Bliss",
-                    "summary": "Make your name stand out in servers and chats.",
-                    "store_listing_id": "1498448010940780834",
-                    "styles": {
-                        "background_colors": [
-                            16442007,
-                            16760148
-                        ],
-                        "button_colors": [
-                            5793266,
-                            5793266
-                        ],
-                        "confetti_colors": [
-                            43772,
-                            15774258,
-                            16414587,
-                            3000177,
-                            9739511
-                        ]
-                    },
-                    "prices": {
-                        "0": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 599,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    },
-                                    {
-                                        "amount": 4100,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        },
-                        "4": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 499,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    },
-                                    {
-                                        "amount": 4100,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "preview_assets": null,
-                    "items": [
-                        {
-                            "type": 2,
-                            "sku_id": "1498448010940780834",
-                            "asset": "nameplates/banana_bliss/1498448010940780834/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498448010940780834/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498448010940780834/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1498448010940780834/video"
-                            },
-                            "label": "Cute cat sleeping in the curve of a yellow banana",
-                            "palette": "cobalt"
-                        }
-                    ],
-                    "type": 2,
-                    "premium_type": 0,
-                    "category_sku_id": "1498445865973715084",
-                    "google_sku_ids": {
-                        "5": "1498448010940780834_1498448770461864027",
-                        "7": "1498448010940780834_1498448776250130462"
-                    }
-                },
-                {
-                    "sku_id": "1498448124497236140",
-                    "name": "Cherry Surprise",
+                    "sku_id": "1500910942739894372",
+                    "name": "Starlight Wand",
                     "summary": "Show this effect when others view your profile.",
-                    "store_listing_id": "1498448124497236140",
+                    "store_listing_id": "1500910942739894372",
                     "styles": {
                         "background_colors": [
-                            16442007,
-                            16760148
+                            8232681,
+                            14126312
                         ],
                         "button_colors": [
                             5793266,
@@ -3447,30 +3464,40 @@
                     "items": [
                         {
                             "type": 1,
-                            "sku_id": "1498448124497236140",
-                            "title": "Cherry Surprise",
+                            "sku_id": "1500910942739894372",
+                            "title": "Starlight Wand",
                             "description": "Show this effect when others view your profile.",
-                            "accessibilityLabel": "A dollop of whipped cream falling and then a cherry falling on top of it",
-                            "animationType": 2,
-                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/5362e19e700d6f8c1a0244a901d9dca0cbfbea851c6236d49608e15c88a6c7ad",
-                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/ffc606c0ab44b4dc6fa5975f90d3107cda33cab3d395d14a9f961ba3d2811c6e",
+                            "accessibilityLabel": "Glowing wand topped with a star emitting light trails and pink petals",
+                            "animationType": 1,
+                            "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/d9d6d703ee76e859eddbe40918f4e818307127edec7f1b86218c57da8bfa77b8",
+                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/b891d1ef7d14aa41fa84878a2b3c55f7cf35156b4737c3954278af3410217d44",
+                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/27e250e7f1172de34d26ef4dd72ab78896113aa3aa25b95cc78ddded3779ed6c",
                             "effects": [
                                 {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/8f7470718b53d890c9d4e1b0d700e8d4526c8351e8855b7571735e7438e58ec9",
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/205e28226b9469deb677dd3385c1c62499dc2ef0185aaf526bbe4ae695ee7692",
                                     "loop": false,
-                                    "duration": 3250,
-                                    "start": 0,
-                                    "loopDelay": 0,
-                                    "zIndex": 100,
-                                    "randomizedSources": []
-                                },
-                                {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/48c6194872ada8238608c4fd9a360e8eb63dfacdb5a179e970496a26559ae2c9",
-                                    "loop": true,
                                     "duration": 4000,
-                                    "start": 4300,
-                                    "loopDelay": 2500,
+                                    "start": 0,
+                                    "loopDelay": 0,
+                                    "zIndex": 100,
+                                    "randomizedSources": []
+                                },
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/9cf28c832863d567277d7fdd7cd98e84b71d034552529e2a63e8292b911cc301",
+                                    "loop": true,
+                                    "duration": 3000,
+                                    "start": 7000,
+                                    "loopDelay": 5000,
                                     "zIndex": 101,
+                                    "randomizedSources": []
+                                },
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/7edde14a780dfef0a6c7ffc8b4d89bde4350cc5a187ac1d5996492ede572fcdf",
+                                    "loop": true,
+                                    "duration": 3000,
+                                    "start": 4001,
+                                    "loopDelay": 0,
+                                    "zIndex": 102,
                                     "randomizedSources": []
                                 }
                             ]
@@ -3478,21 +3505,21 @@
                     ],
                     "type": 1,
                     "premium_type": 0,
-                    "category_sku_id": "1498445865973715084",
+                    "category_sku_id": "1500907050744680608",
                     "google_sku_ids": {
-                        "5": "1498448124497236140_1498451181595529347",
-                        "7": "1498448124497236140_1498451187387600996"
+                        "5": "1500910942739894372_1500915074359886025",
+                        "7": "1500910942739894372_1500915079774994542"
                     }
                 },
                 {
-                    "sku_id": "1498448616115671222",
-                    "name": "Bananabelle",
+                    "sku_id": "1500910723621060658",
+                    "name": "Cosmic Guardian",
                     "summary": "Show this effect when others view your profile.",
-                    "store_listing_id": "1498448616115671222",
+                    "store_listing_id": "1500910723621060658",
                     "styles": {
                         "background_colors": [
-                            16442007,
-                            16760148
+                            8232681,
+                            14126312
                         ],
                         "button_colors": [
                             5793266,
@@ -3546,29 +3573,29 @@
                     "items": [
                         {
                             "type": 1,
-                            "sku_id": "1498448616115671222",
-                            "title": "Bananabelle",
+                            "sku_id": "1500910723621060658",
+                            "title": "Cosmic Guardian",
                             "description": "Show this effect when others view your profile.",
-                            "accessibilityLabel": "A cute cat sleeping in the curve of a yellow banana floating across the profile",
+                            "accessibilityLabel": "Pastel blue bear with wings floating among stars and winking",
                             "animationType": 2,
-                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/f0fd7bfb5f11cb0df05b27210f7e022561bd76ce3f61f73dd8fbc3ae9a72b903",
-                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/129febc42c24498de1e5188dc9d871a6cadf7cb27ed5e07d9f9ab50c959b17b8",
+                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/8cd9850d53282f56e048ff74571e4b59bb323ecbf304c2ece25e8ea9d52adc9a",
+                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/385c4e0f55c2c7830637ea9d87d3079a3d7432caed4be37affba224eded7309b",
                             "effects": [
                                 {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/bae7702dde457d8c42d745feb4dfa8560024a77462ea35f503f48644bd242511",
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/62d26c8cffa319cd9d1f7a29fa5833298a1ffcd72fb8ef1c3b644581c4a086b8",
                                     "loop": false,
-                                    "duration": 6083,
+                                    "duration": 3000,
                                     "start": 0,
                                     "loopDelay": 0,
                                     "zIndex": 100,
                                     "randomizedSources": []
                                 },
                                 {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/8689f1ad5d315cd6f61c587d41f2eada26dcb35eb6933779822165f6565fc326",
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/0350f57d170f2bde273f4d44d4cb2c4dcd63e8abda8d7c1c979496328f63e1bc",
                                     "loop": true,
-                                    "duration": 5417,
-                                    "start": 8000,
-                                    "loopDelay": 3500,
+                                    "duration": 3000,
+                                    "start": 5000,
+                                    "loopDelay": 4000,
                                     "zIndex": 101,
                                     "randomizedSources": []
                                 }
@@ -3577,21 +3604,21 @@
                     ],
                     "type": 1,
                     "premium_type": 0,
-                    "category_sku_id": "1498445865973715084",
+                    "category_sku_id": "1500907050744680608",
                     "google_sku_ids": {
-                        "5": "1498448616115671222_1498450500662857758",
-                        "7": "1498448616115671222_1498450506740269188"
+                        "5": "1500910723621060658_1500911686885052557",
+                        "7": "1500910723621060658_1500911693616779394"
                     }
                 },
                 {
-                    "sku_id": "1498448402340515870",
-                    "name": "Berry Cute",
+                    "sku_id": "1500910389003816990",
+                    "name": "Heart Beam",
                     "summary": "Show this effect when others view your profile.",
-                    "store_listing_id": "1498448402340515870",
+                    "store_listing_id": "1500910389003816990",
                     "styles": {
                         "background_colors": [
-                            16442007,
-                            16760148
+                            8232681,
+                            14126312
                         ],
                         "button_colors": [
                             5793266,
@@ -3645,29 +3672,29 @@
                     "items": [
                         {
                             "type": 1,
-                            "sku_id": "1498448402340515870",
-                            "title": "Berry Cute",
+                            "sku_id": "1500910389003816990",
+                            "title": "Heart Beam",
                             "description": "Show this effect when others view your profile.",
-                            "accessibilityLabel": "Many fruits with cute faces appearing and dancing",
+                            "accessibilityLabel": "Radiant beams of hearts projecting outward from a pink heart shaped crystal in the center",
                             "animationType": 2,
-                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/c53da7ec89f5038c8ebcef60642af6c05a655cf18bc1117bf0ec57214e853474",
-                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/738df0c693b797200e80974efcd871e9d8fd743b3b96b5e724f3eacca98b9d49",
+                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/012470a0c0785ba2e4e7f706d864b694236d2f92a99d1cb182549ef08868128f",
+                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/4688ada42d7372ef175fc6184c1174b2d0f2f3269f4873b4d4df6f2dc3b0caa5",
                             "effects": [
                                 {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/81622117d27a6cdad381eaae6b30439764b43c95222b8f8e9c1676700e060955",
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/4405689265fe62c32d14d468fec4e611058e175566cc09112308b6d62aca7c13",
                                     "loop": false,
-                                    "duration": 3333,
+                                    "duration": 3000,
                                     "start": 0,
                                     "loopDelay": 0,
                                     "zIndex": 100,
                                     "randomizedSources": []
                                 },
                                 {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/bf8f8b3c4efc05fb35922c202adb1eca7d88087f406babd1012e1c0f33e5bbfc",
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/6875bb355d9a6c212852104f863a89ed585cf747f0b5b049510c10fd476878c3",
                                     "loop": true,
-                                    "duration": 3333,
-                                    "start": 4900,
-                                    "loopDelay": 2800,
+                                    "duration": 3000,
+                                    "start": 5000,
+                                    "loopDelay": 4000,
                                     "zIndex": 101,
                                     "randomizedSources": []
                                 }
@@ -3676,27 +3703,27 @@
                     ],
                     "type": 1,
                     "premium_type": 0,
-                    "category_sku_id": "1498445865973715084",
+                    "category_sku_id": "1500907050744680608",
                     "google_sku_ids": {
-                        "5": "1498448402340515870_1498452470165147698",
-                        "7": "1498448402340515870_1498452475194245250"
+                        "5": "1500910389003816990_1500912603986264064",
+                        "7": "1500910389003816990_1500912610206548059"
                     }
                 }
             ],
-            "hero_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/29370f041805b02017b2f54bcb2df877fa193615045bc9d4ff4e3508ca934821",
-            "hero_logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/153457cf5f4e3acd1672c819d98faa97970790853282528d733c9930bf157c37",
-            "catalog_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/71fa99562e706a7ea05e2a2c34c21abb33984d64af54a1e1179260122ed91021",
-            "featured_block_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/9c73d0d14113dc4269a0363f48ee5b3ad8d4b5eef288242dc5eac83843e0bec9",
-            "logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/51f6fdde7c065624e8c80011b843ec719952cc11a67e33c36c007d795d30036e",
-            "pdp_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/c7a8a3bc236dcd73bcc8a5d44c52a0fbe8d10447287a10ba667a1a731ce65f59",
-            "mobile_hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/3d4913d9a7f0752db5177b1860f94d4dcf71c541a9720bd9b8118f02d08ef5a1",
-            "mobile_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/d9153aaa6120bcc3b9473e1f45e030fff8425c4aa675d4b6e62b92d740e01539",
-            "mobile_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/bc3d4a72d14099fd1079f6026ae7c8804190416c2f43c6c2e70707329f4ab156",
+            "hero_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/d6cb9b01a4aae40c77bc9399d90b58a0d65c62bac65942def6d2f4843f0c8026",
+            "hero_logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/bc0b9fc5944c559416a4a3dfc2072b2c0a3c9d62c66761ccb9efe25eec35e6a7",
+            "catalog_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/86bbcdb87509fd240703608a28d35ef36a8786694b35f9ac0d03ed501d5dbe5a",
+            "featured_block_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/e6436ffbe3e4df7208eaf8311ad93c3417e6e12186eee4510cda32814916ef94",
+            "logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/f98c5009fc579798c228c3e2f96873f0a8cc70b8610d2c553f9488aac6c4dc45",
+            "pdp_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/b4fb92dcdc778e7b4444b5c88b4244141079ce834c106b32e663bf9d519391c2",
+            "mobile_hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/b46b406df3b20a28abe625b1cea115d0db45148086ce0af4a1abc39411f871dd",
+            "mobile_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/e43b83d20804d76817b8289dd07c23ca94cc4dfa92b5f6f4326ecc43e57b2466",
+            "mobile_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/4dad516a5873e6d4b1fa42a4588040fb39328f041d17533f1b18ab72885f95b7",
             "hero_banner_display_config": {
                 "desktop_max_height": null,
                 "mobile_max_height": null,
                 "responsive": null,
-                "background_style": "linear-gradient(180deg, #FAE297 0%, #FFBD54 100%)"
+                "background_style": "linear-gradient(180deg, #7D9EE9 0%, #D78CE8 100%)"
             }
         },
         {
