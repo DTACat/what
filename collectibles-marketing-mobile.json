@@ -4,7 +4,10 @@
             "type": 1,
             "version": 73,
             "dismissible_content": 422,
-            "decorations": []
+            "ref_target_background": null,
+            "badge_icon": null,
+            "badge_text": null,
+            "show_hover_gradient": null
         }
     }
 }
