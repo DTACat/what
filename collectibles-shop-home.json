@@ -62,7 +62,7 @@
         {
             "type": 9,
             "application_id": "1288512934112264234",
-            "header_text": "Official Rust in-game items are now on Discord with 20% off until May 22!",
+            "header_text": "Official Rust in-game items are now on Discord!",
             "gradient_colors": [
                 "#ef40244D",
                 "#ef402400"
@@ -74,7 +74,7 @@
                 "1499479412821725254",
                 "1499479437857788155"
             ],
-            "end_time": "2026-05-21T18:00:00+00:00"
+            "end_time": "2026-06-07T00:00:00+00:00"
         },
         {
             "type": 4,
