@@ -11,7 +11,7 @@
                 "1506054749420785845",
                 "1506049399703474186",
                 "1506049874590699751",
-                "1506051886019510322"
+                "1506052523436281986"
             ],
             "hero_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/cb3a1a41c7885f183b7c43991b37a496c1bba152818c4bdc6b53949ddfe03f97",
             "hero_logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/4d19bbcbebf17d1aa94844d21812ac5b7953e7cf7626a280ca6aa4c580ac8c6e",
@@ -2643,7 +2643,7 @@
                 "1506054749420785845",
                 "1506049399703474186",
                 "1506049874590699751",
-                "1506051886019510322"
+                "1506052523436281986"
             ],
             "products": [
                 {
@@ -3062,10 +3062,10 @@
                     }
                 },
                 {
-                    "sku_id": "1506051886019510322",
+                    "sku_id": "1506052523436281986",
                     "name": "Spray Doodles",
                     "summary": "Show this effect when others view your profile.",
-                    "store_listing_id": "1506051886019510322",
+                    "store_listing_id": "1506052523436281986",
                     "styles": {
                         "background_colors": [
                             3698,
@@ -3125,96 +3125,6 @@
                     "premium_type": 0,
                     "category_sku_id": "1506048903814975548",
                     "variants": [
-                        {
-                            "sku_id": "1506051886019510322",
-                            "name": "Spray Doodles (No Artist)",
-                            "name_localizations": null,
-                            "summary": "Show this effect when others view your profile.",
-                            "summary_localizations": null,
-                            "type": 1,
-                            "store_listing_id": "1506051886019510322",
-                            "category_sku_id": "1506048903814975548",
-                            "premium_type": 0,
-                            "items": [
-                                {
-                                    "type": 1,
-                                    "sku_id": "1506051886019510322",
-                                    "title": "Spray Doodles (No Artist)",
-                                    "description": "Show this effect when others view your profile.",
-                                    "accessibilityLabel": "Neon graffiti tags and glowing spray paint splashes ",
-                                    "animationType": 2,
-                                    "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/8bd6098669b8e56c293e80b0818b2ac481f3a9bcd50616297072200ed137915f",
-                                    "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/87dc34315d83988a0d295f152dda101f30f78bc596ba6d226cb7c2f08bbbc85c",
-                                    "effects": [
-                                        {
-                                            "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/f2761b53dd3e65bb463353d0e1f7f09beafe7dc3b0068305a51d8de95545db6c",
-                                            "loop": false,
-                                            "duration": 3000,
-                                            "start": 0,
-                                            "loopDelay": 0,
-                                            "zIndex": 100,
-                                            "randomizedSources": []
-                                        },
-                                        {
-                                            "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/8f94e4a7cf8bd3858415607e415309cd957e8fac37edcf254cee6e38e6e06a77",
-                                            "loop": true,
-                                            "duration": 3000,
-                                            "start": 4200,
-                                            "loopDelay": 2100,
-                                            "zIndex": 101,
-                                            "randomizedSources": []
-                                        }
-                                    ]
-                                }
-                            ],
-                            "prices": {
-                                "0": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 599,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                },
-                                "4": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 499,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                }
-                            },
-                            "variant_label": "No Artist",
-                            "variant_value": "#83f078",
-                            "base_variant_sku_id": "1506051886019510322",
-                            "base_variant_name": "Spray Doodles",
-                            "styles": null,
-                            "google_sku_ids": {
-                                "5": "1506051886019510322_1506057179667370117",
-                                "7": "1506051886019510322_1506057185002651658"
-                            },
-                            "badge_override": null,
-                            "hide_badge": null
-                        },
                         {
                             "sku_id": "1506052523436281986",
                             "name": "Spray Doodles (Artist)",
@@ -3295,7 +3205,7 @@
                             },
                             "variant_label": "Artist",
                             "variant_value": "#0047ff",
-                            "base_variant_sku_id": "1506051886019510322",
+                            "base_variant_sku_id": "1506052523436281986",
                             "base_variant_name": "Spray Doodles",
                             "styles": null,
                             "google_sku_ids": {
@@ -3304,11 +3214,101 @@
                             },
                             "badge_override": null,
                             "hide_badge": null
+                        },
+                        {
+                            "sku_id": "1506051886019510322",
+                            "name": "Spray Doodles (No Artist)",
+                            "name_localizations": null,
+                            "summary": "Show this effect when others view your profile.",
+                            "summary_localizations": null,
+                            "type": 1,
+                            "store_listing_id": "1506051886019510322",
+                            "category_sku_id": "1506048903814975548",
+                            "premium_type": 0,
+                            "items": [
+                                {
+                                    "type": 1,
+                                    "sku_id": "1506051886019510322",
+                                    "title": "Spray Doodles (No Artist)",
+                                    "description": "Show this effect when others view your profile.",
+                                    "accessibilityLabel": "Neon graffiti tags and glowing spray paint splashes ",
+                                    "animationType": 2,
+                                    "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/8bd6098669b8e56c293e80b0818b2ac481f3a9bcd50616297072200ed137915f",
+                                    "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/87dc34315d83988a0d295f152dda101f30f78bc596ba6d226cb7c2f08bbbc85c",
+                                    "effects": [
+                                        {
+                                            "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/f2761b53dd3e65bb463353d0e1f7f09beafe7dc3b0068305a51d8de95545db6c",
+                                            "loop": false,
+                                            "duration": 3000,
+                                            "start": 0,
+                                            "loopDelay": 0,
+                                            "zIndex": 100,
+                                            "randomizedSources": []
+                                        },
+                                        {
+                                            "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/8f94e4a7cf8bd3858415607e415309cd957e8fac37edcf254cee6e38e6e06a77",
+                                            "loop": true,
+                                            "duration": 3000,
+                                            "start": 4200,
+                                            "loopDelay": 2100,
+                                            "zIndex": 101,
+                                            "randomizedSources": []
+                                        }
+                                    ]
+                                }
+                            ],
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "variant_label": "No Artist",
+                            "variant_value": "#83f078",
+                            "base_variant_sku_id": "1506052523436281986",
+                            "base_variant_name": "Spray Doodles",
+                            "styles": null,
+                            "google_sku_ids": {
+                                "5": "1506051886019510322_1506057179667370117",
+                                "7": "1506051886019510322_1506057185002651658"
+                            },
+                            "badge_override": null,
+                            "hide_badge": null
                         }
                     ],
                     "google_sku_ids": {
-                        "5": "1506051886019510322_1506057179667370117",
-                        "7": "1506051886019510322_1506057185002651658"
+                        "5": "1506052523436281986_1506057747056164884",
+                        "7": "1506052523436281986_1506057752903155783"
                     }
                 }
             ],
