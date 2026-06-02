@@ -65,7 +65,6 @@
         },
         {
             "type": 4,
-            "category_sku_id": "1488179906260238397",
             "name": "Hello Kitty and Friends",
             "ranked_sku_ids": [
                 "1488248959481811104",
@@ -101,7 +100,10 @@
                 "1488247516058353757",
                 "1488247837090381975",
                 "1488248082951835748"
-            ]
+            ],
+            "category_sku_id": "1488179906260238397",
+            "show_button": true,
+            "button_text": "Shop All Hello Kitty and Friends"
         },
         {
             "type": 2,
