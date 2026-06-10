@@ -96,6 +96,23 @@
             ]
         },
         {
+            "type": 9,
+            "application_id": "1288512934112264234",
+            "header_text": "Shop latest official Rust items on Discord! Plus Discord-exclusive Wumpus Plush.",
+            "gradient_colors": [
+                "#ef40244D",
+                "#ef402400"
+            ],
+            "gradient_angle": 0,
+            "sku_ids": [
+                "1511661245592240296",
+                "1499479361991217234",
+                "1499479355875791029",
+                "1499479581818880030"
+            ],
+            "end_time": "2026-06-11T00:00:00+00:00"
+        },
+        {
             "type": 4,
             "name": "Purr",
             "ranked_sku_ids": [
