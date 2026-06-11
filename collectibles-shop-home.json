@@ -2904,10 +2904,6 @@
                             "type": 0,
                             "sku_id": "1509959424633081866",
                             "asset": "a_0577e3f15bebcffbdef53cc86a234d57",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1509959424633081866/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1509959424633081866/animated"
-                            },
                             "label": "Soccer ball outlining the avatar and spinning with purple light streaks"
                         }
                     ],
@@ -2998,10 +2994,6 @@
                                     "type": 0,
                                     "sku_id": "1509959759342604399",
                                     "asset": "a_1056325e3cf0530355a6a44abc968758",
-                                    "assets": {
-                                        "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1509959759342604399/static",
-                                        "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1509959759342604399/animated"
-                                    },
                                     "label": "A hand holding up a red penalty card"
                                 }
                             ],
@@ -3068,10 +3060,6 @@
                                     "type": 0,
                                     "sku_id": "1509960096577228881",
                                     "asset": "a_60cabc5a271010c657fc305383b01f44",
-                                    "assets": {
-                                        "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1509960096577228881/static",
-                                        "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1509960096577228881/animated"
-                                    },
                                     "label": "A hand holding up a yellow penalty card"
                                 }
                             ],
@@ -3193,11 +3181,6 @@
                             "type": 2,
                             "sku_id": "1510049012068122634",
                             "asset": "nameplates/algeria/1510049012068122634/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510049012068122634/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510049012068122634/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510049012068122634/video"
-                            },
                             "label": "Algeria's flag representation",
                             "palette": "clover"
                         }
@@ -3274,11 +3257,6 @@
                             "type": 2,
                             "sku_id": "1511103829410840677",
                             "asset": "nameplates/argentina/1511103829410840677/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511103829410840677/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511103829410840677/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511103829410840677/video"
-                            },
                             "label": "Argentina's flag representation",
                             "palette": "sky"
                         }
@@ -3355,11 +3333,6 @@
                             "type": 2,
                             "sku_id": "1511110580616826960",
                             "asset": "nameplates/australia/1511110580616826960/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511110580616826960/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511110580616826960/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511110580616826960/video"
-                            },
                             "label": "Australia's flag representation",
                             "palette": "cobalt"
                         }
@@ -3436,11 +3409,6 @@
                             "type": 2,
                             "sku_id": "1511105808501444649",
                             "asset": "nameplates/austria/1511105808501444649/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511105808501444649/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511105808501444649/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511105808501444649/video"
-                            },
                             "label": "Austria's flag representation",
                             "palette": "crimson"
                         }
@@ -3517,11 +3485,6 @@
                             "type": 2,
                             "sku_id": "1511107614748971160",
                             "asset": "nameplates/belgium/1511107614748971160/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511107614748971160/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511107614748971160/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511107614748971160/video"
-                            },
                             "label": "Belgium's flag representation",
                             "palette": "black"
                         }
@@ -3598,11 +3561,6 @@
                             "type": 2,
                             "sku_id": "1511105999786737704",
                             "asset": "nameplates/bosnia_&_herzegovina/1511105999786737704/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511105999786737704/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511105999786737704/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511105999786737704/video"
-                            },
                             "label": "Bosnia & Herzegovina's flag representation",
                             "palette": "cobalt"
                         }
@@ -3679,11 +3637,6 @@
                             "type": 2,
                             "sku_id": "1511104038140121219",
                             "asset": "nameplates/brazil/1511104038140121219/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511104038140121219/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511104038140121219/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511104038140121219/video"
-                            },
                             "label": "Brazil's flag representation",
                             "palette": "clover"
                         }
@@ -3760,11 +3713,6 @@
                             "type": 2,
                             "sku_id": "1510049837851349143",
                             "asset": "nameplates/cabo_verde/1510049837851349143/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510049837851349143/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510049837851349143/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510049837851349143/video"
-                            },
                             "label": "Cabo Verde's flag representation",
                             "palette": "cobalt"
                         }
@@ -3841,11 +3789,6 @@
                             "type": 2,
                             "sku_id": "1511102212888334587",
                             "asset": "nameplates/canada/1511102212888334587/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511102212888334587/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511102212888334587/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511102212888334587/video"
-                            },
                             "label": "Canada's flag representation",
                             "palette": "crimson"
                         }
@@ -3922,11 +3865,6 @@
                             "type": 2,
                             "sku_id": "1511104438629040238",
                             "asset": "nameplates/colombia/1511104438629040238/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511104438629040238/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511104438629040238/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511104438629040238/video"
-                            },
                             "label": "Colombia's flag representation",
                             "palette": "cobalt"
                         }
@@ -4003,11 +3941,6 @@
                             "type": 2,
                             "sku_id": "1510050536093650944",
                             "asset": "nameplates/cote_d'ivoire/1510050536093650944/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510050536093650944/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510050536093650944/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510050536093650944/video"
-                            },
                             "label": "Cote d'Ivoire's flag representation",
                             "palette": "lemon"
                         }
@@ -4084,11 +4017,6 @@
                             "type": 2,
                             "sku_id": "1511106112345084075",
                             "asset": "nameplates/croatia/1511106112345084075/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511106112345084075/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511106112345084075/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511106112345084075/video"
-                            },
                             "label": "Croatia's flag representation",
                             "palette": "crimson"
                         }
@@ -4165,11 +4093,6 @@
                             "type": 2,
                             "sku_id": "1511102910937956545",
                             "asset": "nameplates/curacao/1511102910937956545/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511102910937956545/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511102910937956545/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511102910937956545/video"
-                            },
                             "label": "Curacao's flag representation",
                             "palette": "cobalt"
                         }
@@ -4246,11 +4169,6 @@
                             "type": 2,
                             "sku_id": "1511106472854028399",
                             "asset": "nameplates/czechia/1511106472854028399/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511106472854028399/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511106472854028399/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511106472854028399/video"
-                            },
                             "label": "Czech Republic's flag representation",
                             "palette": "sky"
                         }
@@ -4327,11 +4245,6 @@
                             "type": 2,
                             "sku_id": "1510050686048665691",
                             "asset": "nameplates/dr_congo/1510050686048665691/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510050686048665691/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510050686048665691/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510050686048665691/video"
-                            },
                             "label": "The Democratic Republic of Congo's flag representation",
                             "palette": "sky"
                         }
@@ -4408,11 +4321,6 @@
                             "type": 2,
                             "sku_id": "1511104859305148517",
                             "asset": "nameplates/ecuador/1511104859305148517/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511104859305148517/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511104859305148517/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511104859305148517/video"
-                            },
                             "label": "Ecuador's flag representation",
                             "palette": "lemon"
                         }
@@ -4489,11 +4397,6 @@
                             "type": 2,
                             "sku_id": "1510049159988777020",
                             "asset": "nameplates/egypt/1510049159988777020/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510049159988777020/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510049159988777020/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510049159988777020/video"
-                            },
                             "label": "Egypt's flag representation",
                             "palette": "black"
                         }
@@ -4570,11 +4473,6 @@
                             "type": 2,
                             "sku_id": "1511107752762544188",
                             "asset": "nameplates/england/1511107752762544188/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511107752762544188/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511107752762544188/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511107752762544188/video"
-                            },
                             "label": "England's flag representation",
                             "palette": "white"
                         }
@@ -4651,11 +4549,6 @@
                             "type": 2,
                             "sku_id": "1511108080325103780",
                             "asset": "nameplates/france/1511108080325103780/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511108080325103780/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511108080325103780/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511108080325103780/video"
-                            },
                             "label": "France's flag representation",
                             "palette": "cobalt"
                         }
@@ -4732,11 +4625,6 @@
                             "type": 2,
                             "sku_id": "1511108725333823568",
                             "asset": "nameplates/germany/1511108725333823568/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511108725333823568/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511108725333823568/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511108725333823568/video"
-                            },
                             "label": "Germany's flag representation",
                             "palette": "black"
                         }
@@ -4813,11 +4701,6 @@
                             "type": 2,
                             "sku_id": "1510051062466478221",
                             "asset": "nameplates/ghana/1510051062466478221/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510051062466478221/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510051062466478221/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510051062466478221/video"
-                            },
                             "label": "Ghana's flag representation",
                             "palette": "clover"
                         }
@@ -4894,11 +4777,6 @@
                             "type": 2,
                             "sku_id": "1511103041712034093",
                             "asset": "nameplates/haiti/1511103041712034093/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511103041712034093/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511103041712034093/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511103041712034093/video"
-                            },
                             "label": "Haiti's flag representation",
                             "palette": "cobalt"
                         }
@@ -4975,11 +4853,6 @@
                             "type": 2,
                             "sku_id": "1511111194394628196",
                             "asset": "nameplates/iran/1511111194394628196/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511111194394628196/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511111194394628196/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511111194394628196/video"
-                            },
                             "label": "Iran's flag representation",
                             "palette": "teal"
                         }
@@ -5056,11 +4929,6 @@
                             "type": 2,
                             "sku_id": "1511111889554243736",
                             "asset": "nameplates/iraq/1511111889554243736/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511111889554243736/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511111889554243736/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511111889554243736/video"
-                            },
                             "label": "Iraq's flag representation",
                             "palette": "black"
                         }
@@ -5137,11 +5005,6 @@
                             "type": 2,
                             "sku_id": "1511110694861406390",
                             "asset": "nameplates/japan/1511110694861406390/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511110694861406390/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511110694861406390/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511110694861406390/video"
-                            },
                             "label": "Japan's flag representation",
                             "palette": "white"
                         }
@@ -5218,11 +5081,6 @@
                             "type": 2,
                             "sku_id": "1511114745862819850",
                             "asset": "nameplates/jordan/1511114745862819850/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511114745862819850/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511114745862819850/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511114745862819850/video"
-                            },
                             "label": "Jordan's flag representation",
                             "palette": "forest"
                         }
@@ -5299,11 +5157,6 @@
                             "type": 2,
                             "sku_id": "1511102617143607467",
                             "asset": "nameplates/mexico/1511102617143607467/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511102617143607467/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511102617143607467/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511102617143607467/video"
-                            },
                             "label": "Mexico's flag representation",
                             "palette": "clover"
                         }
@@ -5380,11 +5233,6 @@
                             "type": 2,
                             "sku_id": "1510049352746274966",
                             "asset": "nameplates/morocco/1510049352746274966/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510049352746274966/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510049352746274966/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510049352746274966/video"
-                            },
                             "label": "Morocco's flag representation",
                             "palette": "crimson"
                         }
@@ -5461,11 +5309,6 @@
                             "type": 2,
                             "sku_id": "1511109201571741809",
                             "asset": "nameplates/netherlands/1511109201571741809/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511109201571741809/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511109201571741809/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511109201571741809/video"
-                            },
                             "label": "Netherlands' flag representation",
                             "palette": "cobalt"
                         }
@@ -5542,11 +5385,6 @@
                             "type": 2,
                             "sku_id": "1511111041520504832",
                             "asset": "nameplates/new_zealand/1511111041520504832/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511111041520504832/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511111041520504832/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511111041520504832/video"
-                            },
                             "label": "New Zealand's flag representation",
                             "palette": "cobalt"
                         }
@@ -5623,11 +5461,6 @@
                             "type": 2,
                             "sku_id": "1511107047762952263",
                             "asset": "nameplates/norway/1511107047762952263/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511107047762952263/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511107047762952263/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511107047762952263/video"
-                            },
                             "label": "Norway's flag representation",
                             "palette": "berry"
                         }
@@ -5704,11 +5537,6 @@
                             "type": 2,
                             "sku_id": "1511103317466546186",
                             "asset": "nameplates/panama/1511103317466546186/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511103317466546186/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511103317466546186/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511103317466546186/video"
-                            },
                             "label": "Panama's flag representation",
                             "palette": "cobalt"
                         }
@@ -5785,11 +5613,6 @@
                             "type": 2,
                             "sku_id": "1511105439645827132",
                             "asset": "nameplates/paraguay/1511105439645827132/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511105439645827132/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511105439645827132/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511105439645827132/video"
-                            },
                             "label": "Paraguay's flag representation",
                             "palette": "crimson"
                         }
@@ -5866,11 +5689,6 @@
                             "type": 2,
                             "sku_id": "1511109357654249522",
                             "asset": "nameplates/portugal/1511109357654249522/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511109357654249522/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511109357654249522/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511109357654249522/video"
-                            },
                             "label": "Portugal's flag representation",
                             "palette": "clover"
                         }
@@ -5947,11 +5765,6 @@
                             "type": 2,
                             "sku_id": "1511115982754676798",
                             "asset": "nameplates/qatar/1511115982754676798/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511115982754676798/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511115982754676798/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511115982754676798/video"
-                            },
                             "label": "Qatar's flag representation",
                             "palette": "white"
                         }
@@ -6028,11 +5841,6 @@
                             "type": 2,
                             "sku_id": "1511115514011975770",
                             "asset": "nameplates/saudi_arabia/1511115514011975770/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511115514011975770/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511115514011975770/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511115514011975770/video"
-                            },
                             "label": "Saudi Arabia's flag representation",
                             "palette": "forest"
                         }
@@ -6109,11 +5917,6 @@
                             "type": 2,
                             "sku_id": "1511110083675688960",
                             "asset": "nameplates/scotland/1511110083675688960/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511110083675688960/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511110083675688960/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511110083675688960/video"
-                            },
                             "label": "Scotland's flag representation",
                             "palette": "sky"
                         }
@@ -6190,11 +5993,6 @@
                             "type": 2,
                             "sku_id": "1511101778093936660",
                             "asset": "nameplates/senegal/1511101778093936660/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511101778093936660/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511101778093936660/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511101778093936660/video"
-                            },
                             "label": "Senegal's flag representation",
                             "palette": "clover"
                         }
@@ -6271,11 +6069,6 @@
                             "type": 2,
                             "sku_id": "1511102054888640522",
                             "asset": "nameplates/south_africa/1511102054888640522/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511102054888640522/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511102054888640522/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511102054888640522/video"
-                            },
                             "label": "South Africa's flag representation",
                             "palette": "black"
                         }
@@ -6352,11 +6145,6 @@
                             "type": 2,
                             "sku_id": "1511110865053810779",
                             "asset": "nameplates/south_korea/1511110865053810779/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511110865053810779/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511110865053810779/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511110865053810779/video"
-                            },
                             "label": "South Korea's flag representation",
                             "palette": "white"
                         }
@@ -6433,11 +6221,6 @@
                             "type": 2,
                             "sku_id": "1511107952998612992",
                             "asset": "nameplates/spain/1511107952998612992/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511107952998612992/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511107952998612992/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511107952998612992/video"
-                            },
                             "label": "Spain's flag representation",
                             "palette": "crimson"
                         }
@@ -6514,11 +6297,6 @@
                             "type": 2,
                             "sku_id": "1511107180915462164",
                             "asset": "nameplates/sweden/1511107180915462164/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511107180915462164/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511107180915462164/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511107180915462164/video"
-                            },
                             "label": "Sweden's flag representation",
                             "palette": "cobalt"
                         }
@@ -6595,11 +6373,6 @@
                             "type": 2,
                             "sku_id": "1511110251452170270",
                             "asset": "nameplates/switzerland/1511110251452170270/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511110251452170270/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511110251452170270/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511110251452170270/video"
-                            },
                             "label": "Switzerland's flag representation",
                             "palette": "crimson"
                         }
@@ -6676,11 +6449,6 @@
                             "type": 2,
                             "sku_id": "1510049538755399832",
                             "asset": "nameplates/tunisia/1510049538755399832/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510049538755399832/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510049538755399832/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510049538755399832/video"
-                            },
                             "label": "Tunisia's flag representation",
                             "palette": "crimson"
                         }
@@ -6757,11 +6525,6 @@
                             "type": 2,
                             "sku_id": "1511107360129810443",
                             "asset": "nameplates/turkey/1511107360129810443/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511107360129810443/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511107360129810443/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511107360129810443/video"
-                            },
                             "label": "Turkey's flag representation",
                             "palette": "crimson"
                         }
@@ -6838,11 +6601,6 @@
                             "type": 2,
                             "sku_id": "1511102779819687956",
                             "asset": "nameplates/united_states/1511102779819687956/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511102779819687956/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511102779819687956/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511102779819687956/video"
-                            },
                             "label": "United States' flag representation",
                             "palette": "cobalt"
                         }
@@ -6919,11 +6677,6 @@
                             "type": 2,
                             "sku_id": "1511105682449891551",
                             "asset": "nameplates/uruguay/1511105682449891551/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511105682449891551/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511105682449891551/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511105682449891551/video"
-                            },
                             "label": "Uruguay's flag representation",
                             "palette": "cobalt"
                         }
@@ -7000,11 +6753,6 @@
                             "type": 2,
                             "sku_id": "1511116141207224533",
                             "asset": "nameplates/uzbekistan/1511116141207224533/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511116141207224533/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511116141207224533/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1511116141207224533/video"
-                            },
                             "label": "Uzbekistan's flag representation",
                             "palette": "teal"
                         }
@@ -7081,11 +6829,6 @@
                             "type": 2,
                             "sku_id": "1510037621525712987",
                             "asset": "nameplates/north_america/1510037621525712987/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510037621525712987/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510037621525712987/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510037621525712987/video"
-                            },
                             "label": "A spinning globe with North America highlighted",
                             "palette": "crimson"
                         }
@@ -7162,11 +6905,6 @@
                             "type": 2,
                             "sku_id": "1510044586897051729",
                             "asset": "nameplates/c._america_&_caribbean/1510044586897051729/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510044586897051729/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510044586897051729/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510044586897051729/video"
-                            },
                             "label": "A spinning globe with Central America and the Caribbean highlighted",
                             "palette": "sky"
                         }
@@ -7243,11 +6981,6 @@
                             "type": 2,
                             "sku_id": "1510044927902613534",
                             "asset": "nameplates/south_america/1510044927902613534/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510044927902613534/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510044927902613534/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510044927902613534/video"
-                            },
                             "label": "A spinning globe with South America highlighted",
                             "palette": "lemon"
                         }
@@ -7324,11 +7057,6 @@
                             "type": 2,
                             "sku_id": "1510045681497407507",
                             "asset": "nameplates/western_europe/1510045681497407507/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510045681497407507/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510045681497407507/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510045681497407507/video"
-                            },
                             "label": "A spinning globe with Western Europe highlighted",
                             "palette": "berry"
                         }
@@ -7405,11 +7133,6 @@
                             "type": 2,
                             "sku_id": "1509981233864507512",
                             "asset": "nameplates/north_&_east_europe/1509981233864507512/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1509981233864507512/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1509981233864507512/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1509981233864507512/video"
-                            },
                             "label": "A spinning globe with North and East Europe highlighted",
                             "palette": "lemon"
                         }
@@ -7486,11 +7209,6 @@
                             "type": 2,
                             "sku_id": "1509978210077511810",
                             "asset": "nameplates/north_africa/1509978210077511810/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1509978210077511810/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1509978210077511810/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1509978210077511810/video"
-                            },
                             "label": "A spinning globe with North Africa highlighted",
                             "palette": "bubble_gum"
                         }
@@ -7567,11 +7285,6 @@
                             "type": 2,
                             "sku_id": "1509976037667246280",
                             "asset": "nameplates/sub-saharan_africa/1509976037667246280/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1509976037667246280/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1509976037667246280/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1509976037667246280/video"
-                            },
                             "label": "A spinning globe with Sub-Saharan Africa highlighted",
                             "palette": "clover"
                         }
@@ -7648,11 +7361,6 @@
                             "type": 2,
                             "sku_id": "1510046457267486880",
                             "asset": "nameplates/middle_east_&_c._asia/1510046457267486880/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510046457267486880/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510046457267486880/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510046457267486880/video"
-                            },
                             "label": "A spinning globe with the Middle East and Central Asia highlighted",
                             "palette": "crimson"
                         }
@@ -7729,11 +7437,6 @@
                             "type": 2,
                             "sku_id": "1510046100982202468",
                             "asset": "nameplates/east_asia_&_oceania/1510046100982202468/",
-                            "assets": {
-                                "static_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510046100982202468/static",
-                                "animated_image_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510046100982202468/animated",
-                                "video_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1510046100982202468/video"
-                            },
                             "label": "A spinning globe with East Asia and Oceania highlighted",
                             "palette": "cobalt"
                         }
