@@ -2,7 +2,7 @@
     "marketings": {
         "1": {
             "type": 1,
-            "version": 80,
+            "version": 82,
             "dismissible_content": 422,
             "ref_target_background": null,
             "badge_icon": null,
