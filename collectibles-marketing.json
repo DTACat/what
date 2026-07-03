@@ -3,7 +3,7 @@
         "0": {
             "type": 4,
             "version": 82,
-            "title": "Don’t look behind you.",
+            "title": "Don't look behind you.",
             "body": "Night Terrors just dropped in the Shop. Sweet dreams.",
             "asset": "https://cdn.discordapp.com/media/v1/collectibles-shop/0c62df3dbf7ef30a6727e6a4c992d2edfcb24dd5dd89449d87323a208e20f802",
             "dismissible_content": 422,
@@ -13,7 +13,7 @@
             "type": 2,
             "version": 82,
             "title": "Give your profile a fresh look",
-            "body": "Check out the latest Avatar Decorations, Nameplates, Profile Effects and Profile Frames in the Shop.",
+            "body": "Check out the latest Avatar Decorations, Nameplates, Profile Effects, and Profile Frames in the Shop.",
             "asset": "https://cdn.discordapp.com/media/v1/collectibles-shop/1eea3fd3bb9e233ae0753a1aed4a457980c0a31e58fee68efd2da37de67831d7",
             "popout_asset": "https://cdn.discordapp.com/media/v1/collectibles-shop/c992b71c268783b03fb4268c41c1e26fd592270682d265e1a44449acba353e26"
         }
