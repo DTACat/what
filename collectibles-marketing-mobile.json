@@ -1,1 +1,16 @@
-{}
+{
+    "marketings": {
+        "1": {
+            "type": 3,
+            "version": 86,
+            "title": "New Frames Just Dropped",
+            "body": "Fresh profile frames, now open to everyone. Your profile is waiting.",
+            "asset_dark": "https://cdn.discordapp.com/media/v1/collectibles-shop/02d7874003e7113ede42b2956f9ebb92f41055a9a3b37c823d56330fb97413ef",
+            "asset_light": "https://cdn.discordapp.com/media/v1/collectibles-shop/02d7874003e7113ede42b2956f9ebb92f41055a9a3b37c823d56330fb97413ef",
+            "ref_target_background": null,
+            "badge_icon": null,
+            "badge_text": null,
+            "button_label": "Browse New Frames"
+        }
+    }
+}
