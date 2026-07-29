@@ -2,30 +2,38 @@
     "shop_blocks": [
         {
             "type": 0,
-            "category_sku_id": "1519794936143282317",
-            "name": "Fin.",
-            "category_store_listing_id": "1519794936143282317",
+            "category_sku_id": "1527810876411875478",
+            "name": "Sunkissed",
+            "category_store_listing_id": "1527810876411875478",
             "unpublished_at": null,
             "summary": " ",
             "ranked_sku_ids": [
-                "1519795647325278339",
-                "1519795013586911452",
-                "1519795219208470720",
-                "1519795377681731806"
+                "1527812992429723759",
+                "1527811435311140984",
+                "1527811929081511976",
+                "1527812336750952489"
             ],
-            "hero_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/bf60cec58ccbac1abf7f28a70d491790f10d2137cf728c1e2cb4007b504d01fc",
-            "hero_logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/6f6ee6fab71d17bea3c15cc9aad7d3a3938604d320bf2e16839bcd4777e3bc22",
-            "mobile_hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/b62a4ee76ab3619eb61c64129245f2440cdaf491b64279461ceae78eaff28c6d",
+            "hero_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/deef07eb1ac9deaaef1dc438eb928f41c9a0929eef632c461ffbd9460a224ff5",
+            "hero_logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/e2f0ea7aed74c212cffe69e66e248aff70551d1e61ee232e42f46b1f42eeda53",
             "banner_display_config": {
                 "desktop_max_height": null,
                 "mobile_max_height": null,
                 "responsive": null,
-                "background_style": "linear-gradient(180deg, #355767 0%, #03080F 100%)"
+                "background_style": "linear-gradient(180deg, #B386B0 0%, #9493D0 100%)"
             }
         },
         {
             "type": 1,
             "subblocks": [
+                {
+                    "type": 0,
+                    "category_store_listing_id": "1519794936143282317",
+                    "name": "Fin.",
+                    "unpublished_at": null,
+                    "body_text": null,
+                    "banner_text_color": null,
+                    "asset_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/e60b95c5b5d6fd5e4e0c04d59b7f94c133236913ce6984a546f91c4c08ede468"
+                },
                 {
                     "type": 0,
                     "category_store_listing_id": "1252404112650407998",
@@ -34,15 +42,6 @@
                     "body_text": null,
                     "banner_text_color": null,
                     "asset_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/19c59851f37ffa28f6e2035c9dcd4053959870b5bbc9984443fd2442c7cbabea"
-                },
-                {
-                    "type": 0,
-                    "category_store_listing_id": "1516558016189567007",
-                    "name": "Night Terrors",
-                    "unpublished_at": null,
-                    "body_text": null,
-                    "banner_text_color": null,
-                    "asset_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/fda71700f886655db256c606a429675c9555c2d783dee91c0a2939305f8a9ea6"
                 }
             ]
         },
@@ -70,6 +69,7 @@
         {
             "type": 2,
             "ranked_sku_ids": [
+                "1519795647325278339",
                 "1488248959481811104",
                 "1481392199261487187",
                 "1516561824114409572",
@@ -91,6 +91,7 @@
                 "1428438924648382626",
                 "1428438924539334718",
                 "1516559294819074088",
+                "1519795013586911452",
                 "1516560866609467452",
                 "1488249703064670449",
                 "1144308439720394944",
@@ -105,8 +106,10 @@
                 "1488249278840442910",
                 "1366494385482502184",
                 "1252405017688936508",
+                "1519795377681731806",
                 "1517303399799062668",
                 "1252404132074225775",
+                "1519795219208470720",
                 "1479190898561781872",
                 "1462116614131548265",
                 "1488249824691224657",
@@ -167,6 +170,7 @@
             ],
             "sorted_sku_ids": {
                 "recommended": [
+                    "1519795647325278339",
                     "1488248959481811104",
                     "1481392199261487187",
                     "1516561824114409572",
@@ -188,6 +192,7 @@
                     "1428438924648382626",
                     "1428438924539334718",
                     "1516559294819074088",
+                    "1519795013586911452",
                     "1516560866609467452",
                     "1488249703064670449",
                     "1144308439720394944",
@@ -202,8 +207,10 @@
                     "1488249278840442910",
                     "1366494385482502184",
                     "1252405017688936508",
+                    "1519795377681731806",
                     "1517303399799062668",
                     "1252404132074225775",
+                    "1519795219208470720",
                     "1479190898561781872",
                     "1462116614131548265",
                     "1488249824691224657",
@@ -263,6 +270,7 @@
                     "1333278032768536596"
                 ],
                 "popular": [
+                    "1519795647325278339",
                     "1491907428344795276",
                     "1516561824114409572",
                     "1516560337070198894",
@@ -284,12 +292,14 @@
                     "1462116613745676445",
                     "1212569433839636530",
                     "1462116614131548265",
+                    "1519795377681731806",
                     "1462116613804396646",
                     "1481392199261487187",
                     "1491910305603911881",
                     "1526655777350221995",
                     "1484726324580061191",
                     "1516561413848694894",
+                    "1519795219208470720",
                     "1508889522090541056",
                     "1511102779819687956",
                     "1333866045236314327",
@@ -298,6 +308,7 @@
                     "1526654942931320952",
                     "1517301132211388507",
                     "1522381656684761098",
+                    "1519795013586911452",
                     "1495808505494372534",
                     "1495807265175900180",
                     "1507152063078072454",
@@ -1715,14 +1726,14 @@
     ],
     "categories": [
         {
-            "sku_id": "1519794936143282317",
-            "name": "Fin.",
+            "sku_id": "1527810876411875478",
+            "name": "Sunkissed",
             "summary": " ",
-            "store_listing_id": "1519794936143282317",
+            "store_listing_id": "1527810876411875478",
             "styles": {
                 "background_colors": [
-                    3495783,
-                    198671
+                    11765424,
+                    9737168
                 ],
                 "button_colors": [
                     5793266,
@@ -1737,21 +1748,21 @@
                 ]
             },
             "hero_ranking": [
-                "1519795647325278339",
-                "1519795013586911452",
-                "1519795219208470720",
-                "1519795377681731806"
+                "1527812992429723759",
+                "1527811435311140984",
+                "1527811929081511976",
+                "1527812336750952489"
             ],
             "products": [
                 {
-                    "sku_id": "1519795647325278339",
-                    "name": "Shark Bundle",
+                    "sku_id": "1527812992429723759",
+                    "name": "Summermaxxing Bundle",
                     "summary": "{joinedItems}",
-                    "store_listing_id": "1519795647325278339",
+                    "store_listing_id": "1527812992429723759",
                     "styles": {
                         "background_colors": [
-                            3495783,
-                            198671
+                            11765424,
+                            9737168
                         ],
                         "button_colors": [
                             5793266,
@@ -1774,11 +1785,6 @@
                                         "amount": 1599,
                                         "currency": "usd",
                                         "exponent": 2
-                                    },
-                                    {
-                                        "amount": 11000,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
                                     }
                                 ]
                             }
@@ -1791,91 +1797,83 @@
                                         "amount": 1299,
                                         "currency": "usd",
                                         "exponent": 2
-                                    },
-                                    {
-                                        "amount": 11000,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
                                     }
                                 ]
                             }
                         }
                     },
                     "preview_assets": {
-                        "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1519795647325278339",
-                        "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1519795647325278339"
+                        "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1527812992429723759",
+                        "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1527812992429723759"
                     },
                     "items": [
                         {
                             "type": 0,
-                            "sku_id": "1519795013586911452",
-                            "asset": "a_de336eddf0a65768f65e28285273e634",
-                            "label": "A great white shark's jaws frame the avatar while opening and closing menacingly"
+                            "sku_id": "1527811435311140984",
+                            "asset": "a_fbef5484c1f491c3ac897e53a5478158",
+                            "label": "Blue and pink waves pulse in a heart shape, then a dolphin leaps out in an arc beneath a rainbow"
                         },
                         {
                             "type": 2,
-                            "sku_id": "1519795219208470720",
-                            "asset": "nameplates/shark_fin/1519795219208470720/",
-                            "label": "A lone shark fin glides through open ocean water",
-                            "palette": "sky"
+                            "sku_id": "1527811929081511976",
+                            "asset": "nameplates/all_summer/1527811929081511976/",
+                            "label": "Soft waves wash over a sandy shore carrying a yellow hibiscus flower",
+                            "palette": "berry"
                         },
                         {
-                            "type": 1,
-                            "sku_id": "1519795377681731806",
-                            "title": "Shiver",
-                            "description": "Show this effect when others view your profile.",
-                            "accessibilityLabel": "Dark shark silhouettes circle overhead in the water as if closing in",
-                            "animationType": 1,
-                            "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/9ec1aabc87966378dbf3f7a09c628f9400f034c169dd74c6a61372ad7cfaa331",
-                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/b6f265ce5b8663ac063871c792f2f087a67d4670bc2010214f9ca65114b88f48",
-                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/331c793ab3f70e183a9ae821992aa490fa22767740da0b0f27ba2d4cdb17783a",
-                            "effects": [
+                            "type": 3,
+                            "sku_id": "1527812336750952489",
+                            "label": "Hibiscus flowers, butterflies, and waves on top of the profile with pastel bead garlands and ocean charm pendants along the sides",
+                            "layers": [
                                 {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/8274a57f4d55d382e3ab04ea178d274456bc397a7f2846f07962de8e01593b68",
-                                    "loop": false,
-                                    "duration": 5000,
-                                    "start": 0,
-                                    "loopDelay": 0,
-                                    "zIndex": 100,
-                                    "randomizedSources": []
+                                    "id": "1527812760669388840",
+                                    "type": "rail",
+                                    "order": "front",
+                                    "anchor": "center",
+                                    "responsive": true
                                 },
                                 {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/52385aff9666affe84b73f56e8ebccba906df0978ee93ed56301c7fb1c890af0",
-                                    "loop": false,
-                                    "duration": 5000,
-                                    "start": 8000,
-                                    "loopDelay": 0,
-                                    "zIndex": 101,
-                                    "randomizedSources": []
+                                    "id": "1527812764574421124",
+                                    "type": "staple",
+                                    "order": "front",
+                                    "anchor": "top",
+                                    "responsive": false
                                 },
                                 {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/ff91e837fc27b6147481ab8bfef2769c45e13bfffaf60bf8931f10def33c10db",
-                                    "loop": true,
-                                    "duration": 5000,
-                                    "start": 13001,
-                                    "loopDelay": 5000,
-                                    "zIndex": 102,
-                                    "randomizedSources": []
+                                    "id": "1527812769129304214",
+                                    "type": "staple",
+                                    "order": "front",
+                                    "anchor": "bottom",
+                                    "responsive": false
                                 },
                                 {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/2884b01ea871d48b778e75b202fdb6d2f766b3adba3ae695915c4e4b3be9c322",
-                                    "loop": true,
-                                    "duration": 5000,
-                                    "start": 18002,
-                                    "loopDelay": 5000,
-                                    "zIndex": 103,
-                                    "randomizedSources": []
+                                    "id": "1527812773143122030",
+                                    "type": "rail",
+                                    "order": "back",
+                                    "anchor": "top",
+                                    "responsive": true
+                                },
+                                {
+                                    "id": "1527812777664708718",
+                                    "type": "staple",
+                                    "order": "back",
+                                    "anchor": "bottom",
+                                    "responsive": false
                                 }
-                            ]
+                            ],
+                            "inner_width": 1200,
+                            "overflow_top": 304,
+                            "overflow_bottom": 212,
+                            "overflow_horizontal": 56
                         }
                     ],
                     "type": 1000,
                     "premium_type": 0,
-                    "category_sku_id": "1519794936143282317",
+                    "category_sku_id": "1527810876411875478",
                     "bundled_products": [
                         {
-                            "sku_id": "1519795013586911452",
-                            "name": "Shark Attack",
+                            "sku_id": "1527811435311140984",
+                            "name": "Dolphin Life",
                             "summary": "Give your avatar a new look.",
                             "type": 0,
                             "premium_type": 0,
@@ -1917,8 +1915,8 @@
                             }
                         },
                         {
-                            "sku_id": "1519795219208470720",
-                            "name": "Shark Fin",
+                            "sku_id": "1527811929081511976",
+                            "name": "All Summer",
                             "summary": "Make your name stand out in servers and chats.",
                             "type": 2,
                             "premium_type": 0,
@@ -1960,10 +1958,10 @@
                             }
                         },
                         {
-                            "sku_id": "1519795377681731806",
-                            "name": "Shiver",
-                            "summary": "Show this effect when others view your profile.",
-                            "type": 1,
+                            "sku_id": "1527812336750952489",
+                            "name": "Tropical Symphony",
+                            "summary": "Elevate and wrap your profile with a frame.",
+                            "type": 3,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
@@ -1974,11 +1972,6 @@
                                                 "amount": 599,
                                                 "currency": "usd",
                                                 "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
                                             }
                                         ]
                                     }
@@ -1991,11 +1984,6 @@
                                                 "amount": 499,
                                                 "currency": "usd",
                                                 "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
                                             }
                                         ]
                                     }
@@ -2004,20 +1992,20 @@
                         }
                     ],
                     "google_sku_ids": {
-                        "5": "1519795647325278339_1519796257239859343",
-                        "7": "1519795647325278339_1519796262407376986"
+                        "5": "1527812992429723759_1527813997540147220",
+                        "7": "1527812992429723759_1527814003382943906"
                     },
                     "is_first_party": true
                 },
                 {
-                    "sku_id": "1519795013586911452",
-                    "name": "Shark Attack",
+                    "sku_id": "1527811435311140984",
+                    "name": "Dolphin Life",
                     "summary": "Give your avatar a new look.",
-                    "store_listing_id": "1519795013586911452",
+                    "store_listing_id": "1527811435311140984",
                     "styles": {
                         "background_colors": [
-                            3495783,
-                            198671
+                            11765424,
+                            9737168
                         ],
                         "button_colors": [
                             5793266,
@@ -2071,29 +2059,29 @@
                     "items": [
                         {
                             "type": 0,
-                            "sku_id": "1519795013586911452",
-                            "asset": "a_de336eddf0a65768f65e28285273e634",
-                            "label": "A great white shark's jaws frame the avatar while opening and closing menacingly"
+                            "sku_id": "1527811435311140984",
+                            "asset": "a_fbef5484c1f491c3ac897e53a5478158",
+                            "label": "Blue and pink waves pulse in a heart shape, then a dolphin leaps out in an arc beneath a rainbow"
                         }
                     ],
                     "type": 0,
                     "premium_type": 0,
-                    "category_sku_id": "1519794936143282317",
+                    "category_sku_id": "1527810876411875478",
                     "google_sku_ids": {
-                        "5": "1519795013586911452_1519796381496250628",
-                        "7": "1519795013586911452_1519796387477454868"
+                        "5": "1527811435311140984_1527812589730529323",
+                        "7": "1527811435311140984_1527812595753680916"
                     },
                     "is_first_party": true
                 },
                 {
-                    "sku_id": "1519795219208470720",
-                    "name": "Shark Fin",
+                    "sku_id": "1527811929081511976",
+                    "name": "All Summer",
                     "summary": "Make your name stand out in servers and chats.",
-                    "store_listing_id": "1519795219208470720",
+                    "store_listing_id": "1527811929081511976",
                     "styles": {
                         "background_colors": [
-                            3495783,
-                            198671
+                            11765424,
+                            9737168
                         ],
                         "button_colors": [
                             5793266,
@@ -2147,155 +2135,35 @@
                     "items": [
                         {
                             "type": 2,
-                            "sku_id": "1519795219208470720",
-                            "asset": "nameplates/shark_fin/1519795219208470720/",
-                            "label": "A lone shark fin glides through open ocean water",
-                            "palette": "sky"
+                            "sku_id": "1527811929081511976",
+                            "asset": "nameplates/all_summer/1527811929081511976/",
+                            "label": "Soft waves wash over a sandy shore carrying a yellow hibiscus flower",
+                            "palette": "berry"
                         }
                     ],
                     "type": 2,
                     "premium_type": 0,
-                    "category_sku_id": "1519794936143282317",
+                    "category_sku_id": "1527810876411875478",
                     "google_sku_ids": {
-                        "5": "1519795219208470720_1519797877386383512",
-                        "7": "1519795219208470720_1519797883321192549"
-                    },
-                    "is_first_party": true
-                },
-                {
-                    "sku_id": "1519795377681731806",
-                    "name": "Shiver",
-                    "summary": "Show this effect when others view your profile.",
-                    "store_listing_id": "1519795377681731806",
-                    "styles": {
-                        "background_colors": [
-                            3495783,
-                            198671
-                        ],
-                        "button_colors": [
-                            5793266,
-                            5793266
-                        ],
-                        "confetti_colors": [
-                            43772,
-                            15774258,
-                            16414587,
-                            3000177,
-                            9739511
-                        ]
-                    },
-                    "prices": {
-                        "0": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 599,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    },
-                                    {
-                                        "amount": 4100,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        },
-                        "4": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 499,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    },
-                                    {
-                                        "amount": 4100,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "preview_assets": null,
-                    "items": [
-                        {
-                            "type": 1,
-                            "sku_id": "1519795377681731806",
-                            "title": "Shiver",
-                            "description": "Show this effect when others view your profile.",
-                            "accessibilityLabel": "Dark shark silhouettes circle overhead in the water as if closing in",
-                            "animationType": 1,
-                            "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/9ec1aabc87966378dbf3f7a09c628f9400f034c169dd74c6a61372ad7cfaa331",
-                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/b6f265ce5b8663ac063871c792f2f087a67d4670bc2010214f9ca65114b88f48",
-                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/331c793ab3f70e183a9ae821992aa490fa22767740da0b0f27ba2d4cdb17783a",
-                            "effects": [
-                                {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/8274a57f4d55d382e3ab04ea178d274456bc397a7f2846f07962de8e01593b68",
-                                    "loop": false,
-                                    "duration": 5000,
-                                    "start": 0,
-                                    "loopDelay": 0,
-                                    "zIndex": 100,
-                                    "randomizedSources": []
-                                },
-                                {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/52385aff9666affe84b73f56e8ebccba906df0978ee93ed56301c7fb1c890af0",
-                                    "loop": false,
-                                    "duration": 5000,
-                                    "start": 8000,
-                                    "loopDelay": 0,
-                                    "zIndex": 101,
-                                    "randomizedSources": []
-                                },
-                                {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/ff91e837fc27b6147481ab8bfef2769c45e13bfffaf60bf8931f10def33c10db",
-                                    "loop": true,
-                                    "duration": 5000,
-                                    "start": 13001,
-                                    "loopDelay": 5000,
-                                    "zIndex": 102,
-                                    "randomizedSources": []
-                                },
-                                {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/2884b01ea871d48b778e75b202fdb6d2f766b3adba3ae695915c4e4b3be9c322",
-                                    "loop": true,
-                                    "duration": 5000,
-                                    "start": 18002,
-                                    "loopDelay": 5000,
-                                    "zIndex": 103,
-                                    "randomizedSources": []
-                                }
-                            ]
-                        }
-                    ],
-                    "type": 1,
-                    "premium_type": 0,
-                    "category_sku_id": "1519794936143282317",
-                    "google_sku_ids": {
-                        "5": "1519795377681731806_1519796744819572787",
-                        "7": "1519795377681731806_1519796750502727770"
+                        "5": "1527811929081511976_1527813483041919217",
+                        "7": "1527811929081511976_1527813488603304047"
                     },
                     "is_first_party": true
                 }
             ],
-            "hero_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/bf60cec58ccbac1abf7f28a70d491790f10d2137cf728c1e2cb4007b504d01fc",
-            "hero_logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/6f6ee6fab71d17bea3c15cc9aad7d3a3938604d320bf2e16839bcd4777e3bc22",
-            "catalog_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/9ac387b7e94e2a41da7f59c75b86bb7a0295d4cbd2f020ee743b9365cc056ac0",
-            "featured_block_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/e60b95c5b5d6fd5e4e0c04d59b7f94c133236913ce6984a546f91c4c08ede468",
-            "logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/6f6ee6fab71d17bea3c15cc9aad7d3a3938604d320bf2e16839bcd4777e3bc22",
-            "pdp_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/718ae14c9cb8f8cb16de674a947ca6f409c91a321b1c281ef6ba3bbbfeae6905",
-            "mobile_hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/b62a4ee76ab3619eb61c64129245f2440cdaf491b64279461ceae78eaff28c6d",
-            "mobile_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/4f4ab140c938e0f035f9e3c5af9d4b4b2a189f5e80f8f56fe2e7dd8cf00ea67c",
-            "mobile_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/83a5c9101677b22f29a0bbe41a78fa6a1911d286cb6a84a45e9ff0c4b8d309cd",
+            "hero_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/deef07eb1ac9deaaef1dc438eb928f41c9a0929eef632c461ffbd9460a224ff5",
+            "hero_logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/e2f0ea7aed74c212cffe69e66e248aff70551d1e61ee232e42f46b1f42eeda53",
+            "catalog_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/e0613f0ecc644f55fcd45cf33dbc861f160b533673e46c2412f6bbdff0cd1a87",
+            "featured_block_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/d1050f9d4a8714a5cf2287ea5817d00089ee0331d706d5c4102f80d1d8a84528",
+            "logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/e2f0ea7aed74c212cffe69e66e248aff70551d1e61ee232e42f46b1f42eeda53",
+            "pdp_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/4d3f9e7b02e0acb67d4bdbdf5a75cfd16cf3c9533a339c5a2f216c49568bcbb0",
+            "mobile_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/5f7b40ca95a49f9a28945d1600717faa207b96b691e4f77eac5a7ead825a4910",
+            "mobile_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/abd3c88f740f01697241c0b80bdae7e901c6e1371212f9b4f0fd8be4f5cae7ee",
             "hero_banner_display_config": {
                 "desktop_max_height": null,
                 "mobile_max_height": null,
                 "responsive": null,
-                "background_style": "linear-gradient(180deg, #355767 0%, #03080F 100%)"
+                "background_style": "linear-gradient(180deg, #B386B0 0%, #9493D0 100%)"
             }
         },
         {
