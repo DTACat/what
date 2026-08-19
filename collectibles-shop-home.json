@@ -2,40 +2,51 @@
     "shop_blocks": [
         {
             "type": 0,
-            "category_sku_id": "1533910281783083068",
-            "name": "Underworld",
-            "category_store_listing_id": "1533910281783083068",
+            "category_sku_id": "1536483752736329738",
+            "name": "Creepy Crawlers",
+            "category_store_listing_id": "1536483752736329738",
             "unpublished_at": null,
             "summary": " ",
             "ranked_sku_ids": [
-                "1533926906846777344",
-                "1533927517793161357",
-                "1533919242892607610",
-                "1533913226142814238",
-                "1533914517329678408",
-                "1533927867577143589",
-                "1533919389806493928",
-                "1533919704375103590",
-                "1533920310716268696",
-                "1533920512722604172",
-                "1533921239918182611",
-                "1533921966996586707",
-                "1533925148925628628",
-                "1533925498961264871"
+                "1536488746264830032",
+                "1536489094157176873",
+                "1536486483009994872",
+                "1536486756558569482",
+                "1536486899101999194",
+                "1536486975799038032",
+                "1536498939161870387",
+                "1536499169446068364",
+                "1536487054613942324",
+                "1536487277646323853",
+                "1536487394369609739",
+                "1536487566893649941",
+                "1536487740575846491",
+                "1536488170999521290",
+                "1536488550441291816"
             ],
-            "hero_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/c4bf5acb4266ca43d5591108621c8fca0f74254123c7926b6dc5e5e98ab44d04",
-            "hero_logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/293455a2c92ada19f1007368ff3bb88a476d7bf29abdbcd67b58046eb5a6f231",
-            "mobile_hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/864a5f051b87131c34018abf318a0638462134348fe749daab23a6621704aa1c",
+            "hero_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/afc51510b6b154da6c55df4e14a72a4ce0d527457b5b164a0aa3a38efeef4ce4",
+            "hero_logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/2b9e5366a57d0ea1d74237b233b063a74634c0199a4ac51ef76682bf61338c25",
+            "mobile_hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/18fe5b81cd7997cc6ce50a43012f45057cd5499753a96048d4969d2abecd3c13",
             "banner_display_config": {
                 "desktop_max_height": null,
                 "mobile_max_height": null,
                 "responsive": null,
-                "background_style": "linear-gradient(180deg, #191E25 0%, #386678 100%)"
+                "background_style": "linear-gradient(180deg, #000A01 0%, #000000 100%)"
             }
         },
         {
             "type": 1,
             "subblocks": [
+                {
+                    "type": 0,
+                    "category_sku_id": "1533910281783083068",
+                    "category_store_listing_id": "1533910281783083068",
+                    "name": "Underworld",
+                    "unpublished_at": null,
+                    "body_text": null,
+                    "banner_text_color": null,
+                    "asset_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/a16b3d35e40159c3931e8cc9202d6d712e889994e5120c7d1d43542ebfaf36f6"
+                },
                 {
                     "type": 0,
                     "category_sku_id": "1531392810027061289",
@@ -45,16 +56,6 @@
                     "body_text": null,
                     "banner_text_color": null,
                     "asset_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1f74174fec0ecb991892b8697cdf86872add9941e78862522e45b9015284acfd"
-                },
-                {
-                    "type": 0,
-                    "category_sku_id": "1527810876411875478",
-                    "category_store_listing_id": "1527810876411875478",
-                    "name": "Sunkissed",
-                    "unpublished_at": null,
-                    "body_text": null,
-                    "banner_text_color": null,
-                    "asset_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/d1050f9d4a8714a5cf2287ea5817d00089ee0331d706d5c4102f80d1d8a84528"
                 }
             ]
         },
@@ -119,18 +120,26 @@
             "type": 2,
             "ranked_sku_ids": [
                 "1212569433839636530",
+                "1533914517329678408",
+                "1533927517793161357",
+                "1533926906846777344",
+                "1533919242892607610",
                 "1516560337070198894",
                 "1516560866609467452",
+                "1533913226142814238",
                 "1427463138634109026",
                 "1533919549156622436",
                 "1533913535149506670",
+                "1533919389806493928",
                 "1533925887098224730",
                 "1144308439720394944",
                 "1427463138646954036",
                 "1516559294819074088",
                 "1531413567411064842",
+                "1533919704375103590",
                 "1533925498961264871",
                 "1491907428344795276",
+                "1533921966996586707",
                 "1427463138646954035",
                 "1531413285243719880",
                 "1427463138634109027",
@@ -151,7 +160,9 @@
                 "1462116613682757888",
                 "1427463138634109025",
                 "1531712539560382504",
+                "1533927867577143589",
                 "1519795013586911452",
+                "1533920512722604172",
                 "1531406020851793950",
                 "1495806574269038713",
                 "1524193178586972441",
@@ -167,6 +178,7 @@
                 "1481388474673139855",
                 "1462116613804396646",
                 "1527811929081511976",
+                "1533920310716268696",
                 "1516561413848694894",
                 "1524192423260061706",
                 "1522378878083924051",
@@ -190,6 +202,7 @@
                 "1531412184054104104",
                 "1432550258478682222",
                 "1427463138634109028",
+                "1533925148925628628",
                 "1524193380492509345",
                 "1519795219208470720",
                 "1491910305603911881",
@@ -208,18 +221,26 @@
             "sorted_sku_ids": {
                 "recommended": [
                     "1212569433839636530",
+                    "1533914517329678408",
+                    "1533927517793161357",
+                    "1533926906846777344",
+                    "1533919242892607610",
                     "1516560337070198894",
                     "1516560866609467452",
+                    "1533913226142814238",
                     "1427463138634109026",
                     "1533919549156622436",
                     "1533913535149506670",
+                    "1533919389806493928",
                     "1533925887098224730",
                     "1144308439720394944",
                     "1427463138646954036",
                     "1516559294819074088",
                     "1531413567411064842",
+                    "1533919704375103590",
                     "1533925498961264871",
                     "1491907428344795276",
+                    "1533921966996586707",
                     "1427463138646954035",
                     "1531413285243719880",
                     "1427463138634109027",
@@ -240,7 +261,9 @@
                     "1462116613682757888",
                     "1427463138634109025",
                     "1531712539560382504",
+                    "1533927867577143589",
                     "1519795013586911452",
+                    "1533920512722604172",
                     "1531406020851793950",
                     "1495806574269038713",
                     "1524193178586972441",
@@ -256,6 +279,7 @@
                     "1481388474673139855",
                     "1462116613804396646",
                     "1527811929081511976",
+                    "1533920310716268696",
                     "1516561413848694894",
                     "1524192423260061706",
                     "1522378878083924051",
@@ -279,6 +303,7 @@
                     "1531412184054104104",
                     "1432550258478682222",
                     "1427463138634109028",
+                    "1533925148925628628",
                     "1524193380492509345",
                     "1519795219208470720",
                     "1491910305603911881",
@@ -295,6 +320,8 @@
                     "1366494385583165630"
                 ],
                 "popular": [
+                    "1533926906846777344",
+                    "1533927517793161357",
                     "1531413567411064842",
                     "1531712539560382504",
                     "1516561824114409572",
@@ -310,6 +337,7 @@
                     "1524191647854891039",
                     "1511834130294247555",
                     "1481392895486459945",
+                    "1533914517329678408",
                     "1516559294819074088",
                     "1516561655016849500",
                     "1524190883036266636",
@@ -322,6 +350,7 @@
                     "1527812992429723759",
                     "1462116614131548265",
                     "1144308439720394944",
+                    "1533927867577143589",
                     "1524193380492509345",
                     "1531403489727746310",
                     "1517303399799062668",
@@ -337,10 +366,13 @@
                     "1533925498961264871",
                     "1526697977513509007",
                     "1508889522090541056",
+                    "1533921966996586707",
+                    "1533919389806493928",
                     "1516561413848694894",
                     "1533913535149506670",
                     "1488248959481811104",
                     "1495807265175900180",
+                    "1533919242892607610",
                     "1511834131242287195",
                     "1495808505494372534",
                     "1531412184054104104",
@@ -349,6 +381,7 @@
                     "1526654942931320952",
                     "1531406020851793950",
                     "1524193825130811604",
+                    "1533919704375103590",
                     "1491908830844424302",
                     "1428438925021548544",
                     "1536491679949922304",
@@ -369,6 +402,7 @@
                     "1462116613775167569",
                     "1511908350324113478",
                     "1511869969921609874",
+                    "1533913226142814238",
                     "1527811929081511976",
                     "1508889314099200101",
                     "1428438924539334718",
@@ -394,6 +428,7 @@
                     "1491911825837785238",
                     "1522380815538065549",
                     "1484726324580061191",
+                    "1533920310716268696",
                     "1536492428268281996",
                     "1498418988202328084",
                     "1511102779819687956",
@@ -429,6 +464,7 @@
                     "1479190898561781872",
                     "1495805433405767680",
                     "1466980253741092938",
+                    "1533925148925628628",
                     "1432550258449317959",
                     "1220513989729976411",
                     "1527812336750952489",
@@ -484,6 +520,7 @@
                     "1462116614077022469",
                     "1527811435311140984",
                     "1524191448898080929",
+                    "1533920512722604172",
                     "1509183144786657413",
                     "1144307957425778779",
                     "1495808150744596581",
@@ -588,6 +625,7 @@
                     "1466972315265798215",
                     "1282820582408192061",
                     "1207047014769234001",
+                    "1533921239918182611",
                     "1488246136585060452",
                     "1506052523436281986",
                     "1508886220908925130",
@@ -1783,14 +1821,14 @@
     ],
     "categories": [
         {
-            "sku_id": "1533910281783083068",
-            "name": "Underworld",
+            "sku_id": "1536483752736329738",
+            "name": "Creepy Crawlers",
             "summary": " ",
-            "store_listing_id": "1533910281783083068",
+            "store_listing_id": "1536483752736329738",
             "styles": {
                 "background_colors": [
-                    1646117,
-                    3696248
+                    2561,
+                    0
                 ],
                 "button_colors": [
                     5793266,
@@ -1805,31 +1843,32 @@
                 ]
             },
             "hero_ranking": [
-                "1533926906846777344",
-                "1533927517793161357",
-                "1533919242892607610",
-                "1533913226142814238",
-                "1533914517329678408",
-                "1533927867577143589",
-                "1533919389806493928",
-                "1533919704375103590",
-                "1533920310716268696",
-                "1533920512722604172",
-                "1533921239918182611",
-                "1533921966996586707",
-                "1533925148925628628",
-                "1533925498961264871"
+                "1536488746264830032",
+                "1536489094157176873",
+                "1536486483009994872",
+                "1536486756558569482",
+                "1536486899101999194",
+                "1536486975799038032",
+                "1536498939161870387",
+                "1536499169446068364",
+                "1536487054613942324",
+                "1536487277646323853",
+                "1536487394369609739",
+                "1536487566893649941",
+                "1536487740575846491",
+                "1536488170999521290",
+                "1536488550441291816"
             ],
             "products": [
                 {
-                    "sku_id": "1533926906846777344",
-                    "name": "Lord Hades Bundle",
+                    "sku_id": "1536488746264830032",
+                    "name": "Fangs and Death Bundle",
                     "summary": "{joinedItems}",
-                    "store_listing_id": "1533926906846777344",
+                    "store_listing_id": "1536488746264830032",
                     "styles": {
                         "background_colors": [
-                            1646117,
-                            3696248
+                            2561,
+                            0
                         ],
                         "button_colors": [
                             5793266,
@@ -1849,12 +1888,12 @@
                                 "country_code": "US",
                                 "prices": [
                                     {
-                                        "amount": 2099,
+                                        "amount": 1599,
                                         "currency": "usd",
                                         "exponent": 2
                                     },
                                     {
-                                        "amount": 14400,
+                                        "amount": 11000,
                                         "currency": "discord_orb",
                                         "exponent": 0
                                     }
@@ -1866,12 +1905,12 @@
                                 "country_code": "US",
                                 "prices": [
                                     {
-                                        "amount": 1699,
+                                        "amount": 1299,
                                         "currency": "usd",
                                         "exponent": 2
                                     },
                                     {
-                                        "amount": 14400,
+                                        "amount": 11000,
                                         "currency": "discord_orb",
                                         "exponent": 0
                                     }
@@ -1880,93 +1919,62 @@
                         }
                     },
                     "preview_assets": {
-                        "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1533926906846777344",
-                        "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1533926906846777344"
+                        "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1536488746264830032",
+                        "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1536488746264830032"
                     },
                     "items": [
                         {
                             "type": 0,
-                            "sku_id": "1533913226142814238",
-                            "asset": "a_68fda5e61b1957d69913b52bda6fab31",
-                            "label": "A row of skulls with glowing eyes lines the bottom of the avatar, wreathed in blue flames"
+                            "sku_id": "1536486483009994872",
+                            "asset": "a_2646a0d9296a41380bb766c56a258b36",
+                            "label": "A glossy black widow spider with red markings and sharp legs scuttles along the top of the avatar"
                         },
                         {
                             "type": 2,
-                            "sku_id": "1533919389806493928",
-                            "asset": "nameplates/eternal_damnation/1533919389806493928/",
-                            "label": "A pile of grey skulls surrounded by glowing blue flames",
-                            "palette": "black"
+                            "sku_id": "1536487054613942324",
+                            "asset": "nameplates/jumping_spider/1536487054613942324/",
+                            "label": "A colorful jumping spider with vivid orange and teal markings",
+                            "palette": "crimson"
                         },
                         {
                             "type": 1,
-                            "sku_id": "1533920512722604172",
-                            "title": "Lord of the Dead (Blue)",
+                            "sku_id": "1536487740575846491",
+                            "title": "Death's-Head Hawkmoth",
                             "description": "Show this effect when others view your profile.",
-                            "accessibilityLabel": "Hades seated on his throne looms over a field of skulls as blue flames rise around him",
-                            "animationType": 2,
-                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/fa2f3c7ce3cf271e32dd31c01eb08e25d5cd572dd758f316ac757fe4f38ae682",
-                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/103518fc4066001f55e5eabe64542fa7410e50a2889cb1a4a3e19687ce2e6f06",
+                            "accessibilityLabel": "A death's-head hawk moth with a skull pattern on its body hovers beside a blue flower on a dark vine",
+                            "animationType": 1,
+                            "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/e92bcc050f66f5e776fb5aa533663bd894d7d2a6b9dc3d89dae71d8fa1c02445",
+                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/e00e481667db450acf22cfa733c7b1e998f3b08ac8eff6a26984ab0f3bb6a5d8",
+                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/e92bcc050f66f5e776fb5aa533663bd894d7d2a6b9dc3d89dae71d8fa1c02445",
                             "effects": [
                                 {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/9437a524a4f50e83ae4963ffcf50833b7c068fc8b48b40efd6913f257a438016",
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/e8fffa3ab00249d34448a5bd138dd7a5720a751d7b22aa49b90a7f58284bcc0a",
                                     "loop": false,
+                                    "duration": 4731,
+                                    "start": 0,
+                                    "loopDelay": 0,
+                                    "zIndex": 110,
+                                    "randomizedSources": []
+                                },
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/b5bd58a22f5e666768f6c3490246af0b0853473a26b3ea1a6fbd6caef4f2251b",
+                                    "loop": true,
                                     "duration": 4980,
-                                    "start": 0,
+                                    "start": 4732,
                                     "loopDelay": 0,
-                                    "zIndex": 110,
-                                    "randomizedSources": []
-                                },
-                                {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/21f998898b7fd30a0a86fd3adfd26e2037a36772aafe66905a9ad11cb9d2e97e",
-                                    "loop": true,
-                                    "duration": 4906,
-                                    "start": 7101,
-                                    "loopDelay": 2400,
                                     "zIndex": 100,
                                     "randomizedSources": []
                                 }
                             ]
-                        },
-                        {
-                            "type": 3,
-                            "sku_id": "1533925498961264871",
-                            "label": "A row of grey skulls crowns the top of the profile with blue flames erupting from them",
-                            "layers": [
-                                {
-                                    "id": "1533925847021518939",
-                                    "type": "staple",
-                                    "order": "front",
-                                    "anchor": "top",
-                                    "responsive": false
-                                },
-                                {
-                                    "id": "1533925851752825032",
-                                    "type": "staple",
-                                    "order": "back",
-                                    "anchor": "top",
-                                    "responsive": false
-                                },
-                                {
-                                    "id": "1533925855338827867",
-                                    "type": "staple",
-                                    "order": "back",
-                                    "anchor": "bottom",
-                                    "responsive": false
-                                }
-                            ],
-                            "inner_width": 1200,
-                            "overflow_top": 304,
-                            "overflow_bottom": 148,
-                            "overflow_horizontal": 56
                         }
                     ],
                     "type": 1000,
                     "premium_type": 0,
-                    "category_sku_id": "1533910281783083068",
+                    "category_sku_id": "1536483752736329738",
                     "bundled_products": [
                         {
-                            "sku_id": "1533913226142814238",
-                            "name": "Lord of the Dead (Blue)",
+                            "sku_id": "1536486483009994872",
+                            "name": "Black Widow",
                             "summary": "Give your avatar a new look.",
                             "type": 0,
                             "premium_type": 0,
@@ -2008,9 +2016,9 @@
                             }
                         },
                         {
-                            "sku_id": "1533919389806493928",
-                            "name": "Eternal Damnation (Blue)",
-                            "summary": "Give your avatar a new look.",
+                            "sku_id": "1536487054613942324",
+                            "name": "Jumping Spider",
+                            "summary": "Make your name stand out in servers and chats.",
                             "type": 2,
                             "premium_type": 0,
                             "prices": {
@@ -2051,53 +2059,10 @@
                             }
                         },
                         {
-                            "sku_id": "1533920512722604172",
-                            "name": "Lord of the Dead (Blue)",
+                            "sku_id": "1536487740575846491",
+                            "name": "Death's-Head Hawkmoth",
                             "summary": "Show this effect when others view your profile.",
                             "type": 1,
-                            "premium_type": 0,
-                            "prices": {
-                                "0": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 599,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                },
-                                "4": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 499,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                }
-                            }
-                        },
-                        {
-                            "sku_id": "1533925498961264871",
-                            "name": "Lord of the Dead (Blue)",
-                            "summary": "Elevate and wrap your profile with a frame.",
-                            "type": 3,
                             "premium_type": 0,
                             "prices": {
                                 "0": {
@@ -2138,20 +2103,20 @@
                         }
                     ],
                     "google_sku_ids": {
-                        "5": "1533926906846777344_1533929891136016385",
-                        "7": "1533926906846777344_1533929898479976548"
+                        "5": "1536488746264830032_1536491929037054012",
+                        "7": "1536488746264830032_1536491934200107150"
                     },
                     "is_first_party": true
                 },
                 {
-                    "sku_id": "1533927517793161357",
-                    "name": "Cerberus Bundle",
+                    "sku_id": "1536489094157176873",
+                    "name": "Longlegs Bundle",
                     "summary": "{joinedItems}",
-                    "store_listing_id": "1533927517793161357",
+                    "store_listing_id": "1536489094157176873",
                     "styles": {
                         "background_colors": [
-                            1646117,
-                            3696248
+                            2561,
+                            0
                         ],
                         "button_colors": [
                             5793266,
@@ -2202,48 +2167,57 @@
                         }
                     },
                     "preview_assets": {
-                        "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1533927517793161357",
-                        "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1533927517793161357"
+                        "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1536489094157176873",
+                        "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1536489094157176873"
                     },
                     "items": [
                         {
                             "type": 0,
-                            "sku_id": "1533914517329678408",
-                            "asset": "a_731019cb334aa13ca110cf9e6d75b44a",
-                            "label": "Pink and purple flames swirl around the avatar"
+                            "sku_id": "1536486899101999194",
+                            "asset": "a_b425daac2feaac4be21110dfd612ad51",
+                            "label": "Dark red insect claws and legs reach in from all sides as if closing in"
                         },
                         {
                             "type": 2,
-                            "sku_id": "1533919704375103590",
-                            "asset": "nameplates/all_bark,_all_bite/1533919704375103590/",
-                            "label": "A snarling hellhound charges, trailing pink flames",
-                            "palette": "black"
+                            "sku_id": "1536487277646323853",
+                            "asset": "nameplates/water_strider/1536487277646323853/",
+                            "label": "A water strider stands on the surface of rippling water",
+                            "palette": "sky"
                         },
                         {
                             "type": 1,
-                            "sku_id": "1533921966996586707",
-                            "title": "Hellhound",
+                            "sku_id": "1536488170999521290",
+                            "title": "Praying Mantis",
                             "description": "Show this effect when others view your profile.",
-                            "accessibilityLabel": "A snarling 3-headed hellhound with sharp fangs rears up, trailing pink flames",
+                            "accessibilityLabel": "A green praying mantis perches on a bare branch with forelegs raised",
                             "animationType": 2,
-                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/ee63dbed7337a57ac139ae5bb16f4c35fe2092e5471193bff974d3a14672a664",
-                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/a024aec0a1bc0536ad0fc051fa4dd32bb97db9cb5fca6cc2650e723e9318aeba",
+                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/2a11bc9d5c98fb52707816bf7a1c81e3170718ed40ad92369fc4374e60881334",
+                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/610694c6ff4f991ae060061fad98a012220a675af1a02eb899278900903b7b22",
                             "effects": [
                                 {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/db5a61d9fb5b447c626cd59cf00c45cc61e211b042c8d5397be5f17b4151c698",
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/b854481c862745ddcb07cef40d1bc5ece4d6a96bbb00c8071766190afe25c93c",
                                     "loop": false,
-                                    "duration": 4904,
+                                    "duration": 4982,
                                     "start": 0,
                                     "loopDelay": 0,
+                                    "zIndex": 120,
+                                    "randomizedSources": []
+                                },
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/cb4a357faac2fe69673372bf9b57c58c13d155a34d93c41c9bc4eb3216336322",
+                                    "loop": true,
+                                    "duration": 4981,
+                                    "start": 8000,
+                                    "loopDelay": 11000,
                                     "zIndex": 110,
                                     "randomizedSources": []
                                 },
                                 {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/36651b3517f1d214876474a0df786edf56a8efd545925c304a8e3155b47aa68b",
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/1c7114d1d2fb7ea2f7a1c512750792b786328e092b8cf4e8ec8d3fffb25cc3b1",
                                     "loop": true,
-                                    "duration": 4905,
-                                    "start": 6686,
-                                    "loopDelay": 2400,
+                                    "duration": 4981,
+                                    "start": 16000,
+                                    "loopDelay": 11000,
                                     "zIndex": 100,
                                     "randomizedSources": []
                                 }
@@ -2252,11 +2226,11 @@
                     ],
                     "type": 1000,
                     "premium_type": 0,
-                    "category_sku_id": "1533910281783083068",
+                    "category_sku_id": "1536483752736329738",
                     "bundled_products": [
                         {
-                            "sku_id": "1533914517329678408",
-                            "name": "Hellflame",
+                            "sku_id": "1536486899101999194",
+                            "name": "Bug Hug",
                             "summary": "Give your avatar a new look.",
                             "type": 0,
                             "premium_type": 0,
@@ -2298,8 +2272,8 @@
                             }
                         },
                         {
-                            "sku_id": "1533919704375103590",
-                            "name": "All Bark, All Bite",
+                            "sku_id": "1536487277646323853",
+                            "name": "Water Strider",
                             "summary": "Make your name stand out in servers and chats.",
                             "type": 2,
                             "premium_type": 0,
@@ -2341,8 +2315,8 @@
                             }
                         },
                         {
-                            "sku_id": "1533921966996586707",
-                            "name": "Hellhound",
+                            "sku_id": "1536488170999521290",
+                            "name": "Praying Mantis",
                             "summary": "Show this effect when others view your profile.",
                             "type": 1,
                             "premium_type": 0,
@@ -2385,20 +2359,20 @@
                         }
                     ],
                     "google_sku_ids": {
-                        "5": "1533927517793161357_1533931689263370473",
-                        "7": "1533927517793161357_1533931695269744780"
+                        "5": "1536489094157176873_1536493486075813908",
+                        "7": "1536489094157176873_1536493491310432427"
                     },
                     "is_first_party": true
                 },
                 {
-                    "sku_id": "1533927867577143589",
-                    "name": "Styx Bundle",
+                    "sku_id": "1536498939161870387",
+                    "name": "Oh Crap! Bundle",
                     "summary": "{joinedItems}",
-                    "store_listing_id": "1533927867577143589",
+                    "store_listing_id": "1536498939161870387",
                     "styles": {
                         "background_colors": [
-                            1646117,
-                            3696248
+                            2561,
+                            0
                         ],
                         "button_colors": [
                             5793266,
@@ -2418,12 +2392,12 @@
                                 "country_code": "US",
                                 "prices": [
                                     {
-                                        "amount": 1599,
+                                        "amount": 1099,
                                         "currency": "usd",
                                         "exponent": 2
                                     },
                                     {
-                                        "amount": 11000,
+                                        "amount": 7600,
                                         "currency": "discord_orb",
                                         "exponent": 0
                                     }
@@ -2435,12 +2409,12 @@
                                 "country_code": "US",
                                 "prices": [
                                     {
-                                        "amount": 1299,
+                                        "amount": 899,
                                         "currency": "usd",
                                         "exponent": 2
                                     },
                                     {
-                                        "amount": 11000,
+                                        "amount": 7600,
                                         "currency": "discord_orb",
                                         "exponent": 0
                                     }
@@ -2449,61 +2423,31 @@
                         }
                     },
                     "preview_assets": {
-                        "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1533927867577143589",
-                        "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1533927867577143589"
+                        "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1536498939161870387",
+                        "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1536498939161870387"
                     },
                     "items": [
                         {
                             "type": 0,
-                            "sku_id": "1533919242892607610",
-                            "asset": "a_7ece3175e455ad5a40406557a8c88d6d",
-                            "label": "Glowing blue spirits swirl in a ring around the avatar"
+                            "sku_id": "1536486756558569482",
+                            "asset": "a_387e5d2f596a3e7f47260893728dc172",
+                            "label": "A bioluminescent teal millipede crawls around the avatar"
                         },
                         {
                             "type": 2,
-                            "sku_id": "1533920310716268696",
-                            "asset": "nameplates/phantom_tides/1533920310716268696/",
-                            "label": "Teal waves whirl in a circular motion",
-                            "palette": "black"
-                        },
-                        {
-                            "type": 1,
-                            "sku_id": "1533925148925628628",
-                            "title": "Those Left Behind",
-                            "description": "Show this effect when others view your profile.",
-                            "accessibilityLabel": "Glowing blue spirits fly forward on the profile",
-                            "animationType": 2,
-                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/ab1ba7489d93676687c6cf08e8ac002fdf571537f450a07c380d67a96e0ce571",
-                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/2d81941fd2fc1e45e9c842d45acdeab08bc0f57c4aa5089737d6c940d4a2a0f4",
-                            "effects": [
-                                {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/c6a804dacf39134b31719166fdf0debfb208c2284ef9aaa0d7a8db670405a092",
-                                    "loop": false,
-                                    "duration": 4908,
-                                    "start": 0,
-                                    "loopDelay": 0,
-                                    "zIndex": 110,
-                                    "randomizedSources": []
-                                },
-                                {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/a5d939bee2b05ef76803472b5b8ecc27da965997fce90fc8f9e58d43c9f8970e",
-                                    "loop": true,
-                                    "duration": 3906,
-                                    "start": 7669,
-                                    "loopDelay": 2900,
-                                    "zIndex": 100,
-                                    "randomizedSources": []
-                                }
-                            ]
+                            "sku_id": "1536487394369609739",
+                            "asset": "nameplates/dung_beetle/1536487394369609739/",
+                            "label": "A dung beetle rolls a large ball of dung across a sandy surface",
+                            "palette": "sky"
                         }
                     ],
                     "type": 1000,
                     "premium_type": 0,
-                    "category_sku_id": "1533910281783083068",
+                    "category_sku_id": "1536483752736329738",
                     "bundled_products": [
                         {
-                            "sku_id": "1533919242892607610",
-                            "name": "Styx Spirits",
+                            "sku_id": "1536486756558569482",
+                            "name": "Motyxia",
                             "summary": "Give your avatar a new look.",
                             "type": 0,
                             "premium_type": 0,
@@ -2545,8 +2489,8 @@
                             }
                         },
                         {
-                            "sku_id": "1533920310716268696",
-                            "name": "Phantom Tides",
+                            "sku_id": "1536487394369609739",
+                            "name": "Dung Beetle",
                             "summary": "Make your name stand out in servers and chats.",
                             "type": 2,
                             "premium_type": 0,
@@ -2586,66 +2530,23 @@
                                     }
                                 }
                             }
-                        },
-                        {
-                            "sku_id": "1533925148925628628",
-                            "name": "Those Left Behind",
-                            "summary": "Show this effect when others view your profile.",
-                            "type": 1,
-                            "premium_type": 0,
-                            "prices": {
-                                "0": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 599,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                },
-                                "4": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 499,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                }
-                            }
                         }
                     ],
                     "google_sku_ids": {
-                        "5": "1533927867577143589_1533931040375050501",
-                        "7": "1533927867577143589_1533931046301859840"
+                        "5": "1536498939161870387_1536500590849294376",
+                        "7": "1536498939161870387_1536500595911827466"
                     },
                     "is_first_party": true
                 },
                 {
-                    "sku_id": "1533913226142814238",
-                    "name": "Lord of the Dead",
-                    "summary": "Give your avatar a new look.",
-                    "store_listing_id": "1533913226142814238",
+                    "sku_id": "1536499169446068364",
+                    "name": "Bug Colony Bundle",
+                    "summary": "{joinedItems}",
+                    "store_listing_id": "1536499169446068364",
                     "styles": {
                         "background_colors": [
-                            1646117,
-                            3696248
+                            2561,
+                            0
                         ],
                         "button_colors": [
                             5793266,
@@ -2665,12 +2566,12 @@
                                 "country_code": "US",
                                 "prices": [
                                     {
-                                        "amount": 599,
+                                        "amount": 1099,
                                         "currency": "usd",
                                         "exponent": 2
                                     },
                                     {
-                                        "amount": 4100,
+                                        "amount": 7600,
                                         "currency": "discord_orb",
                                         "exponent": 0
                                     }
@@ -2682,12 +2583,12 @@
                                 "country_code": "US",
                                 "prices": [
                                     {
-                                        "amount": 499,
+                                        "amount": 899,
                                         "currency": "usd",
                                         "exponent": 2
                                     },
                                     {
-                                        "amount": 4100,
+                                        "amount": 7600,
                                         "currency": "discord_orb",
                                         "exponent": 0
                                     }
@@ -2695,97 +2596,35 @@
                             }
                         }
                     },
-                    "preview_assets": null,
-                    "items": [],
-                    "type": 2000,
-                    "premium_type": 0,
-                    "category_sku_id": "1533910281783083068",
-                    "variants": [
+                    "preview_assets": {
+                        "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1536499169446068364",
+                        "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1536499169446068364"
+                    },
+                    "items": [
                         {
-                            "sku_id": "1533913226142814238",
-                            "name": "Lord of the Dead (Blue)",
-                            "name_localizations": null,
-                            "summary": "Give your avatar a new look.",
-                            "summary_localizations": null,
                             "type": 0,
-                            "store_listing_id": "1533913226142814238",
-                            "category_sku_id": "1533910281783083068",
-                            "premium_type": 0,
-                            "items": [
-                                {
-                                    "type": 0,
-                                    "sku_id": "1533913226142814238",
-                                    "asset": "a_68fda5e61b1957d69913b52bda6fab31",
-                                    "label": "A row of skulls with glowing eyes lines the bottom of the avatar, wreathed in blue flames"
-                                }
-                            ],
-                            "prices": {
-                                "0": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 599,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                },
-                                "4": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 499,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                }
-                            },
-                            "variant_label": "Blue",
-                            "variant_value": "#79e4e3",
-                            "base_variant_sku_id": "1533913226142814238",
-                            "base_variant_name": "Lord of the Dead",
-                            "styles": null,
-                            "google_sku_ids": {
-                                "5": "1533913226142814238_1533914816849121480",
-                                "7": "1533913226142814238_1533914822385733802"
-                            },
-                            "badge_override": null,
-                            "hide_badge": null,
-                            "is_first_party": true
+                            "sku_id": "1536486975799038032",
+                            "asset": "a_537eb6f8ed8d9ca4eb2fbe602aced10f",
+                            "label": "A magnifying glass with four colorful beetles scuttling underneath"
                         },
                         {
-                            "sku_id": "1533913535149506670",
-                            "name": "Lord of the Dead (Red)",
-                            "name_localizations": null,
+                            "type": 2,
+                            "sku_id": "1536487566893649941",
+                            "asset": "nameplates/bug_colony/1536487566893649941/",
+                            "label": "A cluster of colorful beetles scuttle around",
+                            "palette": "black"
+                        }
+                    ],
+                    "type": 1000,
+                    "premium_type": 0,
+                    "category_sku_id": "1536483752736329738",
+                    "bundled_products": [
+                        {
+                            "sku_id": "1536486975799038032",
+                            "name": "Bug Reveal",
                             "summary": "Give your avatar a new look.",
-                            "summary_localizations": null,
                             "type": 0,
-                            "store_listing_id": "1533913535149506670",
-                            "category_sku_id": "1533910281783083068",
                             "premium_type": 0,
-                            "items": [
-                                {
-                                    "type": 0,
-                                    "sku_id": "1533913535149506670",
-                                    "asset": "a_1970eaeb65b05a09248e69105945cb19",
-                                    "label": "A row of skulls with glowing eyes lines the bottom of the avatar, wreathed in red flames"
-                                }
-                            ],
                             "prices": {
                                 "0": {
                                     "country_prices": {
@@ -2821,36 +2660,67 @@
                                         ]
                                     }
                                 }
-                            },
-                            "variant_label": "Red",
-                            "variant_value": "#fb515a",
-                            "base_variant_sku_id": "1533913226142814238",
-                            "base_variant_name": "Lord of the Dead",
-                            "styles": null,
-                            "google_sku_ids": {
-                                "5": "1533913535149506670_1533916668592390166",
-                                "7": "1533913535149506670_1533916676775612446"
-                            },
-                            "badge_override": null,
-                            "hide_badge": null,
-                            "is_first_party": true
+                            }
+                        },
+                        {
+                            "sku_id": "1536487566893649941",
+                            "name": "Bug Colony",
+                            "summary": "Make your name stand out in servers and chats.",
+                            "type": 2,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
                         }
                     ],
                     "google_sku_ids": {
-                        "5": "1533913226142814238_1533914816849121480",
-                        "7": "1533913226142814238_1533914822385733802"
+                        "5": "1536499169446068364_1536499416750358528",
+                        "7": "1536499169446068364_1536499422152761385"
                     },
                     "is_first_party": true
                 },
                 {
-                    "sku_id": "1533914517329678408",
-                    "name": "Hellflame",
+                    "sku_id": "1536486483009994872",
+                    "name": "Black Widow",
                     "summary": "Give your avatar a new look.",
-                    "store_listing_id": "1533914517329678408",
+                    "store_listing_id": "1536486483009994872",
                     "styles": {
                         "background_colors": [
-                            1646117,
-                            3696248
+                            2561,
+                            0
                         ],
                         "button_colors": [
                             5793266,
@@ -2904,29 +2774,29 @@
                     "items": [
                         {
                             "type": 0,
-                            "sku_id": "1533914517329678408",
-                            "asset": "a_731019cb334aa13ca110cf9e6d75b44a",
-                            "label": "Pink and purple flames swirl around the avatar"
+                            "sku_id": "1536486483009994872",
+                            "asset": "a_2646a0d9296a41380bb766c56a258b36",
+                            "label": "A glossy black widow spider with red markings and sharp legs scuttles along the top of the avatar"
                         }
                     ],
                     "type": 0,
                     "premium_type": 0,
-                    "category_sku_id": "1533910281783083068",
+                    "category_sku_id": "1536483752736329738",
                     "google_sku_ids": {
-                        "5": "1533914517329678408_1533919528893939752",
-                        "7": "1533914517329678408_1533919534422167753"
+                        "5": "1536486483009994872_1536488433558626375",
+                        "7": "1536486483009994872_1536488438398722089"
                     },
                     "is_first_party": true
                 },
                 {
-                    "sku_id": "1533919242892607610",
-                    "name": "Styx Spirits",
+                    "sku_id": "1536486756558569482",
+                    "name": "Motyxia",
                     "summary": "Give your avatar a new look.",
-                    "store_listing_id": "1533919242892607610",
+                    "store_listing_id": "1536486756558569482",
                     "styles": {
                         "background_colors": [
-                            1646117,
-                            3696248
+                            2561,
+                            0
                         ],
                         "button_colors": [
                             5793266,
@@ -2980,29 +2850,29 @@
                     "items": [
                         {
                             "type": 0,
-                            "sku_id": "1533919242892607610",
-                            "asset": "a_7ece3175e455ad5a40406557a8c88d6d",
-                            "label": "Glowing blue spirits swirl in a ring around the avatar"
+                            "sku_id": "1536486756558569482",
+                            "asset": "a_387e5d2f596a3e7f47260893728dc172",
+                            "label": "A bioluminescent teal millipede crawls around the avatar"
                         }
                     ],
                     "type": 0,
                     "premium_type": 0,
-                    "category_sku_id": "1533910281783083068",
+                    "category_sku_id": "1536483752736329738",
                     "google_sku_ids": {
-                        "5": "1533919242892607610_1533922403309195315",
-                        "7": "1533919242892607610_1533922409059455098"
+                        "5": "1536486756558569482_1536487946356527134",
+                        "7": "1536486756558569482_1536487951670845581"
                     },
                     "is_first_party": true
                 },
                 {
-                    "sku_id": "1533919389806493928",
-                    "name": "Eternal Damnation",
+                    "sku_id": "1536486899101999194",
+                    "name": "Bug Hug",
                     "summary": "Give your avatar a new look.",
-                    "store_listing_id": "1533919389806493928",
+                    "store_listing_id": "1536486899101999194",
                     "styles": {
                         "background_colors": [
-                            1646117,
-                            3696248
+                            2561,
+                            0
                         ],
                         "button_colors": [
                             5793266,
@@ -3053,163 +2923,108 @@
                         }
                     },
                     "preview_assets": null,
-                    "items": [],
-                    "type": 2000,
-                    "premium_type": 0,
-                    "category_sku_id": "1533910281783083068",
-                    "variants": [
+                    "items": [
                         {
-                            "sku_id": "1533919389806493928",
-                            "name": "Eternal Damnation (Blue)",
-                            "name_localizations": null,
-                            "summary": "Give your avatar a new look.",
-                            "summary_localizations": null,
-                            "type": 2,
-                            "store_listing_id": "1533919389806493928",
-                            "category_sku_id": "1533910281783083068",
-                            "premium_type": 0,
-                            "items": [
-                                {
-                                    "type": 2,
-                                    "sku_id": "1533919389806493928",
-                                    "asset": "nameplates/eternal_damnation/1533919389806493928/",
-                                    "label": "A pile of grey skulls surrounded by glowing blue flames",
-                                    "palette": "black"
-                                }
-                            ],
-                            "prices": {
-                                "0": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 599,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                },
-                                "4": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 499,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                }
-                            },
-                            "variant_label": "Blue",
-                            "variant_value": "#79e4e3",
-                            "base_variant_sku_id": "1533919389806493928",
-                            "base_variant_name": "Eternal Damnation",
-                            "styles": null,
-                            "google_sku_ids": {
-                                "5": "1533919389806493928_1533920820559085830",
-                                "7": "1533919389806493928_1533920826242371624"
-                            },
-                            "badge_override": null,
-                            "hide_badge": null,
-                            "is_first_party": true
-                        },
-                        {
-                            "sku_id": "1533919549156622436",
-                            "name": "Eternal Damnation (Red)",
-                            "name_localizations": null,
-                            "summary": "Give your avatar a new look.",
-                            "summary_localizations": null,
-                            "type": 2,
-                            "store_listing_id": "1533919549156622436",
-                            "category_sku_id": "1533910281783083068",
-                            "premium_type": 0,
-                            "items": [
-                                {
-                                    "type": 2,
-                                    "sku_id": "1533919549156622436",
-                                    "asset": "nameplates/eternal_damnation/1533919549156622436/",
-                                    "label": "A pile of grey skulls surrounded by glowing red flames",
-                                    "palette": "black"
-                                }
-                            ],
-                            "prices": {
-                                "0": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 599,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                },
-                                "4": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 499,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                }
-                            },
-                            "variant_label": "Red",
-                            "variant_value": "#fb515a",
-                            "base_variant_sku_id": "1533919389806493928",
-                            "base_variant_name": "Eternal Damnation",
-                            "styles": null,
-                            "google_sku_ids": {
-                                "5": "1533919549156622436_1533921502368501840",
-                                "7": "1533919549156622436_1533921507464450098"
-                            },
-                            "badge_override": null,
-                            "hide_badge": null,
-                            "is_first_party": true
+                            "type": 0,
+                            "sku_id": "1536486899101999194",
+                            "asset": "a_b425daac2feaac4be21110dfd612ad51",
+                            "label": "Dark red insect claws and legs reach in from all sides as if closing in"
                         }
                     ],
+                    "type": 0,
+                    "premium_type": 0,
+                    "category_sku_id": "1536483752736329738",
                     "google_sku_ids": {
-                        "5": "1533919389806493928_1533920820559085830",
-                        "7": "1533919389806493928_1533920826242371624"
+                        "5": "1536486899101999194_1536489531006648482",
+                        "7": "1536486899101999194_1536489535821840555"
                     },
                     "is_first_party": true
                 },
                 {
-                    "sku_id": "1533919704375103590",
-                    "name": "All Bark, All Bite",
+                    "sku_id": "1536486975799038032",
+                    "name": "Bug Reveal",
+                    "summary": "Give your avatar a new look.",
+                    "store_listing_id": "1536486975799038032",
+                    "styles": {
+                        "background_colors": [
+                            2561,
+                            0
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 0,
+                            "sku_id": "1536486975799038032",
+                            "asset": "a_537eb6f8ed8d9ca4eb2fbe602aced10f",
+                            "label": "A magnifying glass with four colorful beetles scuttling underneath"
+                        }
+                    ],
+                    "type": 0,
+                    "premium_type": 0,
+                    "category_sku_id": "1536483752736329738",
+                    "google_sku_ids": {
+                        "5": "1536486975799038032_1536488796743405568",
+                        "7": "1536486975799038032_1536488802757906573"
+                    },
+                    "is_first_party": true
+                },
+                {
+                    "sku_id": "1536487054613942324",
+                    "name": "Jumping Spider",
                     "summary": "Make your name stand out in servers and chats.",
-                    "store_listing_id": "1533919704375103590",
+                    "store_listing_id": "1536487054613942324",
                     "styles": {
                         "background_colors": [
-                            1646117,
-                            3696248
+                            2561,
+                            0
                         ],
                         "button_colors": [
                             5793266,
@@ -3263,613 +3078,261 @@
                     "items": [
                         {
                             "type": 2,
-                            "sku_id": "1533919704375103590",
-                            "asset": "nameplates/all_bark,_all_bite/1533919704375103590/",
-                            "label": "A snarling hellhound charges, trailing pink flames",
+                            "sku_id": "1536487054613942324",
+                            "asset": "nameplates/jumping_spider/1536487054613942324/",
+                            "label": "A colorful jumping spider with vivid orange and teal markings",
+                            "palette": "crimson"
+                        }
+                    ],
+                    "type": 2,
+                    "premium_type": 0,
+                    "category_sku_id": "1536483752736329738",
+                    "google_sku_ids": {
+                        "5": "1536487054613942324_1536489400631038002",
+                        "7": "1536487054613942324_1536489406238556293"
+                    },
+                    "is_first_party": true
+                },
+                {
+                    "sku_id": "1536487277646323853",
+                    "name": "Water Strider",
+                    "summary": "Make your name stand out in servers and chats.",
+                    "store_listing_id": "1536487277646323853",
+                    "styles": {
+                        "background_colors": [
+                            2561,
+                            0
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 2,
+                            "sku_id": "1536487277646323853",
+                            "asset": "nameplates/water_strider/1536487277646323853/",
+                            "label": "A water strider stands on the surface of rippling water",
+                            "palette": "sky"
+                        }
+                    ],
+                    "type": 2,
+                    "premium_type": 0,
+                    "category_sku_id": "1536483752736329738",
+                    "google_sku_ids": {
+                        "5": "1536487277646323853_1536491571367903385",
+                        "7": "1536487277646323853_1536491576627302460"
+                    },
+                    "is_first_party": true
+                },
+                {
+                    "sku_id": "1536487394369609739",
+                    "name": "Dung Beetle",
+                    "summary": "Make your name stand out in servers and chats.",
+                    "store_listing_id": "1536487394369609739",
+                    "styles": {
+                        "background_colors": [
+                            2561,
+                            0
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 2,
+                            "sku_id": "1536487394369609739",
+                            "asset": "nameplates/dung_beetle/1536487394369609739/",
+                            "label": "A dung beetle rolls a large ball of dung across a sandy surface",
+                            "palette": "sky"
+                        }
+                    ],
+                    "type": 2,
+                    "premium_type": 0,
+                    "category_sku_id": "1536483752736329738",
+                    "google_sku_ids": {
+                        "5": "1536487394369609739_1536490621496197231",
+                        "7": "1536487394369609739_1536490627322347520"
+                    },
+                    "is_first_party": true
+                },
+                {
+                    "sku_id": "1536487566893649941",
+                    "name": "Bug Colony",
+                    "summary": "Make your name stand out in servers and chats.",
+                    "store_listing_id": "1536487566893649941",
+                    "styles": {
+                        "background_colors": [
+                            2561,
+                            0
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 2,
+                            "sku_id": "1536487566893649941",
+                            "asset": "nameplates/bug_colony/1536487566893649941/",
+                            "label": "A cluster of colorful beetles scuttle around",
                             "palette": "black"
                         }
                     ],
                     "type": 2,
                     "premium_type": 0,
-                    "category_sku_id": "1533910281783083068",
+                    "category_sku_id": "1536483752736329738",
                     "google_sku_ids": {
-                        "5": "1533919704375103590_1533921894997164122",
-                        "7": "1533919704375103590_1533921900772982936"
+                        "5": "1536487566893649941_1536487903839002664",
+                        "7": "1536487566893649941_1536487909815881728"
                     },
                     "is_first_party": true
                 },
                 {
-                    "sku_id": "1533920310716268696",
-                    "name": "Phantom Tides",
-                    "summary": "Make your name stand out in servers and chats.",
-                    "store_listing_id": "1533920310716268696",
-                    "styles": {
-                        "background_colors": [
-                            1646117,
-                            3696248
-                        ],
-                        "button_colors": [
-                            5793266,
-                            5793266
-                        ],
-                        "confetti_colors": [
-                            43772,
-                            15774258,
-                            16414587,
-                            3000177,
-                            9739511
-                        ]
-                    },
-                    "prices": {
-                        "0": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 599,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    },
-                                    {
-                                        "amount": 4100,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        },
-                        "4": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 499,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    },
-                                    {
-                                        "amount": 4100,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "preview_assets": null,
-                    "items": [
-                        {
-                            "type": 2,
-                            "sku_id": "1533920310716268696",
-                            "asset": "nameplates/phantom_tides/1533920310716268696/",
-                            "label": "Teal waves whirl in a circular motion",
-                            "palette": "black"
-                        }
-                    ],
-                    "type": 2,
-                    "premium_type": 0,
-                    "category_sku_id": "1533910281783083068",
-                    "google_sku_ids": {
-                        "5": "1533920310716268696_1533924106259529908",
-                        "7": "1533920310716268696_1533924111649214606"
-                    },
-                    "is_first_party": true
-                },
-                {
-                    "sku_id": "1533920512722604172",
-                    "name": "Lord of the Dead",
+                    "sku_id": "1536487740575846491",
+                    "name": "Death's-Head Hawkmoth",
                     "summary": "Show this effect when others view your profile.",
-                    "store_listing_id": "1533920512722604172",
+                    "store_listing_id": "1536487740575846491",
                     "styles": {
                         "background_colors": [
-                            1646117,
-                            3696248
-                        ],
-                        "button_colors": [
-                            5793266,
-                            5793266
-                        ],
-                        "confetti_colors": [
-                            43772,
-                            15774258,
-                            16414587,
-                            3000177,
-                            9739511
-                        ]
-                    },
-                    "prices": {
-                        "0": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 599,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    },
-                                    {
-                                        "amount": 4100,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        },
-                        "4": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 499,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    },
-                                    {
-                                        "amount": 4100,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "preview_assets": null,
-                    "items": [],
-                    "type": 2000,
-                    "premium_type": 0,
-                    "category_sku_id": "1533910281783083068",
-                    "variants": [
-                        {
-                            "sku_id": "1533920512722604172",
-                            "name": "Lord of the Dead (Blue)",
-                            "name_localizations": null,
-                            "summary": "Show this effect when others view your profile.",
-                            "summary_localizations": null,
-                            "type": 1,
-                            "store_listing_id": "1533920512722604172",
-                            "category_sku_id": "1533910281783083068",
-                            "premium_type": 0,
-                            "items": [
-                                {
-                                    "type": 1,
-                                    "sku_id": "1533920512722604172",
-                                    "title": "Lord of the Dead (Blue)",
-                                    "description": "Show this effect when others view your profile.",
-                                    "accessibilityLabel": "Hades seated on his throne looms over a field of skulls as blue flames rise around him",
-                                    "animationType": 2,
-                                    "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/fa2f3c7ce3cf271e32dd31c01eb08e25d5cd572dd758f316ac757fe4f38ae682",
-                                    "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/103518fc4066001f55e5eabe64542fa7410e50a2889cb1a4a3e19687ce2e6f06",
-                                    "effects": [
-                                        {
-                                            "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/9437a524a4f50e83ae4963ffcf50833b7c068fc8b48b40efd6913f257a438016",
-                                            "loop": false,
-                                            "duration": 4980,
-                                            "start": 0,
-                                            "loopDelay": 0,
-                                            "zIndex": 110,
-                                            "randomizedSources": []
-                                        },
-                                        {
-                                            "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/21f998898b7fd30a0a86fd3adfd26e2037a36772aafe66905a9ad11cb9d2e97e",
-                                            "loop": true,
-                                            "duration": 4906,
-                                            "start": 7101,
-                                            "loopDelay": 2400,
-                                            "zIndex": 100,
-                                            "randomizedSources": []
-                                        }
-                                    ]
-                                }
-                            ],
-                            "prices": {
-                                "0": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 599,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                },
-                                "4": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 499,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                }
-                            },
-                            "variant_label": "Blue",
-                            "variant_value": "#6CD6F9",
-                            "base_variant_sku_id": "1533920512722604172",
-                            "base_variant_name": "Lord of the Dead",
-                            "styles": null,
-                            "google_sku_ids": {
-                                "5": "1533920512722604172_1533922507629924624",
-                                "7": "1533920512722604172_1533922513526984846"
-                            },
-                            "badge_override": null,
-                            "hide_badge": null,
-                            "is_first_party": true
-                        },
-                        {
-                            "sku_id": "1533921032404992123",
-                            "name": "Lord of the Dead (Red)",
-                            "name_localizations": null,
-                            "summary": "Show this effect when others view your profile.",
-                            "summary_localizations": null,
-                            "type": 1,
-                            "store_listing_id": "1533921032404992123",
-                            "category_sku_id": "1533910281783083068",
-                            "premium_type": 0,
-                            "items": [
-                                {
-                                    "type": 1,
-                                    "sku_id": "1533921032404992123",
-                                    "title": "Lord of the Dead",
-                                    "description": "Show this effect when others view your profile.",
-                                    "accessibilityLabel": "Hades seated on his throne looms over a field of skulls as red flames rise around him",
-                                    "animationType": 2,
-                                    "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/b555971c87eecc9e46b5b858fe7bb0d489868515d5eadc0cb32289038395218d",
-                                    "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/10eb99c5c8089bd62f71a1b96688a5d2b0699a140821680527fcf47f4b211eaf",
-                                    "effects": [
-                                        {
-                                            "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/cd4313e497939cbb41a6a0bc136de9126ce3ab8e69e966caf062fb3e984f24fc",
-                                            "loop": false,
-                                            "duration": 4980,
-                                            "start": 0,
-                                            "loopDelay": 0,
-                                            "zIndex": 110,
-                                            "randomizedSources": []
-                                        },
-                                        {
-                                            "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/512802946947e881654598c0e6f34cb21f4f603cb025e51dc2aecdbf6ac762f9",
-                                            "loop": true,
-                                            "duration": 4906,
-                                            "start": 7101,
-                                            "loopDelay": 2400,
-                                            "zIndex": 100,
-                                            "randomizedSources": []
-                                        }
-                                    ]
-                                }
-                            ],
-                            "prices": {
-                                "0": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 599,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                },
-                                "4": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 499,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                }
-                            },
-                            "variant_label": "Red",
-                            "variant_value": "#C16767",
-                            "base_variant_sku_id": "1533920512722604172",
-                            "base_variant_name": "Lord of the Dead",
-                            "styles": null,
-                            "google_sku_ids": {
-                                "5": "1533921032404992123_1533924566143864983",
-                                "7": "1533921032404992123_1533924571814560034"
-                            },
-                            "badge_override": null,
-                            "hide_badge": null,
-                            "is_first_party": true
-                        }
-                    ],
-                    "google_sku_ids": {
-                        "5": "1533920512722604172_1533922507629924624",
-                        "7": "1533920512722604172_1533922513526984846"
-                    },
-                    "is_first_party": true
-                },
-                {
-                    "sku_id": "1533921239918182611",
-                    "name": "Hades' Throne",
-                    "summary": "Show this effect when others view your profile.",
-                    "store_listing_id": "1533921239918182611",
-                    "styles": {
-                        "background_colors": [
-                            1646117,
-                            3696248
-                        ],
-                        "button_colors": [
-                            5793266,
-                            5793266
-                        ],
-                        "confetti_colors": [
-                            43772,
-                            15774258,
-                            16414587,
-                            3000177,
-                            9739511
-                        ]
-                    },
-                    "prices": {
-                        "0": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 599,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    },
-                                    {
-                                        "amount": 4100,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        },
-                        "4": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 499,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    },
-                                    {
-                                        "amount": 4100,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "preview_assets": null,
-                    "items": [],
-                    "type": 2000,
-                    "premium_type": 0,
-                    "category_sku_id": "1533910281783083068",
-                    "variants": [
-                        {
-                            "sku_id": "1533921239918182611",
-                            "name": "Hades' Throne (Blue)",
-                            "name_localizations": null,
-                            "summary": "Show this effect when others view your profile.",
-                            "summary_localizations": null,
-                            "type": 1,
-                            "store_listing_id": "1533921239918182611",
-                            "category_sku_id": "1533910281783083068",
-                            "premium_type": 0,
-                            "items": [
-                                {
-                                    "type": 1,
-                                    "sku_id": "1533921239918182611",
-                                    "title": "Hades' Throne",
-                                    "description": "Show this effect when others view your profile.",
-                                    "accessibilityLabel": "Hades' throne looms over a field of skulls surrounded by blue flames",
-                                    "animationType": 2,
-                                    "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/6e6b7991883ae77d43d2844a4c34f317c4afe6e75c9b678a7a9707db2be99b74",
-                                    "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/103518fc4066001f55e5eabe64542fa7410e50a2889cb1a4a3e19687ce2e6f06",
-                                    "effects": [
-                                        {
-                                            "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/1dff809a30cc4a449776ce73ace0cc5c16681c4d4c42bb854c73921dbcbb9aeb",
-                                            "loop": false,
-                                            "duration": 4980,
-                                            "start": 0,
-                                            "loopDelay": 0,
-                                            "zIndex": 110,
-                                            "randomizedSources": []
-                                        },
-                                        {
-                                            "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/21f998898b7fd30a0a86fd3adfd26e2037a36772aafe66905a9ad11cb9d2e97e",
-                                            "loop": true,
-                                            "duration": 4906,
-                                            "start": 7101,
-                                            "loopDelay": 2400,
-                                            "zIndex": 100,
-                                            "randomizedSources": []
-                                        }
-                                    ]
-                                }
-                            ],
-                            "prices": {
-                                "0": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 599,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                },
-                                "4": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 499,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                }
-                            },
-                            "variant_label": "Blue",
-                            "variant_value": "#6CD6F9",
-                            "base_variant_sku_id": "1533921239918182611",
-                            "base_variant_name": "Hades' Throne",
-                            "styles": null,
-                            "google_sku_ids": {
-                                "5": "1533921239918182611_1533922837100892452",
-                                "7": "1533921239918182611_1533922844101181614"
-                            },
-                            "badge_override": null,
-                            "hide_badge": null,
-                            "is_first_party": true
-                        },
-                        {
-                            "sku_id": "1533921674792013864",
-                            "name": "Hades' Throne (Red)",
-                            "name_localizations": null,
-                            "summary": "Show this effect when others view your profile.",
-                            "summary_localizations": null,
-                            "type": 1,
-                            "store_listing_id": "1533921674792013864",
-                            "category_sku_id": "1533910281783083068",
-                            "premium_type": 0,
-                            "items": [
-                                {
-                                    "type": 1,
-                                    "sku_id": "1533921674792013864",
-                                    "title": "Hades' Throne",
-                                    "description": "Show this effect when others view your profile.",
-                                    "accessibilityLabel": "Hades' throne looms over a field of skulls surrounded by red flames",
-                                    "animationType": 2,
-                                    "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/387a89a26b2e67b81946457252d68b1d4f942c625f9253c80f8aa8e15120aa13",
-                                    "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/10eb99c5c8089bd62f71a1b96688a5d2b0699a140821680527fcf47f4b211eaf",
-                                    "effects": [
-                                        {
-                                            "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/894fcce7ea3134be0bc1a21bb8d3f5c44ac58560bfc3ebdc586245f4014f0874",
-                                            "loop": false,
-                                            "duration": 4980,
-                                            "start": 0,
-                                            "loopDelay": 0,
-                                            "zIndex": 110,
-                                            "randomizedSources": []
-                                        },
-                                        {
-                                            "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/512802946947e881654598c0e6f34cb21f4f603cb025e51dc2aecdbf6ac762f9",
-                                            "loop": true,
-                                            "duration": 4906,
-                                            "start": 7101,
-                                            "loopDelay": 2400,
-                                            "zIndex": 100,
-                                            "randomizedSources": []
-                                        }
-                                    ]
-                                }
-                            ],
-                            "prices": {
-                                "0": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 599,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                },
-                                "4": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 499,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                }
-                            },
-                            "variant_label": "Red",
-                            "variant_value": "#C16767",
-                            "base_variant_sku_id": "1533921239918182611",
-                            "base_variant_name": "Hades' Throne",
-                            "styles": null,
-                            "google_sku_ids": {
-                                "5": "1533921674792013864_1533923314127474798",
-                                "7": "1533921674792013864_1533923323812118569"
-                            },
-                            "badge_override": null,
-                            "hide_badge": null,
-                            "is_first_party": true
-                        }
-                    ],
-                    "google_sku_ids": {
-                        "5": "1533921239918182611_1533922837100892452",
-                        "7": "1533921239918182611_1533922844101181614"
-                    },
-                    "is_first_party": true
-                },
-                {
-                    "sku_id": "1533921966996586707",
-                    "name": "Hellhound",
-                    "summary": "Show this effect when others view your profile.",
-                    "store_listing_id": "1533921966996586707",
-                    "styles": {
-                        "background_colors": [
-                            1646117,
-                            3696248
+                            2561,
+                            0
                         ],
                         "button_colors": [
                             5793266,
@@ -3923,29 +3386,30 @@
                     "items": [
                         {
                             "type": 1,
-                            "sku_id": "1533921966996586707",
-                            "title": "Hellhound",
+                            "sku_id": "1536487740575846491",
+                            "title": "Death's-Head Hawkmoth",
                             "description": "Show this effect when others view your profile.",
-                            "accessibilityLabel": "A snarling 3-headed hellhound with sharp fangs rears up, trailing pink flames",
-                            "animationType": 2,
-                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/ee63dbed7337a57ac139ae5bb16f4c35fe2092e5471193bff974d3a14672a664",
-                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/a024aec0a1bc0536ad0fc051fa4dd32bb97db9cb5fca6cc2650e723e9318aeba",
+                            "accessibilityLabel": "A death's-head hawk moth with a skull pattern on its body hovers beside a blue flower on a dark vine",
+                            "animationType": 1,
+                            "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/e92bcc050f66f5e776fb5aa533663bd894d7d2a6b9dc3d89dae71d8fa1c02445",
+                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/e00e481667db450acf22cfa733c7b1e998f3b08ac8eff6a26984ab0f3bb6a5d8",
+                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/e92bcc050f66f5e776fb5aa533663bd894d7d2a6b9dc3d89dae71d8fa1c02445",
                             "effects": [
                                 {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/db5a61d9fb5b447c626cd59cf00c45cc61e211b042c8d5397be5f17b4151c698",
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/e8fffa3ab00249d34448a5bd138dd7a5720a751d7b22aa49b90a7f58284bcc0a",
                                     "loop": false,
-                                    "duration": 4904,
+                                    "duration": 4731,
                                     "start": 0,
                                     "loopDelay": 0,
                                     "zIndex": 110,
                                     "randomizedSources": []
                                 },
                                 {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/36651b3517f1d214876474a0df786edf56a8efd545925c304a8e3155b47aa68b",
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/b5bd58a22f5e666768f6c3490246af0b0853473a26b3ea1a6fbd6caef4f2251b",
                                     "loop": true,
-                                    "duration": 4905,
-                                    "start": 6686,
-                                    "loopDelay": 2400,
+                                    "duration": 4980,
+                                    "start": 4732,
+                                    "loopDelay": 0,
                                     "zIndex": 100,
                                     "randomizedSources": []
                                 }
@@ -3954,22 +3418,22 @@
                     ],
                     "type": 1,
                     "premium_type": 0,
-                    "category_sku_id": "1533910281783083068",
+                    "category_sku_id": "1536483752736329738",
                     "google_sku_ids": {
-                        "5": "1533921966996586707_1533926699761275012",
-                        "7": "1533921966996586707_1533926706845581443"
+                        "5": "1536487740575846491_1536491758135943331",
+                        "7": "1536487740575846491_1536491763378819133"
                     },
                     "is_first_party": true
                 },
                 {
-                    "sku_id": "1533925148925628628",
-                    "name": "Those Left Behind",
+                    "sku_id": "1536488170999521290",
+                    "name": "Praying Mantis",
                     "summary": "Show this effect when others view your profile.",
-                    "store_listing_id": "1533925148925628628",
+                    "store_listing_id": "1536488170999521290",
                     "styles": {
                         "background_colors": [
-                            1646117,
-                            3696248
+                            2561,
+                            0
                         ],
                         "button_colors": [
                             5793266,
@@ -4023,29 +3487,38 @@
                     "items": [
                         {
                             "type": 1,
-                            "sku_id": "1533925148925628628",
-                            "title": "Those Left Behind",
+                            "sku_id": "1536488170999521290",
+                            "title": "Praying Mantis",
                             "description": "Show this effect when others view your profile.",
-                            "accessibilityLabel": "Glowing blue spirits fly forward on the profile",
+                            "accessibilityLabel": "A green praying mantis perches on a bare branch with forelegs raised",
                             "animationType": 2,
-                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/ab1ba7489d93676687c6cf08e8ac002fdf571537f450a07c380d67a96e0ce571",
-                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/2d81941fd2fc1e45e9c842d45acdeab08bc0f57c4aa5089737d6c940d4a2a0f4",
+                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/2a11bc9d5c98fb52707816bf7a1c81e3170718ed40ad92369fc4374e60881334",
+                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/610694c6ff4f991ae060061fad98a012220a675af1a02eb899278900903b7b22",
                             "effects": [
                                 {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/c6a804dacf39134b31719166fdf0debfb208c2284ef9aaa0d7a8db670405a092",
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/b854481c862745ddcb07cef40d1bc5ece4d6a96bbb00c8071766190afe25c93c",
                                     "loop": false,
-                                    "duration": 4908,
+                                    "duration": 4982,
                                     "start": 0,
                                     "loopDelay": 0,
+                                    "zIndex": 120,
+                                    "randomizedSources": []
+                                },
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/cb4a357faac2fe69673372bf9b57c58c13d155a34d93c41c9bc4eb3216336322",
+                                    "loop": true,
+                                    "duration": 4981,
+                                    "start": 8000,
+                                    "loopDelay": 11000,
                                     "zIndex": 110,
                                     "randomizedSources": []
                                 },
                                 {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/a5d939bee2b05ef76803472b5b8ecc27da965997fce90fc8f9e58d43c9f8970e",
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/1c7114d1d2fb7ea2f7a1c512750792b786328e092b8cf4e8ec8d3fffb25cc3b1",
                                     "loop": true,
-                                    "duration": 3906,
-                                    "start": 7669,
-                                    "loopDelay": 2900,
+                                    "duration": 4981,
+                                    "start": 16000,
+                                    "loopDelay": 11000,
                                     "zIndex": 100,
                                     "randomizedSources": []
                                 }
@@ -4054,28 +3527,128 @@
                     ],
                     "type": 1,
                     "premium_type": 0,
-                    "category_sku_id": "1533910281783083068",
+                    "category_sku_id": "1536483752736329738",
                     "google_sku_ids": {
-                        "5": "1533925148925628628_1533929192746651708",
-                        "7": "1533925148925628628_1533929198568214699"
+                        "5": "1536488170999521290_1536489903091749025",
+                        "7": "1536488170999521290_1536489910398230648"
+                    },
+                    "is_first_party": true
+                },
+                {
+                    "sku_id": "1536488550441291816",
+                    "name": "Dragonfly",
+                    "summary": "Show this effect when others view your profile.",
+                    "store_listing_id": "1536488550441291816",
+                    "styles": {
+                        "background_colors": [
+                            2561,
+                            0
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 1,
+                            "sku_id": "1536488550441291816",
+                            "title": "Dragonfly",
+                            "description": "Show this effect when others view your profile.",
+                            "accessibilityLabel": "A purple and green dragonfly hovers by",
+                            "animationType": 2,
+                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/3ad951dc5ac6b4f2db6cd4e06a5014d59b39b907dd31ffb11a36aaf04f2fe12e",
+                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/a6c737b8272f2ee9e4b225f5bc733fc4ad2602264bd4d5dda2e8155667d74c3e",
+                            "effects": [
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/1f2c0b7e5d24c96e457cb84af14736af9cce121823b879e412c36fdb52e4830d",
+                                    "loop": false,
+                                    "duration": 4982,
+                                    "start": 0,
+                                    "loopDelay": 0,
+                                    "zIndex": 110,
+                                    "randomizedSources": []
+                                },
+                                {
+                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/29b8e31aaca559817ef878a7a9b41ec5307b78760d31ed1081c8aad6e6ed2d7b",
+                                    "loop": true,
+                                    "duration": 4980,
+                                    "start": 8000,
+                                    "loopDelay": 3000,
+                                    "zIndex": 100,
+                                    "randomizedSources": []
+                                }
+                            ]
+                        }
+                    ],
+                    "type": 1,
+                    "premium_type": 0,
+                    "category_sku_id": "1536483752736329738",
+                    "google_sku_ids": {
+                        "5": "1536488550441291816_1536489890202648597",
+                        "7": "1536488550441291816_1536489895260983427"
                     },
                     "is_first_party": true
                 }
             ],
-            "hero_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/c4bf5acb4266ca43d5591108621c8fca0f74254123c7926b6dc5e5e98ab44d04",
-            "hero_logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/293455a2c92ada19f1007368ff3bb88a476d7bf29abdbcd67b58046eb5a6f231",
-            "catalog_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/b19b137a2a01cdd14a07fe40cc47b049c36f27102d7e32f14e78884e7a9e8a23",
-            "featured_block_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/a16b3d35e40159c3931e8cc9202d6d712e889994e5120c7d1d43542ebfaf36f6",
-            "logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/293455a2c92ada19f1007368ff3bb88a476d7bf29abdbcd67b58046eb5a6f231",
-            "pdp_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/6b2e930a49694250a6a7f34c680749b1baf0ee5bdee3e70f7951b52b8f6f66a6",
-            "mobile_hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/864a5f051b87131c34018abf318a0638462134348fe749daab23a6621704aa1c",
-            "mobile_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/f39795a03b9f0d6a7e67138c58347a1e030b4b78584bdd47486cc3f634fb571b",
-            "mobile_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/7cc345038098cb8b9adf106561ea1fee15e368bd8b1d0003c9fbc29ffccbd0ef",
+            "hero_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/afc51510b6b154da6c55df4e14a72a4ce0d527457b5b164a0aa3a38efeef4ce4",
+            "hero_logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/2b9e5366a57d0ea1d74237b233b063a74634c0199a4ac51ef76682bf61338c25",
+            "catalog_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/35685e96b0b6d7552115b8ae1ca7c0336d6d509932d0c389ed5d2539f488b1f4",
+            "featured_block_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/e3ffb1d1700de13129f78f9861742d43faeb71535c4e91f63093ea55341a21af",
+            "logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/2b9e5366a57d0ea1d74237b233b063a74634c0199a4ac51ef76682bf61338c25",
+            "pdp_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/7acb929c316b8558af2c6b2553ee3b80b4e9babc5be7e721f360a2eea32d5405",
+            "mobile_hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/18fe5b81cd7997cc6ce50a43012f45057cd5499753a96048d4969d2abecd3c13",
+            "mobile_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/ccf033b9e3286059f3df16b3da1aae2a336ec8c9ea1cabdd40df8dfd62e5b32e",
+            "mobile_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/900262a42d81a3c87d43b4f63bec9f1787bcf78a6ba8798839803e1e9545a35e",
             "hero_banner_display_config": {
                 "desktop_max_height": null,
                 "mobile_max_height": null,
                 "responsive": null,
-                "background_style": "linear-gradient(180deg, #191E25 0%, #386678 100%)"
+                "background_style": "linear-gradient(180deg, #000A01 0%, #000000 100%)"
             }
         },
         {
