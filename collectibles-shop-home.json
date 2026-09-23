@@ -2,45 +2,56 @@
     "shop_blocks": [
         {
             "type": 0,
-            "category_sku_id": "1545530118263537684",
-            "name": "Fall Foragers",
-            "category_store_listing_id": "1545530118263537684",
+            "category_sku_id": "1545190959015530626",
+            "name": "All Ears",
+            "category_store_listing_id": "1545190959015530626",
             "unpublished_at": null,
             "summary": " ",
             "ranked_sku_ids": [
-                "1545539307719229510",
-                "1545539978887434321",
-                "1545540330932408490",
-                "1545530967433674853",
-                "1545533300171346131",
-                "1545533418073231482",
-                "1545534123182002246",
-                "1545534249216638986",
-                "1545536600677814393",
-                "1545536891753857144",
-                "1545538298884259930",
-                "1545538607811534988",
-                "1545538988813844600"
+                "1545194317365248010",
+                "1545194063102480584",
+                "1545544215512088738",
+                "1545191258564075630",
+                "1545564784341032960",
+                "1545192163170582569",
+                "1545191973307154432",
+                "1545192768341807174",
+                "1545192421854285834",
+                "1545192639022768209",
+                "1545192554469920779",
+                "1545192075551703201",
+                "1545191881489653833",
+                "1545544361515819059",
+                "1545193498725322762",
+                "1545193363958005790",
+                "1545193669932482620",
+                "1545193190783586314",
+                "1545193867710562406",
+                "1545193750261923880"
             ],
-            "hero_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/f9bca9ab15cb116106fd293fac4fb4d206c467f8ac866e3b209341ef712b9e28",
-            "hero_logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/36f9c78d314bb50ea57f8a257fa75b9045080baf6450a0af88757b945381997a",
-            "mobile_hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/f72782bf9fd09ae423e611f4fb72f6fd16a7f6a49eb0340a499be3d899b10e35",
+            "hero_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/48769358fc3355095b3fc2b51dc35d67dfaa793cb4e64da05409ea523991a044",
+            "hero_logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/46fa1181ceac1a864c4deb3cbfabbed88afc56f3341cab47a873009c639fde16",
+            "mobile_hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/d13958d2536c9b360cf4ad7837d0571d80b7c6a8612afcd0a5556b5a7bf981cc",
             "banner_display_config": {
                 "desktop_max_height": null,
                 "mobile_max_height": null,
                 "responsive": null,
-                "background_style": "linear-gradient(180deg, #7E2F35 0%, #D65626 100%)"
-            },
-            "logo_display_config": {
-                "desktop_max_height": 110,
-                "mobile_max_height": null,
-                "responsive": null,
-                "background_style": null
+                "background_style": "linear-gradient(180deg, #F5F4F6 0%, #FCEDEE 100%)"
             }
         },
         {
             "type": 1,
             "subblocks": [
+                {
+                    "type": 0,
+                    "category_sku_id": "1545530118263537684",
+                    "category_store_listing_id": "1545530118263537684",
+                    "name": "Fall Foragers",
+                    "unpublished_at": null,
+                    "body_text": null,
+                    "banner_text_color": null,
+                    "asset_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/b357d6e61234d1825dd96079a1d7d954eb4907ba7aca96c76f4399c4481888b3"
+                },
                 {
                     "type": 0,
                     "category_sku_id": "1544051220942029012",
@@ -50,16 +61,6 @@
                     "body_text": null,
                     "banner_text_color": null,
                     "asset_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/b0db770a2854b3b8bf96313e61d20b3f631b9c199089d417d39ee32c46390607"
-                },
-                {
-                    "type": 0,
-                    "category_sku_id": "1541248655800012960",
-                    "category_store_listing_id": "1541248655800012960",
-                    "name": "Dark Folklore",
-                    "unpublished_at": null,
-                    "body_text": null,
-                    "banner_text_color": null,
-                    "asset_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/7001479b465e40e3b4388ebb3e078c73f36b0503e557d621be158bb869fcd47f"
                 }
             ]
         },
@@ -294,15 +295,18 @@
                     "1343751620931879016"
                 ],
                 "popular": [
+                    "1545539307719229510",
                     "1538992882340466780",
                     "1538993580230582302",
                     "1538993334251692184",
                     "1541465515636162570",
                     "1531712539560382504",
                     "1516561824114409572",
+                    "1545539978887434321",
                     "1516560866609467452",
                     "1545538607811534988",
                     "1531413567411064842",
+                    "1545530967433674853",
                     "1536493354450288680",
                     "1541465312443236473",
                     "1516560337070198894",
@@ -319,6 +323,7 @@
                     "1516559294819074088",
                     "1462116613745676445",
                     "1538992498695872543",
+                    "1545533418073231482",
                     "1538992680552636548",
                     "1144308439720394944",
                     "1538991537399136407",
@@ -329,6 +334,8 @@
                     "1544103799432683580",
                     "1462116614131548265",
                     "1545538988813844600",
+                    "1545538298884259930",
+                    "1545540330932408490",
                     "1481392199261487187",
                     "1517303399799062668",
                     "1538991887497695252",
@@ -337,6 +344,7 @@
                     "1462116613804396646",
                     "1481392895486459945",
                     "1511834130294247555",
+                    "1545536891753857144",
                     "1491907428344795276",
                     "1488248959481811104",
                     "1333866045236314327",
@@ -355,6 +363,7 @@
                     "1516561413848694894",
                     "1533914517329678408",
                     "1436367668788592782",
+                    "1545533300171346131",
                     "1436367668897775757",
                     "1508889522090541056",
                     "1524190883036266636",
@@ -381,6 +390,7 @@
                     "1524193178586972441",
                     "1495807265175900180",
                     "1526655777350221995",
+                    "1545536600677814393",
                     "1541454236456456232",
                     "1531403489727746310",
                     "1495808505494372534",
@@ -408,6 +418,7 @@
                     "1526697977513509007",
                     "1511102779819687956",
                     "1524193825130811604",
+                    "1545534123182002246",
                     "1531406020851793950",
                     "1541454356434395136",
                     "1533919389806493928",
@@ -425,6 +436,7 @@
                     "1541454524210745364",
                     "1511869969921609874",
                     "1282820582408192061",
+                    "1545534249216638986",
                     "1462116613758128149",
                     "1432550258465837086",
                     "1491910305603911881",
@@ -1880,14 +1892,14 @@
     ],
     "categories": [
         {
-            "sku_id": "1545530118263537684",
-            "name": "Fall Foragers",
+            "sku_id": "1545190959015530626",
+            "name": "All Ears",
             "summary": " ",
-            "store_listing_id": "1545530118263537684",
+            "store_listing_id": "1545190959015530626",
             "styles": {
                 "background_colors": [
-                    8269621,
-                    14046758
+                    16119030,
+                    16575982
                 ],
                 "button_colors": [
                     5793266,
@@ -1902,30 +1914,37 @@
                 ]
             },
             "hero_ranking": [
-                "1545539307719229510",
-                "1545539978887434321",
-                "1545540330932408490",
-                "1545530967433674853",
-                "1545533300171346131",
-                "1545533418073231482",
-                "1545534123182002246",
-                "1545534249216638986",
-                "1545536600677814393",
-                "1545536891753857144",
-                "1545538298884259930",
-                "1545538607811534988",
-                "1545538988813844600"
+                "1545194317365248010",
+                "1545194063102480584",
+                "1545544215512088738",
+                "1545191258564075630",
+                "1545564784341032960",
+                "1545192163170582569",
+                "1545191973307154432",
+                "1545192768341807174",
+                "1545192421854285834",
+                "1545192639022768209",
+                "1545192554469920779",
+                "1545192075551703201",
+                "1545191881489653833",
+                "1545544361515819059",
+                "1545193498725322762",
+                "1545193363958005790",
+                "1545193669932482620",
+                "1545193190783586314",
+                "1545193867710562406",
+                "1545193750261923880"
             ],
             "products": [
                 {
-                    "sku_id": "1545539307719229510",
-                    "name": "Fall Foragers Bundle",
+                    "sku_id": "1545194317365248010",
+                    "name": "Alt Raccoon Bundle",
                     "summary": "{joinedItems}",
-                    "store_listing_id": "1545539307719229510",
+                    "store_listing_id": "1545194317365248010",
                     "styles": {
                         "background_colors": [
-                            8269621,
-                            14046758
+                            16119030,
+                            16575982
                         ],
                         "button_colors": [
                             5793266,
@@ -1945,12 +1964,12 @@
                                 "country_code": "US",
                                 "prices": [
                                     {
-                                        "amount": 2099,
+                                        "amount": 1599,
                                         "currency": "usd",
                                         "exponent": 2
                                     },
                                     {
-                                        "amount": 14400,
+                                        "amount": 11000,
                                         "currency": "discord_orb",
                                         "exponent": 0
                                     }
@@ -1962,12 +1981,12 @@
                                 "country_code": "US",
                                 "prices": [
                                     {
-                                        "amount": 1699,
+                                        "amount": 1299,
                                         "currency": "usd",
                                         "exponent": 2
                                     },
                                     {
-                                        "amount": 14400,
+                                        "amount": 11000,
                                         "currency": "discord_orb",
                                         "exponent": 0
                                     }
@@ -1976,81 +1995,51 @@
                         }
                     },
                     "preview_assets": {
-                        "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1545539307719229510",
-                        "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1545539307719229510"
+                        "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1545194317365248010",
+                        "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1545194317365248010"
                     },
                     "items": [
                         {
                             "type": 0,
-                            "sku_id": "1545530967433674853",
-                            "asset": "a_47202ff223e839a2ecf14a8b0f3ce7a1",
-                            "label": "A black cat lounges in a pile of autumn leaves."
+                            "sku_id": "1545192554469920779",
+                            "asset": "a_628b1b338d3216a2a971083b2b2efffc",
+                            "label": "Pierced raccoon ears and a striped tail encircle the avatar"
                         },
                         {
                             "type": 2,
-                            "sku_id": "1545534249216638986",
-                            "asset": "nameplates/harvest_mouse/1545534249216638986/",
-                            "label": "A brown mouse nibbles berries atop a pile of red berries.",
-                            "palette": "berry"
-                        },
-                        {
-                            "type": 1,
-                            "sku_id": "1545538298884259930",
-                            "title": "Odette",
-                            "description": "Show this effect when others view your profile.",
-                            "accessibilityLabel": "A swan glides on water as maple leaves fall around it.",
-                            "animationType": 2,
-                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/2ea54999168210cb9b989fa7942891211248431b9f807b24ba51eb43e8a4d819",
-                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/7b52cec2f1b08e7d66338e0f741bbb5b0eec804341af1ba4f6d3c9204237eca0",
-                            "effects": [
-                                {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/db755b9de7681c2eb53c21739e83d625d86d9a3ff24b64c263ae384bc3f3dae5",
-                                    "loop": false,
-                                    "duration": 4981,
-                                    "start": 0,
-                                    "loopDelay": 0,
-                                    "zIndex": 110,
-                                    "randomizedSources": []
-                                },
-                                {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/42b9a68dea261dcde438a0efd924bc131d788d7cd2900ee6f362bbbd3a0416ea",
-                                    "loop": true,
-                                    "duration": 4980,
-                                    "start": 7981,
-                                    "loopDelay": 3000,
-                                    "zIndex": 100,
-                                    "randomizedSources": []
-                                }
-                            ]
+                            "sku_id": "1545193669932482620",
+                            "asset": "nameplates/alt_raccoon_fur/1545193669932482620/",
+                            "label": "Gray striped fur with a heart pendant charm.",
+                            "palette": "black"
                         },
                         {
                             "type": 3,
-                            "sku_id": "1545538607811534988",
-                            "label": "A black cat peeks out from a pile of leaves at the top with more autumn leaves along the bottom.",
+                            "sku_id": "1545193867710562406",
+                            "label": "A raccoon peeks over the top of the profile, with a striped tail along the bottom.",
                             "layers": [
                                 {
-                                    "id": "1549900374805184522",
+                                    "id": "1545565659092623491",
                                     "type": "staple",
                                     "order": "front",
                                     "anchor": "top",
                                     "responsive": false
                                 },
                                 {
-                                    "id": "1549900379196624936",
+                                    "id": "1545565664134037606",
                                     "type": "staple",
                                     "order": "front",
                                     "anchor": "bottom",
                                     "responsive": false
                                 },
                                 {
-                                    "id": "1549900383076220939",
+                                    "id": "1547000420180693142",
                                     "type": "staple",
                                     "order": "back",
                                     "anchor": "top",
                                     "responsive": false
                                 },
                                 {
-                                    "id": "1549900387216269445",
+                                    "id": "1547000553375137823",
                                     "type": "staple",
                                     "order": "back",
                                     "anchor": "bottom",
@@ -2065,11 +2054,11 @@
                     ],
                     "type": 1000,
                     "premium_type": 0,
-                    "category_sku_id": "1545530118263537684",
+                    "category_sku_id": "1545190959015530626",
                     "bundled_products": [
                         {
-                            "sku_id": "1545530967433674853",
-                            "name": "Leafy Loaf",
+                            "sku_id": "1545192554469920779",
+                            "name": "Alt Raccoon",
                             "summary": "Give your avatar a new look.",
                             "type": 0,
                             "premium_type": 0,
@@ -2111,8 +2100,8 @@
                             }
                         },
                         {
-                            "sku_id": "1545534249216638986",
-                            "name": "Harvest Mouse (Brown)",
+                            "sku_id": "1545193669932482620",
+                            "name": "Alt Raccoon Fur",
                             "summary": "Make your name stand out in servers and chats.",
                             "type": 2,
                             "premium_type": 0,
@@ -2154,51 +2143,8 @@
                             }
                         },
                         {
-                            "sku_id": "1545538298884259930",
-                            "name": "Odette",
-                            "summary": "Show this effect when others view your profile.",
-                            "type": 1,
-                            "premium_type": 0,
-                            "prices": {
-                                "0": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 599,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                },
-                                "4": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 499,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                }
-                            }
-                        },
-                        {
-                            "sku_id": "1545538607811534988",
-                            "name": "Leafy Loaf",
+                            "sku_id": "1545193867710562406",
+                            "name": "Alt Raccoon",
                             "summary": "Elevate and wrap your profile with a frame.",
                             "type": 3,
                             "premium_type": 0,
@@ -2241,20 +2187,20 @@
                         }
                     ],
                     "google_sku_ids": {
-                        "5": "1545539307719229510_1545542949146722314",
-                        "7": "1545539307719229510_1545542954687668336"
+                        "5": "1545194317365248010_1545198307372961853",
+                        "7": "1545194317365248010_1545198312817426532"
                     },
                     "is_first_party": true
                 },
                 {
-                    "sku_id": "1545539978887434321",
-                    "name": "Autumn Garden Bundle",
+                    "sku_id": "1545194063102480584",
+                    "name": "Snow Leopard Bundle",
                     "summary": "{joinedItems}",
-                    "store_listing_id": "1545539978887434321",
+                    "store_listing_id": "1545194063102480584",
                     "styles": {
                         "background_colors": [
-                            8269621,
-                            14046758
+                            16119030,
+                            16575982
                         ],
                         "button_colors": [
                             5793266,
@@ -2274,12 +2220,12 @@
                                 "country_code": "US",
                                 "prices": [
                                     {
-                                        "amount": 2099,
+                                        "amount": 1599,
                                         "currency": "usd",
                                         "exponent": 2
                                     },
                                     {
-                                        "amount": 14400,
+                                        "amount": 11000,
                                         "currency": "discord_orb",
                                         "exponent": 0
                                     }
@@ -2291,12 +2237,12 @@
                                 "country_code": "US",
                                 "prices": [
                                     {
-                                        "amount": 1699,
+                                        "amount": 1299,
                                         "currency": "usd",
                                         "exponent": 2
                                     },
                                     {
-                                        "amount": 14400,
+                                        "amount": 11000,
                                         "currency": "discord_orb",
                                         "exponent": 0
                                     }
@@ -2305,115 +2251,63 @@
                         }
                     },
                     "preview_assets": {
-                        "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1545539978887434321",
-                        "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1545539978887434321"
+                        "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1545194063102480584",
+                        "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1545194063102480584"
                     },
                     "items": [
                         {
                             "type": 0,
-                            "sku_id": "1545533418073231482",
-                            "asset": "a_3fc0f92dd90e96adb617cd90f207f7f0",
-                            "label": "Red maple branches encircle the avatar."
+                            "sku_id": "1545192075551703201",
+                            "asset": "a_48ea85305bdf65404273af1efa467dc3",
+                            "label": "Spotted snow leopard ears and a curled tail."
                         },
                         {
                             "type": 2,
-                            "sku_id": "1545536600677814393",
-                            "asset": "nameplates/toadstools/1545536600677814393/",
-                            "label": "Red-capped toadstools grow in a patch of grass.",
-                            "palette": "teal"
-                        },
-                        {
-                            "type": 1,
-                            "sku_id": "1545536891753857144",
-                            "title": "Autumn Garden",
-                            "description": "Show this effect when others view your profile.",
-                            "accessibilityLabel": "Sunflowers bloom and pumpkins grow in the drizzling rain.",
-                            "animationType": 1,
-                            "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/c57a7f94da5b109e88920de840a391a09c23821af0ae85014169ef5ae0b7f2d4",
-                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/665d257e9ff3475f7d5ca301191bfc7d95180dd1c119293fbc9fb0303abd0a98",
-                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/41e1031b1da05bbb69950cadbdca77c9206a5363d32ca773e473c6a266fac96d",
-                            "effects": [
-                                {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/b09bd1d5ff1a75b3c55bacfd013b758df2b4a4bbb175fb7c964407fe67e8544a",
-                                    "loop": false,
-                                    "duration": 4980,
-                                    "start": 0,
-                                    "loopDelay": 0,
-                                    "zIndex": 110,
-                                    "randomizedSources": []
-                                },
-                                {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/7379e3f6d88b1d35c7b0180acec64acd2f7b2d39728c7f143aaaa5ad9f4ca4c8",
-                                    "loop": true,
-                                    "duration": 4980,
-                                    "start": 4981,
-                                    "loopDelay": 0,
-                                    "zIndex": 100,
-                                    "randomizedSources": []
-                                }
-                            ]
+                            "sku_id": "1545193190783586314",
+                            "asset": "nameplates/leopard_print/1545193190783586314/",
+                            "label": "Sparkling leopard print fur.",
+                            "palette": "black"
                         },
                         {
                             "type": 3,
-                            "sku_id": "1545538988813844600",
-                            "label": "Sunflowers grow along the top with gourds lining the bottom.",
+                            "sku_id": "1545193750261923880",
+                            "label": "Sparkling snow leopard print fur borders the profile, with a spotted tail curling along the bottom.",
                             "layers": [
                                 {
-                                    "id": "1549900234438610985",
-                                    "type": "rail",
+                                    "id": "1545193820377849937",
+                                    "type": "border",
                                     "order": "front",
                                     "anchor": "center",
-                                    "responsive": true
+                                    "responsive": false
                                 },
                                 {
-                                    "id": "1549900243699503185",
+                                    "id": "1545193824370954351",
                                     "type": "staple",
                                     "order": "front",
                                     "anchor": "top",
                                     "responsive": false
                                 },
                                 {
-                                    "id": "1549900247415787601",
+                                    "id": "1545193829689200710",
                                     "type": "staple",
                                     "order": "front",
-                                    "anchor": "bottom",
-                                    "responsive": false
-                                },
-                                {
-                                    "id": "1549900251425669130",
-                                    "type": "rail",
-                                    "order": "back",
-                                    "anchor": "center",
-                                    "responsive": true
-                                },
-                                {
-                                    "id": "1549900255443685446",
-                                    "type": "staple",
-                                    "order": "back",
-                                    "anchor": "top",
-                                    "responsive": false
-                                },
-                                {
-                                    "id": "1549900259289735229",
-                                    "type": "staple",
-                                    "order": "back",
                                     "anchor": "bottom",
                                     "responsive": false
                                 }
                             ],
                             "inner_width": 1200,
-                            "overflow_top": 304,
+                            "overflow_top": 132,
                             "overflow_bottom": 212,
                             "overflow_horizontal": 56
                         }
                     ],
                     "type": 1000,
                     "premium_type": 0,
-                    "category_sku_id": "1545530118263537684",
+                    "category_sku_id": "1545190959015530626",
                     "bundled_products": [
                         {
-                            "sku_id": "1545533418073231482",
-                            "name": "Japanese Maple",
+                            "sku_id": "1545192075551703201",
+                            "name": "Snow Leopard",
                             "summary": "Give your avatar a new look.",
                             "type": 0,
                             "premium_type": 0,
@@ -2455,8 +2349,8 @@
                             }
                         },
                         {
-                            "sku_id": "1545536600677814393",
-                            "name": "Toadstools",
+                            "sku_id": "1545193190783586314",
+                            "name": "Leopard Print",
                             "summary": "Make your name stand out in servers and chats.",
                             "type": 2,
                             "premium_type": 0,
@@ -2498,51 +2392,8 @@
                             }
                         },
                         {
-                            "sku_id": "1545536891753857144",
-                            "name": "Autumn Garden",
-                            "summary": "Show this effect when others view your profile.",
-                            "type": 1,
-                            "premium_type": 0,
-                            "prices": {
-                                "0": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 599,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                },
-                                "4": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 499,
-                                                "currency": "usd",
-                                                "exponent": 2
-                                            },
-                                            {
-                                                "amount": 4100,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                }
-                            }
-                        },
-                        {
-                            "sku_id": "1545538988813844600",
-                            "name": "Autumn Garden",
+                            "sku_id": "1545193750261923880",
+                            "name": "Leopard Print",
                             "summary": "Elevate and wrap your profile with a frame.",
                             "type": 3,
                             "premium_type": 0,
@@ -2585,20 +2436,20 @@
                         }
                     ],
                     "google_sku_ids": {
-                        "5": "1545539978887434321_1545541855721033768",
-                        "7": "1545539978887434321_1545541860385235084"
+                        "5": "1545194063102480584_1545197255642845245",
+                        "7": "1545194063102480584_1545197260948774932"
                     },
                     "is_first_party": true
                 },
                 {
-                    "sku_id": "1545540330932408490",
-                    "name": "Autumn Robin Bundle",
+                    "sku_id": "1545544215512088738",
+                    "name": "Lunar Wolf Bundle",
                     "summary": "{joinedItems}",
-                    "store_listing_id": "1545540330932408490",
+                    "store_listing_id": "1545544215512088738",
                     "styles": {
                         "background_colors": [
-                            8269621,
-                            14046758
+                            16119030,
+                            16575982
                         ],
                         "button_colors": [
                             5793266,
@@ -2649,31 +2500,31 @@
                         }
                     },
                     "preview_assets": {
-                        "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1545540330932408490",
-                        "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1545540330932408490"
+                        "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1545544215512088738",
+                        "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1545544215512088738"
                     },
                     "items": [
                         {
                             "type": 0,
-                            "sku_id": "1545533300171346131",
-                            "asset": "a_e73462eef71738e4e478a55ccea7823d",
-                            "label": "Bare branches with red berries encircle the avatar, a robin perched at the top."
+                            "sku_id": "1545191881489653833",
+                            "asset": "a_389fc7b1f648159a29b4d3fa7cade94c",
+                            "label": "Iridescent wolf ears and a crescent-shaped wisp of fur."
                         },
                         {
                             "type": 2,
-                            "sku_id": "1545534123182002246",
-                            "asset": "nameplates/gardener's_friend/1545534123182002246/",
-                            "label": "A robin perches on a berry branch.",
+                            "sku_id": "1545193498725322762",
+                            "asset": "nameplates/lunar_wolf_fur/1545193498725322762/",
+                            "label": "Iridescent blue and pink wolf fur with sparkles.",
                             "palette": "sky"
                         }
                     ],
                     "type": 1000,
                     "premium_type": 0,
-                    "category_sku_id": "1545530118263537684",
+                    "category_sku_id": "1545190959015530626",
                     "bundled_products": [
                         {
-                            "sku_id": "1545533300171346131",
-                            "name": "Gardener's Friend",
+                            "sku_id": "1545191881489653833",
+                            "name": "Lunar Wolf",
                             "summary": "Give your avatar a new look.",
                             "type": 0,
                             "premium_type": 0,
@@ -2715,8 +2566,8 @@
                             }
                         },
                         {
-                            "sku_id": "1545534123182002246",
-                            "name": "Gardener's Friend",
+                            "sku_id": "1545193498725322762",
+                            "name": "Lunar Wolf Fur",
                             "summary": "Make your name stand out in servers and chats.",
                             "type": 2,
                             "premium_type": 0,
@@ -2759,20 +2610,20 @@
                         }
                     ],
                     "google_sku_ids": {
-                        "5": "1545540330932408490_1545542409478480003",
-                        "7": "1545540330932408490_1545542414771425280"
+                        "5": "1545544215512088738_1545548141569384448",
+                        "7": "1545544215512088738_1545548147819020328"
                     },
                     "is_first_party": true
                 },
                 {
-                    "sku_id": "1545530967433674853",
-                    "name": "Leafy Loaf",
-                    "summary": "Give your avatar a new look.",
-                    "store_listing_id": "1545530967433674853",
+                    "sku_id": "1545544361515819059",
+                    "name": "Tiger Bundle",
+                    "summary": "{joinedItems}",
+                    "store_listing_id": "1545544361515819059",
                     "styles": {
                         "background_colors": [
-                            8269621,
-                            14046758
+                            16119030,
+                            16575982
                         ],
                         "button_colors": [
                             5793266,
@@ -2792,12 +2643,12 @@
                                 "country_code": "US",
                                 "prices": [
                                     {
-                                        "amount": 599,
+                                        "amount": 1099,
                                         "currency": "usd",
                                         "exponent": 2
                                     },
                                     {
-                                        "amount": 4100,
+                                        "amount": 7600,
                                         "currency": "discord_orb",
                                         "exponent": 0
                                     }
@@ -2809,12 +2660,12 @@
                                 "country_code": "US",
                                 "prices": [
                                     {
-                                        "amount": 499,
+                                        "amount": 899,
                                         "currency": "usd",
                                         "exponent": 2
                                     },
                                     {
-                                        "amount": 4100,
+                                        "amount": 7600,
                                         "currency": "discord_orb",
                                         "exponent": 0
                                     }
@@ -2822,262 +2673,511 @@
                             }
                         }
                     },
-                    "preview_assets": null,
+                    "preview_assets": {
+                        "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1545544361515819059",
+                        "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1545544361515819059"
+                    },
                     "items": [
                         {
                             "type": 0,
-                            "sku_id": "1545530967433674853",
-                            "asset": "a_47202ff223e839a2ecf14a8b0f3ce7a1",
-                            "label": "A black cat lounges in a pile of autumn leaves."
-                        }
-                    ],
-                    "type": 0,
-                    "premium_type": 0,
-                    "category_sku_id": "1545530118263537684",
-                    "google_sku_ids": {
-                        "5": "1545530967433674853_1545533356903636992",
-                        "7": "1545530967433674853_1545533361991319713"
-                    },
-                    "is_first_party": true
-                },
-                {
-                    "sku_id": "1545533300171346131",
-                    "name": "Gardener's Friend",
-                    "summary": "Give your avatar a new look.",
-                    "store_listing_id": "1545533300171346131",
-                    "styles": {
-                        "background_colors": [
-                            8269621,
-                            14046758
-                        ],
-                        "button_colors": [
-                            5793266,
-                            5793266
-                        ],
-                        "confetti_colors": [
-                            43772,
-                            15774258,
-                            16414587,
-                            3000177,
-                            9739511
-                        ]
-                    },
-                    "prices": {
-                        "0": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 599,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    },
-                                    {
-                                        "amount": 4100,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
+                            "sku_id": "1545192163170582569",
+                            "asset": "a_f1c2e3a6005a8bfc3bec150569f7baca",
+                            "label": "Striped tiger ears and a curled tail."
                         },
-                        "4": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 499,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    },
-                                    {
-                                        "amount": 4100,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "preview_assets": null,
-                    "items": [
-                        {
-                            "type": 0,
-                            "sku_id": "1545533300171346131",
-                            "asset": "a_e73462eef71738e4e478a55ccea7823d",
-                            "label": "Bare branches with red berries encircle the avatar, a robin perched at the top."
-                        }
-                    ],
-                    "type": 0,
-                    "premium_type": 0,
-                    "category_sku_id": "1545530118263537684",
-                    "google_sku_ids": {
-                        "5": "1545533300171346131_1545534094304092271",
-                        "7": "1545533300171346131_1545534101858291762"
-                    },
-                    "is_first_party": true
-                },
-                {
-                    "sku_id": "1545533418073231482",
-                    "name": "Japanese Maple",
-                    "summary": "Give your avatar a new look.",
-                    "store_listing_id": "1545533418073231482",
-                    "styles": {
-                        "background_colors": [
-                            8269621,
-                            14046758
-                        ],
-                        "button_colors": [
-                            5793266,
-                            5793266
-                        ],
-                        "confetti_colors": [
-                            43772,
-                            15774258,
-                            16414587,
-                            3000177,
-                            9739511
-                        ]
-                    },
-                    "prices": {
-                        "0": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 599,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    },
-                                    {
-                                        "amount": 4100,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        },
-                        "4": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 499,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    },
-                                    {
-                                        "amount": 4100,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "preview_assets": null,
-                    "items": [
-                        {
-                            "type": 0,
-                            "sku_id": "1545533418073231482",
-                            "asset": "a_3fc0f92dd90e96adb617cd90f207f7f0",
-                            "label": "Red maple branches encircle the avatar."
-                        }
-                    ],
-                    "type": 0,
-                    "premium_type": 0,
-                    "category_sku_id": "1545530118263537684",
-                    "google_sku_ids": {
-                        "5": "1545533418073231482_1545534197874167848",
-                        "7": "1545533418073231482_1545534203104337930"
-                    },
-                    "is_first_party": true
-                },
-                {
-                    "sku_id": "1545534123182002246",
-                    "name": "Gardener's Friend",
-                    "summary": "Make your name stand out in servers and chats.",
-                    "store_listing_id": "1545534123182002246",
-                    "styles": {
-                        "background_colors": [
-                            8269621,
-                            14046758
-                        ],
-                        "button_colors": [
-                            5793266,
-                            5793266
-                        ],
-                        "confetti_colors": [
-                            43772,
-                            15774258,
-                            16414587,
-                            3000177,
-                            9739511
-                        ]
-                    },
-                    "prices": {
-                        "0": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 599,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    },
-                                    {
-                                        "amount": 4100,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        },
-                        "4": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 499,
-                                        "currency": "usd",
-                                        "exponent": 2
-                                    },
-                                    {
-                                        "amount": 4100,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "preview_assets": null,
-                    "items": [
                         {
                             "type": 2,
-                            "sku_id": "1545534123182002246",
-                            "asset": "nameplates/gardener's_friend/1545534123182002246/",
-                            "label": "A robin perches on a berry branch.",
-                            "palette": "sky"
+                            "sku_id": "1545193363958005790",
+                            "asset": "nameplates/tiger_print/1545193363958005790/",
+                            "label": "Sparkling tiger fur.",
+                            "palette": "black"
                         }
                     ],
-                    "type": 2,
+                    "type": 1000,
                     "premium_type": 0,
-                    "category_sku_id": "1545530118263537684",
+                    "category_sku_id": "1545190959015530626",
+                    "bundled_products": [
+                        {
+                            "sku_id": "1545192163170582569",
+                            "name": "Tiger",
+                            "summary": "Give your avatar a new look.",
+                            "type": 0,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "sku_id": "1545193363958005790",
+                            "name": "Tiger Print",
+                            "summary": "Make your name stand out in servers and chats.",
+                            "type": 2,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ],
                     "google_sku_ids": {
-                        "5": "1545534123182002246_1545536200008536144",
-                        "7": "1545534123182002246_1545536205196759040"
+                        "5": "1545544361515819059_1545548789081706637",
+                        "7": "1545544361515819059_1545548794114867402"
                     },
                     "is_first_party": true
                 },
                 {
-                    "sku_id": "1545534249216638986",
-                    "name": "Harvest Mouse",
-                    "summary": "Make your name stand out in servers and chats.",
-                    "store_listing_id": "1545534249216638986",
+                    "sku_id": "1545192554469920779",
+                    "name": "Alt Raccoon",
+                    "summary": "Give your avatar a new look.",
+                    "store_listing_id": "1545192554469920779",
                     "styles": {
                         "background_colors": [
-                            8269621,
-                            14046758
+                            16119030,
+                            16575982
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 0,
+                            "sku_id": "1545192554469920779",
+                            "asset": "a_628b1b338d3216a2a971083b2b2efffc",
+                            "label": "Pierced raccoon ears and a striped tail encircle the avatar"
+                        }
+                    ],
+                    "type": 0,
+                    "premium_type": 0,
+                    "category_sku_id": "1545190959015530626",
+                    "google_sku_ids": {
+                        "5": "1545192554469920779_1545194682248597534",
+                        "7": "1545192554469920779_1545194691358760970"
+                    },
+                    "is_first_party": true
+                },
+                {
+                    "sku_id": "1545192075551703201",
+                    "name": "Snow Leopard",
+                    "summary": "Give your avatar a new look.",
+                    "store_listing_id": "1545192075551703201",
+                    "styles": {
+                        "background_colors": [
+                            16119030,
+                            16575982
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 0,
+                            "sku_id": "1545192075551703201",
+                            "asset": "a_48ea85305bdf65404273af1efa467dc3",
+                            "label": "Spotted snow leopard ears and a curled tail."
+                        }
+                    ],
+                    "type": 0,
+                    "premium_type": 0,
+                    "category_sku_id": "1545190959015530626",
+                    "google_sku_ids": {
+                        "5": "1545192075551703201_1545193827189391440",
+                        "7": "1545192075551703201_1545193833065746603"
+                    },
+                    "is_first_party": true
+                },
+                {
+                    "sku_id": "1545191258564075630",
+                    "name": "Ribbon Kitten",
+                    "summary": "Give your avatar a new look.",
+                    "store_listing_id": "1545191258564075630",
+                    "styles": {
+                        "background_colors": [
+                            16119030,
+                            16575982
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 0,
+                            "sku_id": "1545191258564075630",
+                            "asset": "a_940cc58c4d1a1789c7d0ee55ce581278",
+                            "label": "Cat ears tied with pink bows above paws wearing a bell collar."
+                        }
+                    ],
+                    "type": 0,
+                    "premium_type": 0,
+                    "category_sku_id": "1545190959015530626",
+                    "google_sku_ids": {
+                        "5": "1545191258564075630_1545191536365412382",
+                        "7": "1545191258564075630_1545191541914730506"
+                    },
+                    "is_first_party": true
+                },
+                {
+                    "sku_id": "1545191973307154432",
+                    "name": "Bunny Babe",
+                    "summary": "Give your avatar a new look.",
+                    "store_listing_id": "1545191973307154432",
+                    "styles": {
+                        "background_colors": [
+                            16119030,
+                            16575982
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 0,
+                            "sku_id": "1545191973307154432",
+                            "asset": "a_2440982ce3fe9978fcf29cdac7cb4018",
+                            "label": "Pink bunny ears downturned with a purple bow on top."
+                        }
+                    ],
+                    "type": 0,
+                    "premium_type": 0,
+                    "category_sku_id": "1545190959015530626",
+                    "google_sku_ids": {
+                        "5": "1545191973307154432_1545192303893676102",
+                        "7": "1545191973307154432_1545192309333819392"
+                    },
+                    "is_first_party": true
+                },
+                {
+                    "sku_id": "1545191881489653833",
+                    "name": "Lunar Wolf",
+                    "summary": "Give your avatar a new look.",
+                    "store_listing_id": "1545191881489653833",
+                    "styles": {
+                        "background_colors": [
+                            16119030,
+                            16575982
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 0,
+                            "sku_id": "1545191881489653833",
+                            "asset": "a_389fc7b1f648159a29b4d3fa7cade94c",
+                            "label": "Iridescent wolf ears and a crescent-shaped wisp of fur."
+                        }
+                    ],
+                    "type": 0,
+                    "premium_type": 0,
+                    "category_sku_id": "1545190959015530626",
+                    "google_sku_ids": {
+                        "5": "1545191881489653833_1545193100333416479",
+                        "7": "1545191881489653833_1545193106113171506"
+                    },
+                    "is_first_party": true
+                },
+                {
+                    "sku_id": "1545564784341032960",
+                    "name": "Fox",
+                    "summary": "Give your avatar a new look.",
+                    "store_listing_id": "1545564784341032960",
+                    "styles": {
+                        "background_colors": [
+                            16119030,
+                            16575982
                         ],
                         "button_colors": [
                             5793266,
@@ -3131,25 +3231,296 @@
                     "items": [],
                     "type": 2000,
                     "premium_type": 0,
-                    "category_sku_id": "1545530118263537684",
+                    "category_sku_id": "1545190959015530626",
                     "variants": [
                         {
-                            "sku_id": "1545534249216638986",
-                            "name": "Harvest Mouse (Brown)",
+                            "sku_id": "1545564784341032960",
+                            "name": "Fox (Ears)",
                             "name_localizations": null,
-                            "summary": "Make your name stand out in servers and chats.",
+                            "summary": "Give your avatar a new look.",
                             "summary_localizations": null,
-                            "type": 2,
-                            "store_listing_id": "1545534249216638986",
-                            "category_sku_id": "1545530118263537684",
+                            "type": 0,
+                            "store_listing_id": "1545564784341032960",
+                            "category_sku_id": "1545190959015530626",
                             "premium_type": 0,
                             "items": [
                                 {
-                                    "type": 2,
-                                    "sku_id": "1545534249216638986",
-                                    "asset": "nameplates/harvest_mouse/1545534249216638986/",
-                                    "label": "A brown mouse nibbles berries atop a pile of red berries.",
-                                    "palette": "berry"
+                                    "type": 0,
+                                    "sku_id": "1545564784341032960",
+                                    "asset": "a_657d2766be35a27a8239f98c60e414c0",
+                                    "label": "Orange fox ears and a bushy tail encircle the avatar."
+                                }
+                            ],
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "variant_label": "Ears",
+                            "variant_value": "#fe7b2a",
+                            "base_variant_sku_id": "1545564784341032960",
+                            "base_variant_name": "Fox",
+                            "styles": null,
+                            "google_sku_ids": {
+                                "5": "1545564784341032960_1552380690341961768",
+                                "7": "1545564784341032960_1552380696323035279"
+                            },
+                            "badge_override": null,
+                            "hide_badge": null,
+                            "is_first_party": true
+                        },
+                        {
+                            "sku_id": "1545192700209528912",
+                            "name": "Fox",
+                            "name_localizations": null,
+                            "summary": "Give your avatar a new look.",
+                            "summary_localizations": null,
+                            "type": 0,
+                            "store_listing_id": "1545192700209528912",
+                            "category_sku_id": "1545190959015530626",
+                            "premium_type": 0,
+                            "items": [
+                                {
+                                    "type": 0,
+                                    "sku_id": "1545192700209528912",
+                                    "asset": "a_349e431d5f4befc7d5010364eefd8107",
+                                    "label": "Orange fox ears, fluffy cheeks, and a bushy tail encircle the avatar."
+                                }
+                            ],
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "variant_label": "Fluffy",
+                            "variant_value": "#f3c8ad",
+                            "base_variant_sku_id": "1545564784341032960",
+                            "base_variant_name": "Fox",
+                            "styles": null,
+                            "google_sku_ids": {
+                                "5": "1545192700209528912_1545193587451367435",
+                                "7": "1545192700209528912_1545193592581132348"
+                            },
+                            "badge_override": null,
+                            "hide_badge": null,
+                            "is_first_party": true
+                        }
+                    ],
+                    "google_sku_ids": {
+                        "5": "1545564784341032960_1552380690341961768",
+                        "7": "1545564784341032960_1552380696323035279"
+                    },
+                    "is_first_party": true
+                },
+                {
+                    "sku_id": "1545192768341807174",
+                    "name": "Boss Bear",
+                    "summary": "Give your avatar a new look.",
+                    "store_listing_id": "1545192768341807174",
+                    "styles": {
+                        "background_colors": [
+                            16119030,
+                            16575982
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [],
+                    "type": 2000,
+                    "premium_type": 0,
+                    "category_sku_id": "1545190959015530626",
+                    "variants": [
+                        {
+                            "sku_id": "1545192768341807174",
+                            "name": "Boss Bear (Polar)",
+                            "name_localizations": null,
+                            "summary": "Give your avatar a new look.",
+                            "summary_localizations": null,
+                            "type": 0,
+                            "store_listing_id": "1545192768341807174",
+                            "category_sku_id": "1545190959015530626",
+                            "premium_type": 0,
+                            "items": [
+                                {
+                                    "type": 0,
+                                    "sku_id": "1545192768341807174",
+                                    "asset": "a_456d475b768d6d3f3b1f76d2a3d9b475",
+                                    "label": "White polar bear ears"
+                                }
+                            ],
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 599,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 499,
+                                                "currency": "usd",
+                                                "exponent": 2
+                                            },
+                                            {
+                                                "amount": 4100,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            },
+                            "variant_label": "Polar",
+                            "variant_value": "#d9e3e2",
+                            "base_variant_sku_id": "1545192768341807174",
+                            "base_variant_name": "Boss Bear",
+                            "styles": null,
+                            "google_sku_ids": {
+                                "5": "1545192768341807174_1545196805464133683",
+                                "7": "1545192768341807174_1545196811441021028"
+                            },
+                            "badge_override": null,
+                            "hide_badge": null,
+                            "is_first_party": true
+                        },
+                        {
+                            "sku_id": "1545192974537986108",
+                            "name": "Boss Bear (Brown)",
+                            "name_localizations": null,
+                            "summary": "Give your avatar a new look.",
+                            "summary_localizations": null,
+                            "type": 0,
+                            "store_listing_id": "1545192974537986108",
+                            "category_sku_id": "1545190959015530626",
+                            "premium_type": 0,
+                            "items": [
+                                {
+                                    "type": 0,
+                                    "sku_id": "1545192974537986108",
+                                    "asset": "a_74ad27a006e3b3d3afb42fc49594c341",
+                                    "label": "Brown bear ears"
                                 }
                             ],
                             "prices": {
@@ -3189,35 +3560,34 @@
                                 }
                             },
                             "variant_label": "Brown",
-                            "variant_value": "#EA8551",
-                            "base_variant_sku_id": "1545534249216638986",
-                            "base_variant_name": "Harvest Mouse",
+                            "variant_value": "#834f4e",
+                            "base_variant_sku_id": "1545192768341807174",
+                            "base_variant_name": "Boss Bear",
                             "styles": null,
                             "google_sku_ids": {
-                                "5": "1545534249216638986_1545538214696194178",
-                                "7": "1545534249216638986_1545538220253515847"
+                                "5": "1545192974537986108_1545194183826997328",
+                                "7": "1545192974537986108_1545194190076379148"
                             },
                             "badge_override": null,
                             "hide_badge": null,
                             "is_first_party": true
                         },
                         {
-                            "sku_id": "1545534622782455918",
-                            "name": "Harvest Mouse (Gray)",
+                            "sku_id": "1545193090808283147",
+                            "name": "Boss Bear (Black)",
                             "name_localizations": null,
-                            "summary": "Make your name stand out in servers and chats.",
+                            "summary": "Give your avatar a new look.",
                             "summary_localizations": null,
-                            "type": 2,
-                            "store_listing_id": "1545534622782455918",
-                            "category_sku_id": "1545530118263537684",
+                            "type": 0,
+                            "store_listing_id": "1545193090808283147",
+                            "category_sku_id": "1545190959015530626",
                             "premium_type": 0,
                             "items": [
                                 {
-                                    "type": 2,
-                                    "sku_id": "1545534622782455918",
-                                    "asset": "nameplates/harvest_mouse/1545534622782455918/",
-                                    "label": "A gray mouse nibbles berries atop a pile of red berries.",
-                                    "palette": "sky"
+                                    "type": 0,
+                                    "sku_id": "1545193090808283147",
+                                    "asset": "a_ea728cadf2ed3756e7917719b38b713b",
+                                    "label": "Black bear ears"
                                 }
                             ],
                             "prices": {
@@ -3256,14 +3626,14 @@
                                     }
                                 }
                             },
-                            "variant_label": "Gray",
-                            "variant_value": "#AAAAAA",
-                            "base_variant_sku_id": "1545534249216638986",
-                            "base_variant_name": "Harvest Mouse",
+                            "variant_label": "Black",
+                            "variant_value": "#494a58",
+                            "base_variant_sku_id": "1545192768341807174",
+                            "base_variant_name": "Boss Bear",
                             "styles": null,
                             "google_sku_ids": {
-                                "5": "1545534622782455918_1545538576857567262",
-                                "7": "1545534622782455918_1545538581664235540"
+                                "5": "1545193090808283147_1545193529884541000",
+                                "7": "1545193090808283147_1545193535555375174"
                             },
                             "badge_override": null,
                             "hide_badge": null,
@@ -3271,20 +3641,248 @@
                         }
                     ],
                     "google_sku_ids": {
-                        "5": "1545534249216638986_1545538214696194178",
-                        "7": "1545534249216638986_1545538220253515847"
+                        "5": "1545192768341807174_1545196805464133683",
+                        "7": "1545192768341807174_1545196811441021028"
                     },
                     "is_first_party": true
                 },
                 {
-                    "sku_id": "1545536600677814393",
-                    "name": "Toadstools",
-                    "summary": "Make your name stand out in servers and chats.",
-                    "store_listing_id": "1545536600677814393",
+                    "sku_id": "1545192163170582569",
+                    "name": "Tiger",
+                    "summary": "Give your avatar a new look.",
+                    "store_listing_id": "1545192163170582569",
                     "styles": {
                         "background_colors": [
-                            8269621,
-                            14046758
+                            16119030,
+                            16575982
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 0,
+                            "sku_id": "1545192163170582569",
+                            "asset": "a_f1c2e3a6005a8bfc3bec150569f7baca",
+                            "label": "Striped tiger ears and a curled tail."
+                        }
+                    ],
+                    "type": 0,
+                    "premium_type": 0,
+                    "category_sku_id": "1545190959015530626",
+                    "google_sku_ids": {
+                        "5": "1545192163170582569_1545194667891499058",
+                        "7": "1545192163170582569_1545194673948205157"
+                    },
+                    "is_first_party": true
+                },
+                {
+                    "sku_id": "1545192421854285834",
+                    "name": "Fox Guardian",
+                    "summary": "Give your avatar a new look.",
+                    "store_listing_id": "1545192421854285834",
+                    "styles": {
+                        "background_colors": [
+                            16119030,
+                            16575982
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 0,
+                            "sku_id": "1545192421854285834",
+                            "asset": "a_3288867bbacde931ce5f688560f9aa1c",
+                            "label": "Cream fox ears with red tassels and bells."
+                        }
+                    ],
+                    "type": 0,
+                    "premium_type": 0,
+                    "category_sku_id": "1545190959015530626",
+                    "google_sku_ids": {
+                        "5": "1545192421854285834_1545194026586873876",
+                        "7": "1545192421854285834_1545194031682691102"
+                    },
+                    "is_first_party": true
+                },
+                {
+                    "sku_id": "1545192639022768209",
+                    "name": "Red Panda",
+                    "summary": "Give your avatar a new look.",
+                    "store_listing_id": "1545192639022768209",
+                    "styles": {
+                        "background_colors": [
+                            16119030,
+                            16575982
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 0,
+                            "sku_id": "1545192639022768209",
+                            "asset": "a_dffbc02bef8af95f3b37e72d33c49824",
+                            "label": "Red panda ears and a striped tail encircle the avatar."
+                        }
+                    ],
+                    "type": 0,
+                    "premium_type": 0,
+                    "category_sku_id": "1545190959015530626",
+                    "google_sku_ids": {
+                        "5": "1545192639022768209_1545195243979280574",
+                        "7": "1545192639022768209_1545195249788518452"
+                    },
+                    "is_first_party": true
+                },
+                {
+                    "sku_id": "1545193669932482620",
+                    "name": "Alt Raccoon Fur",
+                    "summary": "Make your name stand out in servers and chats.",
+                    "store_listing_id": "1545193669932482620",
+                    "styles": {
+                        "background_colors": [
+                            16119030,
+                            16575982
                         ],
                         "button_colors": [
                             5793266,
@@ -3338,30 +3936,30 @@
                     "items": [
                         {
                             "type": 2,
-                            "sku_id": "1545536600677814393",
-                            "asset": "nameplates/toadstools/1545536600677814393/",
-                            "label": "Red-capped toadstools grow in a patch of grass.",
-                            "palette": "teal"
+                            "sku_id": "1545193669932482620",
+                            "asset": "nameplates/alt_raccoon_fur/1545193669932482620/",
+                            "label": "Gray striped fur with a heart pendant charm.",
+                            "palette": "black"
                         }
                     ],
                     "type": 2,
                     "premium_type": 0,
-                    "category_sku_id": "1545530118263537684",
+                    "category_sku_id": "1545190959015530626",
                     "google_sku_ids": {
-                        "5": "1545536600677814393_1545540769157484554",
-                        "7": "1545536600677814393_1545540774559752212"
+                        "5": "1545193669932482620_1545195528470396979",
+                        "7": "1545193669932482620_1545195534170464256"
                     },
                     "is_first_party": true
                 },
                 {
-                    "sku_id": "1545536891753857144",
-                    "name": "Autumn Garden",
-                    "summary": "Show this effect when others view your profile.",
-                    "store_listing_id": "1545536891753857144",
+                    "sku_id": "1545193190783586314",
+                    "name": "Leopard Print",
+                    "summary": "Make your name stand out in servers and chats.",
+                    "store_listing_id": "1545193190783586314",
                     "styles": {
                         "background_colors": [
-                            8269621,
-                            14046758
+                            16119030,
+                            16575982
                         ],
                         "button_colors": [
                             5793266,
@@ -3414,55 +4012,31 @@
                     "preview_assets": null,
                     "items": [
                         {
-                            "type": 1,
-                            "sku_id": "1545536891753857144",
-                            "title": "Autumn Garden",
-                            "description": "Show this effect when others view your profile.",
-                            "accessibilityLabel": "Sunflowers bloom and pumpkins grow in the drizzling rain.",
-                            "animationType": 1,
-                            "staticFrameSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/c57a7f94da5b109e88920de840a391a09c23821af0ae85014169ef5ae0b7f2d4",
-                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/665d257e9ff3475f7d5ca301191bfc7d95180dd1c119293fbc9fb0303abd0a98",
-                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/41e1031b1da05bbb69950cadbdca77c9206a5363d32ca773e473c6a266fac96d",
-                            "effects": [
-                                {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/b09bd1d5ff1a75b3c55bacfd013b758df2b4a4bbb175fb7c964407fe67e8544a",
-                                    "loop": false,
-                                    "duration": 4980,
-                                    "start": 0,
-                                    "loopDelay": 0,
-                                    "zIndex": 110,
-                                    "randomizedSources": []
-                                },
-                                {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/7379e3f6d88b1d35c7b0180acec64acd2f7b2d39728c7f143aaaa5ad9f4ca4c8",
-                                    "loop": true,
-                                    "duration": 4980,
-                                    "start": 4981,
-                                    "loopDelay": 0,
-                                    "zIndex": 100,
-                                    "randomizedSources": []
-                                }
-                            ]
+                            "type": 2,
+                            "sku_id": "1545193190783586314",
+                            "asset": "nameplates/leopard_print/1545193190783586314/",
+                            "label": "Sparkling leopard print fur.",
+                            "palette": "black"
                         }
                     ],
-                    "type": 1,
+                    "type": 2,
                     "premium_type": 0,
-                    "category_sku_id": "1545530118263537684",
+                    "category_sku_id": "1545190959015530626",
                     "google_sku_ids": {
-                        "5": "1545536891753857144_1549841296233996358",
-                        "7": "1545536891753857144_1549841303506788572"
+                        "5": "1545193190783586314_1545193486570098768",
+                        "7": "1545193190783586314_1545193492656160888"
                     },
                     "is_first_party": true
                 },
                 {
-                    "sku_id": "1545538298884259930",
-                    "name": "Odette",
-                    "summary": "Show this effect when others view your profile.",
-                    "store_listing_id": "1545538298884259930",
+                    "sku_id": "1545193498725322762",
+                    "name": "Lunar Wolf Fur",
+                    "summary": "Make your name stand out in servers and chats.",
+                    "store_listing_id": "1545193498725322762",
                     "styles": {
                         "background_colors": [
-                            8269621,
-                            14046758
+                            16119030,
+                            16575982
                         ],
                         "button_colors": [
                             5793266,
@@ -3515,66 +4089,114 @@
                     "preview_assets": null,
                     "items": [
                         {
-                            "type": 1,
-                            "sku_id": "1545538298884259930",
-                            "title": "Odette",
-                            "description": "Show this effect when others view your profile.",
-                            "accessibilityLabel": "A swan glides on water as maple leaves fall around it.",
-                            "animationType": 2,
-                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/2ea54999168210cb9b989fa7942891211248431b9f807b24ba51eb43e8a4d819",
-                            "reducedMotionSrc": "https://cdn.discordapp.com/media/v1/collectibles-shop/7b52cec2f1b08e7d66338e0f741bbb5b0eec804341af1ba4f6d3c9204237eca0",
-                            "effects": [
-                                {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/db755b9de7681c2eb53c21739e83d625d86d9a3ff24b64c263ae384bc3f3dae5",
-                                    "loop": false,
-                                    "duration": 4981,
-                                    "start": 0,
-                                    "loopDelay": 0,
-                                    "zIndex": 110,
-                                    "randomizedSources": []
-                                },
-                                {
-                                    "src": "https://cdn.discordapp.com/media/v1/collectibles-shop/42b9a68dea261dcde438a0efd924bc131d788d7cd2900ee6f362bbbd3a0416ea",
-                                    "loop": true,
-                                    "duration": 4980,
-                                    "start": 7981,
-                                    "loopDelay": 3000,
-                                    "zIndex": 100,
-                                    "randomizedSources": []
-                                }
-                            ]
+                            "type": 2,
+                            "sku_id": "1545193498725322762",
+                            "asset": "nameplates/lunar_wolf_fur/1545193498725322762/",
+                            "label": "Iridescent blue and pink wolf fur with sparkles.",
+                            "palette": "sky"
                         }
                     ],
-                    "type": 1,
+                    "type": 2,
                     "premium_type": 0,
-                    "category_sku_id": "1545530118263537684",
+                    "category_sku_id": "1545190959015530626",
                     "google_sku_ids": {
-                        "5": "1545538298884259930_1545539753968009266",
-                        "7": "1545538298884259930_1545539760322257078"
+                        "5": "1545193498725322762_1545196150909566996",
+                        "7": "1545193498725322762_1545196156420620358"
+                    },
+                    "is_first_party": true
+                },
+                {
+                    "sku_id": "1545193363958005790",
+                    "name": "Tiger Print",
+                    "summary": "Make your name stand out in servers and chats.",
+                    "store_listing_id": "1545193363958005790",
+                    "styles": {
+                        "background_colors": [
+                            16119030,
+                            16575982
+                        ],
+                        "button_colors": [
+                            5793266,
+                            5793266
+                        ],
+                        "confetti_colors": [
+                            43772,
+                            15774258,
+                            16414587,
+                            3000177,
+                            9739511
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 599,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 499,
+                                        "currency": "usd",
+                                        "exponent": 2
+                                    },
+                                    {
+                                        "amount": 4100,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 2,
+                            "sku_id": "1545193363958005790",
+                            "asset": "nameplates/tiger_print/1545193363958005790/",
+                            "label": "Sparkling tiger fur.",
+                            "palette": "black"
+                        }
+                    ],
+                    "type": 2,
+                    "premium_type": 0,
+                    "category_sku_id": "1545190959015530626",
+                    "google_sku_ids": {
+                        "5": "1545193363958005790_1545197419367637012",
+                        "7": "1545193363958005790_1545197425407303760"
                     },
                     "is_first_party": true
                 }
             ],
-            "hero_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/f9bca9ab15cb116106fd293fac4fb4d206c467f8ac866e3b209341ef712b9e28",
-            "hero_logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/36f9c78d314bb50ea57f8a257fa75b9045080baf6450a0af88757b945381997a",
-            "catalog_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/31ccd09faaccb7d2976a1f68e7394de25e26f8299c4f49309bf4ff384db31e78",
-            "featured_block_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/b357d6e61234d1825dd96079a1d7d954eb4907ba7aca96c76f4399c4481888b3",
-            "logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/36f9c78d314bb50ea57f8a257fa75b9045080baf6450a0af88757b945381997a",
-            "pdp_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/add1be10ca4e783adf9ae566b157d9325f339fa6d5d9863d66c6ffbe6e2c90ae",
-            "mobile_hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/f72782bf9fd09ae423e611f4fb72f6fd16a7f6a49eb0340a499be3d899b10e35",
-            "mobile_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/a7c81816de9d22dd150006476a7ddf944319b7bc5d05ca7dba5a94c282424a21",
-            "mobile_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1229ba78afba139a07b12d50cbbb0b76a7d4311f6a43064100b8115ac4bf6325",
+            "hero_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/48769358fc3355095b3fc2b51dc35d67dfaa793cb4e64da05409ea523991a044",
+            "hero_logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/46fa1181ceac1a864c4deb3cbfabbed88afc56f3341cab47a873009c639fde16",
+            "catalog_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/3153dc41145fad08d9e6d850be72f67457b10acffd115af7670525e9d02cc251",
+            "featured_block_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/1b7d86fa463a6c221899eaa6c94b0b8b5e128467114c5106672f07a658445dfb",
+            "logo_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/46fa1181ceac1a864c4deb3cbfabbed88afc56f3341cab47a873009c639fde16",
+            "pdp_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/d6b4ecc1508132570dfbddb9e5f2eb96ef33538535e3f45a7b4b2d32c1d23ec7",
+            "mobile_hero_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/d13958d2536c9b360cf4ad7837d0571d80b7c6a8612afcd0a5556b5a7bf981cc",
+            "mobile_banner_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/a0e503c5cfcd5a181bef508b066b3a68fbf20fc4e95ea0c279c152cea3ed16b5",
+            "mobile_bg_url": "https://cdn.discordapp.com/media/v1/collectibles-shop/9e5d2185c7dbb69cdfd25e74e7c4439d43b3e84a03a441f14b75797c782428c2",
             "hero_banner_display_config": {
                 "desktop_max_height": null,
                 "mobile_max_height": null,
                 "responsive": null,
-                "background_style": "linear-gradient(180deg, #7E2F35 0%, #D65626 100%)"
-            },
-            "hero_logo_display_config": {
-                "desktop_max_height": 110,
-                "mobile_max_height": null,
-                "responsive": null,
-                "background_style": null
+                "background_style": "linear-gradient(180deg, #F5F4F6 0%, #FCEDEE 100%)"
             }
         },
         {
