@@ -4,10 +4,31 @@
             "type": 4,
             "version": 98,
             "title": "Cauldron Chaos",
-            "body": "Something spooky is brewing. Grab new Halloween items before they're gone.",
+            "body": "Something spooky is brewing. Grab new Halloween items before they’re gone.",
             "asset": "https://cdn.discordapp.com/media/v1/collectibles-shop/8e24f91bf65a27cd30bf16dab6c8126deb92122259e33928d71aad372b29946b",
             "dismissible_content": 422,
-            "ref_target_background": null,
+            "ref_target_background": {
+                "style": {
+                    "resting": {
+                        "light": null,
+                        "dark": null
+                    },
+                    "hovered": {
+                        "light": null,
+                        "dark": null
+                    }
+                },
+                "asset": {
+                    "resting": {
+                        "light": null,
+                        "dark": null
+                    },
+                    "hovered": {
+                        "light": "https://cdn.discordapp.com/media/v1/collectibles-shop/3fffdc85cbdf468ed93cd6d91338ff63b3f6e1222f9738fb145b4fc78ded19ff",
+                        "dark": "https://cdn.discordapp.com/media/v1/collectibles-shop/3fffdc85cbdf468ed93cd6d91338ff63b3f6e1222f9738fb145b4fc78ded19ff"
+                    }
+                }
+            },
             "badge_icon": "TagIcon",
             "badge_text": "Promo",
             "show_hover_gradient": true
