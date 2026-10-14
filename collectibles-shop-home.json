@@ -5,7 +5,7 @@
             "category_sku_id": "1551701287131947078",
             "name": "Cauldron Chaos",
             "category_store_listing_id": "1551701287131947078",
-            "unpublished_at": null,
+            "unpublished_at": "2026-11-03T07:59:59+00:00",
             "summary": " ",
             "ranked_sku_ids": [
                 "1551710254192926830",
@@ -1881,6 +1881,7 @@
             "name": "Cauldron Chaos",
             "summary": " ",
             "store_listing_id": "1551701287131947078",
+            "unpublished_at": "2026-11-03T07:59:59+00:00",
             "styles": {
                 "background_colors": [
                     1183774,
@@ -1917,6 +1918,7 @@
                     "name": "Lottie's Cauldron Bundle",
                     "summary": "{joinedItems}",
                     "store_listing_id": "1551710254192926830",
+                    "unpublished_at": "2026-11-03T07:59:59+00:00",
                     "styles": {
                         "background_colors": [
                             1183774,
@@ -2244,6 +2246,7 @@
                     "name": "Witching Hour Bundle",
                     "summary": "{joinedItems}",
                     "store_listing_id": "1551710917232959569",
+                    "unpublished_at": "2026-11-03T07:59:59+00:00",
                     "styles": {
                         "background_colors": [
                             1183774,
@@ -2450,6 +2453,7 @@
                     "name": "Hex's Hat",
                     "summary": "Give your avatar a new look.",
                     "store_listing_id": "1551702173111554158",
+                    "unpublished_at": "2026-11-03T07:59:59+00:00",
                     "styles": {
                         "background_colors": [
                             1183774,
@@ -2515,6 +2519,7 @@
                     "name": "Witch Dust",
                     "summary": "Give your avatar a new look.",
                     "store_listing_id": "1551708342672560208",
+                    "unpublished_at": "2026-11-03T07:59:59+00:00",
                     "styles": {
                         "background_colors": [
                             1183774,
@@ -2580,6 +2585,7 @@
                     "name": "Summoning Circle",
                     "summary": "Give your avatar a new look.",
                     "store_listing_id": "1551708446984896635",
+                    "unpublished_at": "2026-11-03T07:59:59+00:00",
                     "styles": {
                         "background_colors": [
                             1183774,
@@ -2645,6 +2651,7 @@
                     "name": "Grinning Gourds",
                     "summary": "Give your avatar a new look.",
                     "store_listing_id": "1551708537984389240",
+                    "unpublished_at": "2026-11-03T07:59:59+00:00",
                     "styles": {
                         "background_colors": [
                             1183774,
@@ -2710,6 +2717,7 @@
                     "name": "Witch Dust",
                     "summary": "Make your name stand out in servers and chats.",
                     "store_listing_id": "1551708652665315368",
+                    "unpublished_at": "2026-11-03T07:59:59+00:00",
                     "styles": {
                         "background_colors": [
                             1183774,
@@ -2776,6 +2784,7 @@
                     "name": "Night Flight",
                     "summary": "Make your name stand out in servers and chats.",
                     "store_listing_id": "1551708828741931039",
+                    "unpublished_at": "2026-11-03T07:59:59+00:00",
                     "styles": {
                         "background_colors": [
                             1183774,
@@ -2842,6 +2851,7 @@
                     "name": "Lottie's Cauldron",
                     "summary": "Show this effect when others view your profile.",
                     "store_listing_id": "1551709318724849664",
+                    "unpublished_at": "2026-11-03T07:59:59+00:00",
                     "styles": {
                         "background_colors": [
                             1183774,
@@ -2941,6 +2951,7 @@
                     "name": "Witching Hour",
                     "summary": "Show this effect when others view your profile.",
                     "store_listing_id": "1551709828034994176",
+                    "unpublished_at": "2026-11-03T07:59:59+00:00",
                     "styles": {
                         "background_colors": [
                             1183774,
