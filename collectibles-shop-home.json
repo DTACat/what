@@ -3484,28 +3484,28 @@
                             "label": "Colorful sparkles and stars line the top and bottom of the profile",
                             "layers": [
                                 {
-                                    "id": "1551710112253485077",
+                                    "id": "1559997383805501603",
                                     "type": "staple",
                                     "order": "front",
                                     "anchor": "top",
                                     "responsive": false
                                 },
                                 {
-                                    "id": "1551710117571854356",
+                                    "id": "1559997389308170333",
                                     "type": "staple",
                                     "order": "front",
                                     "anchor": "bottom",
                                     "responsive": false
                                 },
                                 {
-                                    "id": "1551710121405587537",
+                                    "id": "1559997395012558969",
                                     "type": "staple",
                                     "order": "back",
                                     "anchor": "top",
                                     "responsive": false
                                 },
                                 {
-                                    "id": "1551710127608954921",
+                                    "id": "1559997400599367730",
                                     "type": "staple",
                                     "order": "back",
                                     "anchor": "bottom",
