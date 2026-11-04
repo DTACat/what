@@ -12,15 +12,15 @@
                 "1298745361602449479",
                 "1333912750274904064",
                 "1342211853484429445",
-                "1565507897952174111",
                 "1427463138634109025",
+                "1427463138646954036",
                 "1427463138634109026",
-                "1427463138634109027",
-                "1332505467980873728",
-                "1427463138634109028",
-                "1351351503339913256",
                 "1427463138646954035",
-                "1427463138646954036"
+                "1427463138634109027",
+                "1351351503339913256",
+                "1565507897952174111",
+                "1427463138634109028",
+                "1332505467980873728"
             ],
             "title": "Introducing Discord Orbs",
             "mobile_title": "DISCORD ORBS",
@@ -2641,15 +2641,15 @@
                 "1298745361602449479",
                 "1333912750274904064",
                 "1342211853484429445",
-                "1565507897952174111",
                 "1427463138634109025",
+                "1427463138646954036",
                 "1427463138634109026",
-                "1427463138634109027",
-                "1332505467980873728",
-                "1427463138634109028",
-                "1351351503339913256",
                 "1427463138646954035",
-                "1427463138646954036"
+                "1427463138634109027",
+                "1351351503339913256",
+                "1565507897952174111",
+                "1427463138634109028",
+                "1332505467980873728"
             ],
             "hero_block_title": "Introducing Discord Orbs",
             "mobile_hero_block_title": "DISCORD ORBS",
@@ -2767,6 +2767,582 @@
                     "preview_assets": null,
                     "items": [],
                     "type": 3000,
+                    "premium_type": 0,
+                    "category_sku_id": "1332505418219655258",
+                    "google_sku_ids": {},
+                    "is_first_party": true
+                },
+                {
+                    "sku_id": "1427463138634109025",
+                    "name": "Infinite Swirl Bundle",
+                    "summary": "{joinedItems}",
+                    "store_listing_id": "1427463138634109025",
+                    "styles": {
+                        "background_colors": [
+                            1335620,
+                            137742
+                        ],
+                        "button_colors": [
+                            165687,
+                            26954
+                        ],
+                        "confetti_colors": [
+                            15706103,
+                            11945665,
+                            5682099,
+                            1737113,
+                            7430319,
+                            11454463
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 8900,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 8900,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": {
+                        "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1427463138634109025",
+                        "fg_video": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-video/d1010f900b63aef13bb248f56f749c222340741e68336a9e16d9d4f85e13c573",
+                        "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1427463138634109025"
+                    },
+                    "items": [
+                        {
+                            "type": 0,
+                            "sku_id": "1427463138634109027",
+                            "asset": "a_f824f7f3d04732ce5e2ff0f3f05d1937",
+                            "label": "Purple, cyan, and magenta rings spin around the avatar in endless rotating motion."
+                        },
+                        {
+                            "type": 1,
+                            "sku_id": "1427463138634109028",
+                            "title": "Infinite Swirl",
+                            "description": "Show this effect when others view your profile.",
+                            "accessibilityLabel": "A cosmic vortex of swirling purple and cyan light pulses across the profile before settling.",
+                            "animationType": 2,
+                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/4b7152a9817541a0e6897108ce9e02ab005c726704064820f286641e4ac6b9ae",
+                            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/f55a04e4007ec4f14d0049b009ba37d643c4a1731568438f8dc5abbfba64544a",
+                            "effects": [
+                                {
+                                    "src": "https://cdn.discordapp.com/assets/content/1fb36bb69c8ada1e0ab81272c038591b60a4e74e9046675bc845a6c48778949a",
+                                    "loop": false,
+                                    "height": 880,
+                                    "width": 450,
+                                    "duration": 3983,
+                                    "start": 0,
+                                    "loopDelay": 0,
+                                    "position": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "zIndex": 100,
+                                    "randomizedSources": []
+                                },
+                                {
+                                    "src": "https://cdn.discordapp.com/assets/content/f118567c8688b211d0b2233d9013b08950c3a62de9e50803ec4da27a24d74daf",
+                                    "loop": true,
+                                    "height": 880,
+                                    "width": 450,
+                                    "duration": 2988,
+                                    "start": 6200,
+                                    "loopDelay": 3000,
+                                    "position": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "zIndex": 101,
+                                    "randomizedSources": []
+                                }
+                            ]
+                        },
+                        {
+                            "type": 2,
+                            "sku_id": "1427463138646954035",
+                            "asset": "nameplates/orb/infinite_swirl/",
+                            "label": "Glowing purple and cyan rings spiral and pulse across the nameplate with a soft glow.",
+                            "palette": "violet"
+                        }
+                    ],
+                    "type": 1000,
+                    "premium_type": 0,
+                    "category_sku_id": "1332505418219655258",
+                    "bundled_products": [
+                        {
+                            "sku_id": "1427463138634109027",
+                            "name": "Infinite Swirl",
+                            "summary": "Give your avatar a new look.",
+                            "type": 0,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 3500,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 3500,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "sku_id": "1427463138634109028",
+                            "name": "Infinite Swirl",
+                            "summary": "Show this effect when others view your profile.",
+                            "type": 1,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 3500,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 3500,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        },
+                        {
+                            "sku_id": "1427463138646954035",
+                            "name": "Infinite Swirl",
+                            "summary": "Make your name stand out in servers and chats.",
+                            "type": 2,
+                            "premium_type": 0,
+                            "prices": {
+                                "0": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 3500,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                },
+                                "4": {
+                                    "country_prices": {
+                                        "country_code": "US",
+                                        "prices": [
+                                            {
+                                                "amount": 3500,
+                                                "currency": "discord_orb",
+                                                "exponent": 0
+                                            }
+                                        ]
+                                    }
+                                }
+                            }
+                        }
+                    ],
+                    "google_sku_ids": {},
+                    "is_first_party": true
+                },
+                {
+                    "sku_id": "1427463138646954036",
+                    "name": "Magic Mists",
+                    "summary": "Make your name stand out in servers and chats.",
+                    "store_listing_id": "1427463138646954036",
+                    "styles": {
+                        "background_colors": [
+                            1335620,
+                            137742
+                        ],
+                        "button_colors": [
+                            165687,
+                            26954
+                        ],
+                        "confetti_colors": [
+                            15706103,
+                            11945665,
+                            5682099,
+                            1737113,
+                            7430319,
+                            11454463
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 3500,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 3500,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 2,
+                            "sku_id": "1427463138646954036",
+                            "asset": "nameplates/orb/magical_mist/",
+                            "label": "Blue and cyan mists flow gently across the nameplate with a soft ethereal glow.",
+                            "palette": "cobalt"
+                        }
+                    ],
+                    "type": 2,
+                    "premium_type": 0,
+                    "category_sku_id": "1332505418219655258",
+                    "google_sku_ids": {},
+                    "is_first_party": true
+                },
+                {
+                    "sku_id": "1427463138634109026",
+                    "name": "Magic Mists",
+                    "summary": "Give your avatar a new look.",
+                    "store_listing_id": "1427463138634109026",
+                    "styles": {
+                        "background_colors": [
+                            1335620,
+                            137742
+                        ],
+                        "button_colors": [
+                            165687,
+                            26954
+                        ],
+                        "confetti_colors": [
+                            15706103,
+                            11945665,
+                            5682099,
+                            1737113,
+                            7430319,
+                            11454463
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 3500,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 3500,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 0,
+                            "sku_id": "1427463138634109026",
+                            "asset": "a_75348082d14b5097708444fca20a09e0",
+                            "label": "Cyan and purple neon glow swirls around the avatar with ethereal mist effects."
+                        }
+                    ],
+                    "type": 0,
+                    "premium_type": 0,
+                    "category_sku_id": "1332505418219655258",
+                    "google_sku_ids": {},
+                    "is_first_party": true
+                },
+                {
+                    "sku_id": "1427463138646954035",
+                    "name": "Infinite Swirl",
+                    "summary": "Make your name stand out in servers and chats.",
+                    "store_listing_id": "1427463138646954035",
+                    "styles": {
+                        "background_colors": [
+                            1335620,
+                            137742
+                        ],
+                        "button_colors": [
+                            165687,
+                            26954
+                        ],
+                        "confetti_colors": [
+                            15706103,
+                            11945665,
+                            5682099,
+                            1737113,
+                            7430319,
+                            11454463
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 3500,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 3500,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 2,
+                            "sku_id": "1427463138646954035",
+                            "asset": "nameplates/orb/infinite_swirl/",
+                            "label": "Glowing purple and cyan rings spiral and pulse across the nameplate with a soft glow.",
+                            "palette": "violet"
+                        }
+                    ],
+                    "type": 2,
+                    "premium_type": 0,
+                    "category_sku_id": "1332505418219655258",
+                    "google_sku_ids": {},
+                    "is_first_party": true
+                },
+                {
+                    "sku_id": "1427463138634109027",
+                    "name": "Infinite Swirl",
+                    "summary": "Give your avatar a new look.",
+                    "store_listing_id": "1427463138634109027",
+                    "styles": {
+                        "background_colors": [
+                            1335620,
+                            137742
+                        ],
+                        "button_colors": [
+                            165687,
+                            26954
+                        ],
+                        "confetti_colors": [
+                            15706103,
+                            11945665,
+                            5682099,
+                            1737113,
+                            7430319,
+                            11454463
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 3500,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 3500,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 0,
+                            "sku_id": "1427463138634109027",
+                            "asset": "a_f824f7f3d04732ce5e2ff0f3f05d1937",
+                            "label": "Purple, cyan, and magenta rings spin around the avatar in endless rotating motion."
+                        }
+                    ],
+                    "type": 0,
+                    "premium_type": 0,
+                    "category_sku_id": "1332505418219655258",
+                    "google_sku_ids": {},
+                    "is_first_party": true
+                },
+                {
+                    "sku_id": "1351351503339913256",
+                    "name": "Magic Mists",
+                    "summary": "Show this effect when others view your profile.",
+                    "store_listing_id": "1351351503339913256",
+                    "styles": {
+                        "background_colors": [
+                            1335620,
+                            137742
+                        ],
+                        "button_colors": [
+                            165687,
+                            26954
+                        ],
+                        "confetti_colors": [
+                            15706103,
+                            11945665,
+                            5682099,
+                            1737113,
+                            7430319,
+                            11454463
+                        ]
+                    },
+                    "prices": {
+                        "0": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 3500,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        },
+                        "4": {
+                            "country_prices": {
+                                "country_code": "US",
+                                "prices": [
+                                    {
+                                        "amount": 3500,
+                                        "currency": "discord_orb",
+                                        "exponent": 0
+                                    }
+                                ]
+                            }
+                        }
+                    },
+                    "preview_assets": null,
+                    "items": [
+                        {
+                            "type": 1,
+                            "sku_id": "1351351503339913256",
+                            "title": "Magic Mists",
+                            "description": "Show this effect when others view your profile.",
+                            "accessibilityLabel": "A mystical wave of blue and purple liquid mist swirls across the profile and leaves a trail of sparkles in its wake.",
+                            "animationType": 2,
+                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/c3584d52591bb5aff2e76076fef76983c915dd36905377976d826c2792a6c3d4",
+                            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/1a6451793d9262b1622fcce87cee6a5f7e9cc744cdd2e8a592048292416666af",
+                            "effects": [
+                                {
+                                    "src": "https://cdn.discordapp.com/assets/content/fdb8865d25c8dff8fb2f8f54a45727962d704fe2b195e5a89ecc8b83fcaf9d5a",
+                                    "loop": true,
+                                    "height": 880,
+                                    "width": 450,
+                                    "duration": 3901,
+                                    "start": 0,
+                                    "loopDelay": 7500,
+                                    "position": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "zIndex": 100,
+                                    "randomizedSources": []
+                                },
+                                {
+                                    "src": "https://cdn.discordapp.com/assets/content/d841d5ec632d017baac4dcfa2b5d8f9c9e6da970c76734e09708052a04aac48d",
+                                    "loop": true,
+                                    "height": 880,
+                                    "width": 450,
+                                    "duration": 3735,
+                                    "start": 7500,
+                                    "loopDelay": 3500,
+                                    "position": {
+                                        "x": 0,
+                                        "y": 0
+                                    },
+                                    "zIndex": 101,
+                                    "randomizedSources": []
+                                }
+                            ]
+                        }
+                    ],
+                    "type": 1,
                     "premium_type": 0,
                     "category_sku_id": "1332505418219655258",
                     "google_sku_ids": {},
@@ -2991,419 +3567,6 @@
                     "is_first_party": true
                 },
                 {
-                    "sku_id": "1427463138634109025",
-                    "name": "Infinite Swirl Bundle",
-                    "summary": "{joinedItems}",
-                    "store_listing_id": "1427463138634109025",
-                    "styles": {
-                        "background_colors": [
-                            1335620,
-                            137742
-                        ],
-                        "button_colors": [
-                            165687,
-                            26954
-                        ],
-                        "confetti_colors": [
-                            15706103,
-                            11945665,
-                            5682099,
-                            1737113,
-                            7430319,
-                            11454463
-                        ]
-                    },
-                    "prices": {
-                        "0": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 8900,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        },
-                        "4": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 8900,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "preview_assets": {
-                        "fg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-static/1427463138634109025",
-                        "fg_video": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-fg-video/d1010f900b63aef13bb248f56f749c222340741e68336a9e16d9d4f85e13c573",
-                        "bg_static": "https://cdn.discordapp.com/media/v1/collectibles-shop/bundle-bg-static/1427463138634109025"
-                    },
-                    "items": [
-                        {
-                            "type": 0,
-                            "sku_id": "1427463138634109027",
-                            "asset": "a_f824f7f3d04732ce5e2ff0f3f05d1937",
-                            "label": "Purple, cyan, and magenta rings spin around the avatar in endless rotating motion."
-                        },
-                        {
-                            "type": 1,
-                            "sku_id": "1427463138634109028",
-                            "title": "Infinite Swirl",
-                            "description": "Show this effect when others view your profile.",
-                            "accessibilityLabel": "A cosmic vortex of swirling purple and cyan light pulses across the profile before settling.",
-                            "animationType": 2,
-                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/4b7152a9817541a0e6897108ce9e02ab005c726704064820f286641e4ac6b9ae",
-                            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/f55a04e4007ec4f14d0049b009ba37d643c4a1731568438f8dc5abbfba64544a",
-                            "effects": [
-                                {
-                                    "src": "https://cdn.discordapp.com/assets/content/1fb36bb69c8ada1e0ab81272c038591b60a4e74e9046675bc845a6c48778949a",
-                                    "loop": false,
-                                    "height": 880,
-                                    "width": 450,
-                                    "duration": 3983,
-                                    "start": 0,
-                                    "loopDelay": 0,
-                                    "position": {
-                                        "x": 0,
-                                        "y": 0
-                                    },
-                                    "zIndex": 100,
-                                    "randomizedSources": []
-                                },
-                                {
-                                    "src": "https://cdn.discordapp.com/assets/content/f118567c8688b211d0b2233d9013b08950c3a62de9e50803ec4da27a24d74daf",
-                                    "loop": true,
-                                    "height": 880,
-                                    "width": 450,
-                                    "duration": 2988,
-                                    "start": 6200,
-                                    "loopDelay": 3000,
-                                    "position": {
-                                        "x": 0,
-                                        "y": 0
-                                    },
-                                    "zIndex": 101,
-                                    "randomizedSources": []
-                                }
-                            ]
-                        },
-                        {
-                            "type": 2,
-                            "sku_id": "1427463138646954035",
-                            "asset": "nameplates/orb/infinite_swirl/",
-                            "label": "Glowing purple and cyan rings spiral and pulse across the nameplate with a soft glow.",
-                            "palette": "violet"
-                        }
-                    ],
-                    "type": 1000,
-                    "premium_type": 0,
-                    "category_sku_id": "1332505418219655258",
-                    "bundled_products": [
-                        {
-                            "sku_id": "1427463138634109027",
-                            "name": "Infinite Swirl",
-                            "summary": "Give your avatar a new look.",
-                            "type": 0,
-                            "premium_type": 0,
-                            "prices": {
-                                "0": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 3500,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                },
-                                "4": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 3500,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                }
-                            }
-                        },
-                        {
-                            "sku_id": "1427463138634109028",
-                            "name": "Infinite Swirl",
-                            "summary": "Show this effect when others view your profile.",
-                            "type": 1,
-                            "premium_type": 0,
-                            "prices": {
-                                "0": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 3500,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                },
-                                "4": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 3500,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                }
-                            }
-                        },
-                        {
-                            "sku_id": "1427463138646954035",
-                            "name": "Infinite Swirl",
-                            "summary": "Make your name stand out in servers and chats.",
-                            "type": 2,
-                            "premium_type": 0,
-                            "prices": {
-                                "0": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 3500,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                },
-                                "4": {
-                                    "country_prices": {
-                                        "country_code": "US",
-                                        "prices": [
-                                            {
-                                                "amount": 3500,
-                                                "currency": "discord_orb",
-                                                "exponent": 0
-                                            }
-                                        ]
-                                    }
-                                }
-                            }
-                        }
-                    ],
-                    "google_sku_ids": {},
-                    "is_first_party": true
-                },
-                {
-                    "sku_id": "1427463138634109026",
-                    "name": "Magic Mists",
-                    "summary": "Give your avatar a new look.",
-                    "store_listing_id": "1427463138634109026",
-                    "styles": {
-                        "background_colors": [
-                            1335620,
-                            137742
-                        ],
-                        "button_colors": [
-                            165687,
-                            26954
-                        ],
-                        "confetti_colors": [
-                            15706103,
-                            11945665,
-                            5682099,
-                            1737113,
-                            7430319,
-                            11454463
-                        ]
-                    },
-                    "prices": {
-                        "0": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 3500,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        },
-                        "4": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 3500,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "preview_assets": null,
-                    "items": [
-                        {
-                            "type": 0,
-                            "sku_id": "1427463138634109026",
-                            "asset": "a_75348082d14b5097708444fca20a09e0",
-                            "label": "Cyan and purple neon glow swirls around the avatar with ethereal mist effects."
-                        }
-                    ],
-                    "type": 0,
-                    "premium_type": 0,
-                    "category_sku_id": "1332505418219655258",
-                    "google_sku_ids": {},
-                    "is_first_party": true
-                },
-                {
-                    "sku_id": "1427463138634109027",
-                    "name": "Infinite Swirl",
-                    "summary": "Give your avatar a new look.",
-                    "store_listing_id": "1427463138634109027",
-                    "styles": {
-                        "background_colors": [
-                            1335620,
-                            137742
-                        ],
-                        "button_colors": [
-                            165687,
-                            26954
-                        ],
-                        "confetti_colors": [
-                            15706103,
-                            11945665,
-                            5682099,
-                            1737113,
-                            7430319,
-                            11454463
-                        ]
-                    },
-                    "prices": {
-                        "0": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 3500,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        },
-                        "4": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 3500,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "preview_assets": null,
-                    "items": [
-                        {
-                            "type": 0,
-                            "sku_id": "1427463138634109027",
-                            "asset": "a_f824f7f3d04732ce5e2ff0f3f05d1937",
-                            "label": "Purple, cyan, and magenta rings spin around the avatar in endless rotating motion."
-                        }
-                    ],
-                    "type": 0,
-                    "premium_type": 0,
-                    "category_sku_id": "1332505418219655258",
-                    "google_sku_ids": {},
-                    "is_first_party": true
-                },
-                {
-                    "sku_id": "1332505467980873728",
-                    "name": "Pondering Portal",
-                    "summary": "Dazzling thoughts create neon sparks.",
-                    "store_listing_id": "1332505467980873728",
-                    "styles": {
-                        "background_colors": [
-                            1335620,
-                            137742
-                        ],
-                        "button_colors": [
-                            165687,
-                            26954
-                        ],
-                        "confetti_colors": [
-                            15706103,
-                            11945665,
-                            5682099,
-                            1737113,
-                            7430319,
-                            11454463
-                        ]
-                    },
-                    "prices": {
-                        "0": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 3500,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        },
-                        "4": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 3500,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "preview_assets": null,
-                    "items": [
-                        {
-                            "type": 0,
-                            "sku_id": "1332505467980873728",
-                            "asset": "a_9532e6bc08133eb1401c654a4f1a800e",
-                            "label": "A neon array of green, pink, purple, and teal sparks circulate the avatar. They fade in and out in a dazzling display."
-                        }
-                    ],
-                    "type": 0,
-                    "premium_type": 0,
-                    "category_sku_id": "1332505418219655258",
-                    "google_sku_ids": {
-                        "5": "1332505467980873728_1339328503488971005",
-                        "7": "1332505467980873728_1339328518999244901"
-                    },
-                    "is_first_party": true
-                },
-                {
                     "sku_id": "1427463138634109028",
                     "name": "Infinite Swirl",
                     "summary": "Show this effect when others view your profile.",
@@ -3504,10 +3667,10 @@
                     "is_first_party": true
                 },
                 {
-                    "sku_id": "1351351503339913256",
-                    "name": "Magic Mists",
-                    "summary": "Show this effect when others view your profile.",
-                    "store_listing_id": "1351351503339913256",
+                    "sku_id": "1332505467980873728",
+                    "name": "Pondering Portal",
+                    "summary": "Dazzling thoughts create neon sparks.",
+                    "store_listing_id": "1332505467980873728",
                     "styles": {
                         "background_colors": [
                             1335620,
@@ -3555,182 +3718,19 @@
                     "preview_assets": null,
                     "items": [
                         {
-                            "type": 1,
-                            "sku_id": "1351351503339913256",
-                            "title": "Magic Mists",
-                            "description": "Show this effect when others view your profile.",
-                            "accessibilityLabel": "A mystical wave of blue and purple liquid mist swirls across the profile and leaves a trail of sparkles in its wake.",
-                            "animationType": 2,
-                            "thumbnailPreviewSrc": "https://cdn.discordapp.com/assets/content/c3584d52591bb5aff2e76076fef76983c915dd36905377976d826c2792a6c3d4",
-                            "reducedMotionSrc": "https://cdn.discordapp.com/assets/content/1a6451793d9262b1622fcce87cee6a5f7e9cc744cdd2e8a592048292416666af",
-                            "effects": [
-                                {
-                                    "src": "https://cdn.discordapp.com/assets/content/fdb8865d25c8dff8fb2f8f54a45727962d704fe2b195e5a89ecc8b83fcaf9d5a",
-                                    "loop": true,
-                                    "height": 880,
-                                    "width": 450,
-                                    "duration": 3901,
-                                    "start": 0,
-                                    "loopDelay": 7500,
-                                    "position": {
-                                        "x": 0,
-                                        "y": 0
-                                    },
-                                    "zIndex": 100,
-                                    "randomizedSources": []
-                                },
-                                {
-                                    "src": "https://cdn.discordapp.com/assets/content/d841d5ec632d017baac4dcfa2b5d8f9c9e6da970c76734e09708052a04aac48d",
-                                    "loop": true,
-                                    "height": 880,
-                                    "width": 450,
-                                    "duration": 3735,
-                                    "start": 7500,
-                                    "loopDelay": 3500,
-                                    "position": {
-                                        "x": 0,
-                                        "y": 0
-                                    },
-                                    "zIndex": 101,
-                                    "randomizedSources": []
-                                }
-                            ]
+                            "type": 0,
+                            "sku_id": "1332505467980873728",
+                            "asset": "a_9532e6bc08133eb1401c654a4f1a800e",
+                            "label": "A neon array of green, pink, purple, and teal sparks circulate the avatar. They fade in and out in a dazzling display."
                         }
                     ],
-                    "type": 1,
+                    "type": 0,
                     "premium_type": 0,
                     "category_sku_id": "1332505418219655258",
-                    "google_sku_ids": {},
-                    "is_first_party": true
-                },
-                {
-                    "sku_id": "1427463138646954035",
-                    "name": "Infinite Swirl",
-                    "summary": "Make your name stand out in servers and chats.",
-                    "store_listing_id": "1427463138646954035",
-                    "styles": {
-                        "background_colors": [
-                            1335620,
-                            137742
-                        ],
-                        "button_colors": [
-                            165687,
-                            26954
-                        ],
-                        "confetti_colors": [
-                            15706103,
-                            11945665,
-                            5682099,
-                            1737113,
-                            7430319,
-                            11454463
-                        ]
+                    "google_sku_ids": {
+                        "5": "1332505467980873728_1339328503488971005",
+                        "7": "1332505467980873728_1339328518999244901"
                     },
-                    "prices": {
-                        "0": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 3500,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        },
-                        "4": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 3500,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "preview_assets": null,
-                    "items": [
-                        {
-                            "type": 2,
-                            "sku_id": "1427463138646954035",
-                            "asset": "nameplates/orb/infinite_swirl/",
-                            "label": "Glowing purple and cyan rings spiral and pulse across the nameplate with a soft glow.",
-                            "palette": "violet"
-                        }
-                    ],
-                    "type": 2,
-                    "premium_type": 0,
-                    "category_sku_id": "1332505418219655258",
-                    "google_sku_ids": {},
-                    "is_first_party": true
-                },
-                {
-                    "sku_id": "1427463138646954036",
-                    "name": "Magic Mists",
-                    "summary": "Make your name stand out in servers and chats.",
-                    "store_listing_id": "1427463138646954036",
-                    "styles": {
-                        "background_colors": [
-                            1335620,
-                            137742
-                        ],
-                        "button_colors": [
-                            165687,
-                            26954
-                        ],
-                        "confetti_colors": [
-                            15706103,
-                            11945665,
-                            5682099,
-                            1737113,
-                            7430319,
-                            11454463
-                        ]
-                    },
-                    "prices": {
-                        "0": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 3500,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        },
-                        "4": {
-                            "country_prices": {
-                                "country_code": "US",
-                                "prices": [
-                                    {
-                                        "amount": 3500,
-                                        "currency": "discord_orb",
-                                        "exponent": 0
-                                    }
-                                ]
-                            }
-                        }
-                    },
-                    "preview_assets": null,
-                    "items": [
-                        {
-                            "type": 2,
-                            "sku_id": "1427463138646954036",
-                            "asset": "nameplates/orb/magical_mist/",
-                            "label": "Blue and cyan mists flow gently across the nameplate with a soft ethereal glow.",
-                            "palette": "cobalt"
-                        }
-                    ],
-                    "type": 2,
-                    "premium_type": 0,
-                    "category_sku_id": "1332505418219655258",
-                    "google_sku_ids": {},
                     "is_first_party": true
                 }
             ],
